@@ -1,0 +1,9 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/jest-diff" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
