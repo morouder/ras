@@ -496,6 +496,13 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/SudirAuthenticationProvider.java" timestamp="1588005084425">
+        <mark key="'" line="2" column="65" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="19" />
+      </file>
       <file name="$USER_HOME$/Lab/RasDataSource/pom.xml" timestamp="1588004012455">
         <mark key="'" line="18" column="7" />
         <mark key="[" line="27" column="24" />
@@ -574,9 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/service/UserServiceImpl.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/Application.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/Application.java" />
       <jump line="43" column="0" filename="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/Application.java" />
       <jump line="49" column="0" filename="$USER_HOME$/Lab/rasconnpool/pom.xml" />
       <jump line="8" column="15" filename="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/service/UserService.java" />
@@ -674,16 +678,19 @@
       <jump line="40" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="18" column="7" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
+      <jump line="16" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/SudirAuthenticationProvider.java" />
+      <jump line="9" column="67" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/SudirAuthenticationProvider.java" />
+      <jump line="2" column="65" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/SudirAuthenticationProvider.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>repos</text>
+        <text>Provider</text>
       </register>
       <register name="0" type="4">
         <text>X-Authorization</text>
@@ -692,37 +699,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTZWN1cml0eUNvbnRleHRIb2xkZXIuZ2V0Q29udGV4dCgpLnNldEF1dGhlbnRpY2F0aW9uKGF1dGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2hvdWxkQXV0aGVudGljYXRlQWdhaW5zdFRoaXJkUGFydHlTeXN0ZW0oKSkgewoKICAgICAgICAgICAgLy8gdXNlIHRoZSBjcmVkZW50aWFscwogICAgICAgICAgICAvLyBhbmQgYXV0aGVudGljYXRlIGFnYWluc3QgdGhlIHRoaXJkLXBhcnR5IHN5c3RlbQogICAgICAgICAgICByZXR1cm4gbmV3IFVzZXJuYW1lUGFzc3dvcmRBdXRoZW50aWNhdGlvblRva2VuKAogICAgICAgICAgICAgICAgICAgIG5hbWUsIHBhc3N3b3JkLCBuZXcgQXJyYXlMaXN0PD4oKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRoZW50aWNhdGlvbiBhdXRoID0gand0VG9rZW5Qcm92aWRlci5nZXRBdXRoZW50aWNhdGlvbih0b2tlbik7Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFN1ZGlyQXV0aGVudGljYXRpb25Qcm92aWRlciB7Cn0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZWN1cml0eUNvbnRleHRIb2xkZXIuZ2V0Q29udGV4dCgpLnNldEF1dGhlbnRpY2F0aW9uKGF1dGgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFN1ZGlyQXV0aEZpbHRlciB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdXRoZW50aWNhdGlvbiBhdXRoID0gand0VG9rZW5Qcm92aWRlci5nZXRBdXRoZW50aWNhdGlvbih0b2tlbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LlByb3h5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hc3BlY3RqLndlYXZlci5hc3QuT3I7Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFN1ZGlyQXV0aEZpbHRlciB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>repos</last-search>
+      <last-search>Provider</last-search>
       <last-offset />
-      <last-pattern>repos</last-pattern>
+      <last-pattern>Provider</last-pattern>
       <last-replace>SudirAuthToken</last-replace>
       <last-substitute>DemoAuthenticationToken</last-substitute>
       <last-dir>1</last-dir>
@@ -730,8 +737,6 @@
     </search>
     <history>
       <history-search>
-        <entry>secu</entry>
-        <entry>getall</entry>
         <entry>get</entry>
         <entry>getAll</entry>
         <entry>web</entry>
@@ -750,6 +755,8 @@
         <entry>rest</entry>
         <entry>user</entry>
         <entry>repos</entry>
+        <entry>provider</entry>
+        <entry>Provider</entry>
       </history-search>
       <history-cmd>
         <entry>1,10/s/^/5</entry>
