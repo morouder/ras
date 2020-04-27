@@ -420,12 +420,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588001038724">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588003872192">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="35" column="43" />
-        <mark key="." line="35" column="43" />
-        <mark key="^" line="35" column="43" />
+        <mark key="[" line="31" column="54" />
+        <mark key="]" line="33" column="33" />
+        <mark key="." line="33" column="33" />
+        <mark key="^" line="33" column="33" />
       </file>
       <file name="/JavaScript Console" timestamp="1528485215055">
         <mark key="[" line="0" column="0" />
@@ -496,12 +496,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/pom.xml" timestamp="1588000071437">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="35" column="33" />
+      <file name="$USER_HOME$/Lab/RasDataSource/pom.xml" timestamp="1588004012455">
+        <mark key="'" line="18" column="7" />
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/apl/common/SecurityContextHolderUserProvider.java" timestamp="1584221836232">
         <mark key="'" line="7" column="0" />
@@ -574,7 +574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="22" filename="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/service/UserServiceImpl.java" />
       <jump line="70" column="0" filename="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/service/UserServiceImpl.java" />
       <jump line="68" column="0" filename="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/Application.java" />
       <jump line="74" column="0" filename="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/Application.java" />
@@ -674,19 +673,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="40" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
+      <jump line="18" column="7" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGh0dHBTZXJ2bGV0UmVzcG9uc2U=</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGh0dHBTZXJ2bGV0UmVzcG9uc2U=</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>repos</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bG9nZ2luZy5sZXZlbC5vcmcuc3ByaW5nZnJhbWV3b3JrPUVSUk9SCg==</text>
+      <register name="0" type="4">
+        <text>X-Authorization</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
