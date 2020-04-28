@@ -504,7 +504,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/RestAuthenticationEntryPoint.java" timestamp="1588051247242">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/RestAuthenticationEntryPoint.java" timestamp="1588059009529">
         <mark key="[" line="13" column="110" />
         <mark key="]" line="13" column="109" />
         <mark key="." line="13" column="109" />
@@ -515,12 +515,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/SudirAuthenticationProvider.java" timestamp="1588054224245">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/SudirAuthenticationProvider.java" timestamp="1588059481573">
         <mark key="'" line="10" column="41" />
-        <mark key="[" line="42" column="69" />
-        <mark key="]" line="42" column="71" />
+        <mark key="[" line="35" column="1" />
+        <mark key="]" line="35" column="2" />
         <mark key="^" line="42" column="71" />
-        <mark key="." line="42" column="71" />
+        <mark key="." line="35" column="1" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/pom.xml" timestamp="1588053170331">
         <mark key="'" line="76" column="25" />
