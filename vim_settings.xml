@@ -9,12 +9,11 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" timestamp="1588089102005">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="1" />
-        <mark key="." line="110" column="1" />
-        <mark key="^" line="110" column="1" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" timestamp="1588104967766">
+        <mark key="'" line="28" column="13" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/test/java/ru/lafore/HighArrayTest.java" timestamp="1576439709867">
         <mark key="'" line="9" column="9" />
@@ -53,12 +52,12 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" timestamp="1588090240897">
-        <mark key="'" line="36" column="9" />
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="32" column="26" />
-        <mark key="." line="32" column="26" />
-        <mark key="^" line="32" column="26" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" timestamp="1588104962613">
+        <mark key="'" line="36" column="38" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="44" />
+        <mark key="." line="32" column="91" />
+        <mark key="^" line="32" column="91" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/doc/src/site/markdown/index.md" timestamp="1526751109255">
         <mark key="'" line="20" column="0" />
@@ -572,12 +571,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" timestamp="1588089938665">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" timestamp="1588103223836">
         <mark key="'" line="24" column="30" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="12" column="45" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasConnection.java" timestamp="1587990169854">
         <mark key="[" line="34" column="0" />
@@ -687,7 +686,6 @@
       <jump line="24" column="39" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
       <jump line="42" column="37" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
       <jump line="22" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="26" column="18" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
       <jump line="28" column="18" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
       <jump line="30" column="18" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
       <jump line="0" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
@@ -703,45 +701,46 @@
       <jump line="80" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
       <jump line="60" column="0" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
       <jump line="32" column="33" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" />
-      <jump line="36" column="9" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" />
       <jump line="32" column="33" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
       <jump line="4" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
       <jump line="20" column="24" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
       <jump line="24" column="30" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
+      <jump line="36" column="38" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" />
+      <jump line="26" column="13" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICIiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4gKG5hbWUgPSAibGFzdF9uYW1lIikKICAgIFN0cmluZyBsYXN0X25hbWU7Cg==</text>
+        <text encoding="base64">ICAgQENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKCJyYXMuZGF0YXNvdXJjZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcuc2V0SmRiY1VybCgiamRiYzpvcmFjbGU6dGhpbjpAbG9jYWxob3N0OjE1MjEvYXBsY29yZSIpOwo=</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICIiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuaGlrYXJpLmpkYmMtdXJsPWpkYmM6b3JhY2xlOnRoaW46QGxvY2FsaG9zdDoxNTIxL2FwbGNvcmUK</text>
+        <text encoding="base64">ICAgICAgICBIaWthcmlDb25maWcgY29uZmlnID0gbmV3IEhpa2FyaUNvbmZpZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIGkvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcuc2V0SmRiY1VybCgiamRiYzpvcmFjbGU6dGhpbjpAbG9jYWxob3N0OjE1MjEvYXBsY29yZSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+amF2YXgueG1sLmJpbmQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmpheGItYXBpPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjMuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuaGlrYXJpLmpkYmMtdXJsPWpkYmM6b3JhY2xlOnRoaW46QGxvY2FsaG9zdDoxNTIxL2FwbGNvcmUK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAqLwo=</text>
