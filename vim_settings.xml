@@ -120,7 +120,6 @@
         <mark key="^" line="38" column="4" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-orm/5.2.4.RELEASE/spring-orm-5.2.4.RELEASE.jar!/org/springframework/orm/hibernate5/SpringSessionContext.class" timestamp="1588110531632" />
       <file name="$USER_HOME$/IdeaProjects/javacore/tictactoe/src/main/java/ru/sbt/tictactoe/AIPlayer.java" timestamp="1528237941290">
         <mark key="'" line="104" column="27" />
         <mark key="[" line="104" column="0" />
@@ -264,7 +263,6 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="/RasDataSource.java" timestamp="1588083252770" />
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/config/parent/RASConfig.java" timestamp="1588065440649">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="18" column="11" />
@@ -609,7 +607,6 @@
       <file name="/fragment.java" timestamp="1588110678713">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.4.RELEASE/spring-aop-5.2.4.RELEASE.jar!/org/springframework/aop/MethodBeforeAdvice.class" timestamp="1588138503997" />
     </filemarks>
     <jumps>
       <jump line="9" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" />
