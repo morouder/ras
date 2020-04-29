@@ -325,7 +325,7 @@
         <mark key="^" line="118" column="5" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588119051517">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588140999011">
         <mark key="'" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" timestamp="1588109344969">
@@ -380,12 +380,6 @@
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/repository/UserRepository.java" timestamp="1587907860804">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Lab/conn_pool/src/main/resources/liquibase.properties" timestamp="1584137070871">
         <mark key="'" line="5" column="49" />
         <mark key="[" line="1" column="0" />
@@ -403,12 +397,12 @@
       <file name="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.4.2/HikariCP-3.4.2.jar!/com/zaxxer/hikari/pool/ProxyConnection.class" timestamp="1588121212952">
         <mark key="'" line="152" column="90" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/DetachSessionAdvice.java" timestamp="1588138475695">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/DetachSessionAdvice.java" timestamp="1588140094509">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="27" />
-        <mark key="^" line="16" column="27" />
-        <mark key="." line="16" column="27" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="1" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/RasConnection.java" timestamp="1587275106417">
         <mark key="[" line="18" column="32" />
@@ -498,12 +492,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588062760513">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588141097196">
         <mark key="'" line="2" column="40" />
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="15" column="24" />
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="43" column="41" />
+        <mark key="." line="43" column="41" />
+        <mark key="^" line="43" column="41" />
       </file>
       <file name="/JavaScript Console" timestamp="1528485215055">
         <mark key="[" line="0" column="0" />
@@ -574,14 +568,18 @@
         <mark key="." line="31" column="3" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/SudirAuthenticationProvider.java" timestamp="1588063184819">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/SudirAuthenticationProvider.java" timestamp="1588140902248">
         <mark key="'" line="10" column="41" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/pom.xml" timestamp="1588118871601">
-        <mark key="'" line="60" column="0" />
+      <file name="$USER_HOME$/Lab/RasDataSource/pom.xml" timestamp="1588141644507">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/model/Customer.java" timestamp="1584169655253">
         <mark key="'" line="22" column="1" />
@@ -713,52 +711,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SGlrYXJpUHJveHlDb25uZWN0aW9uIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SGlrYXJpUHJveHlDb25uZWN0aW9uIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>close</text>
+        <text>parent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jdXJyZW50U2Vzc2lvbiA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNPTlRFWFQ6IiArIFNlY3VyaXR5Q29udGV4dEhvbGRlci5nZXRDb250ZXh0KCkuZ2V0QXV0aGVudGljYXRpb24oKS5nZXRQcmluY2lwYWwoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IC8vICAgQEluamVjdAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmFzQ29ubmVjdGlvbi5pc0Nsb3NlZCgpKSByZXR1cm47Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IC8vICAgQEluamVjdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">IC8vICAgQEluamVjdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIERldGFjaFNlc3Npb25BZHZpY2Ugewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50TW9uaXRvci5yZW1vdmUoQ29ubmVjdGlvbi5jbGFzcy5jYXN0KHRhcmdldCkpOwo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIERldGFjaFNlc3Npb25BZHZpY2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50TW9uaXRvci5yZW1vdmUoQ29ubmVjdGlvbi5jbGFzcy5jYXN0KHRhcmdldCkpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2VjdXJpdHlDb250ZXh0SG9sZGVyIHNlY3VyaXR5Q29udGV4dEhvbGRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyB1c2VyTmFtZSA9IFNlY3VyaXR5Q29udGV4dEhvbGRlci5nZXRDb250ZXh0KCkuZ2V0QXV0aGVudGljYXRpb24oKS5nZXROYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2VjdXJpdHlDb250ZXh0SG9sZGVyIHNlY3VyaXR5Q29udGV4dEhvbGRlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>close</last-search>
+      <last-search>parent</last-search>
       <last-offset />
-      <last-pattern>close</last-pattern>
+      <last-pattern>parent</last-pattern>
       <last-replace>SudirAuthToken</last-replace>
       <last-substitute>DemoAuthenticationToken</last-substitute>
       <last-dir>1</last-dir>
@@ -766,7 +764,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>getConn</entry>
         <entry>clo</entry>
         <entry>supp</entry>
@@ -786,6 +783,7 @@
         <entry encoding="base64">XDx4c1Nlc3Npb25NYW5hZ2VyXD4=</entry>
         <entry>jpa</entry>
         <entry>close</entry>
+        <entry>parent</entry>
       </history-search>
       <history-cmd>
         <entry>1,10/s/^/5</entry>
