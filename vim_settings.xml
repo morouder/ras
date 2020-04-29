@@ -106,6 +106,15 @@
       <file name="$USER_HOME$/Lab/conn_pool/src/main/resources/master-changelog.xml" timestamp="1584138005506">
         <mark key="[" line="12" column="75" />
       </file>
+      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/java/ru/sbrf/lab/spingtutor/ioc/Message.java" timestamp="1588198911858">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/java/ru/sbrf/lab/spingtutor/ioc/MessageRunnerWithFileSystemApplicationContext.java" timestamp="1588198965421">
+        <mark key="[" line="2" column="60" />
+      </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/DataSourceConfig.java" timestamp="1586834009024">
         <mark key="'" line="133" column="0" />
         <mark key="[" line="26" column="0" />
@@ -517,6 +526,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Lab/springtutor/ioc/pom.xml" timestamp="1588199182400">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="19" column="36" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="19" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/lesson4/src/main/java/ru/sbt/building/AbstractDoor.java" timestamp="1528239153049">
         <mark key="'" line="4" column="33" />
