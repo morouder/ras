@@ -403,7 +403,7 @@
       <file name="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.4.2/HikariCP-3.4.2.jar!/com/zaxxer/hikari/pool/ProxyConnection.class" timestamp="1588121212952">
         <mark key="'" line="152" column="90" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/DetachSessionAdvice.java" timestamp="1588121259209">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/DetachSessionAdvice.java" timestamp="1588138475695">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="16" column="12" />
         <mark key="]" line="16" column="27" />
@@ -607,6 +607,7 @@
       <file name="/fragment.java" timestamp="1588110678713">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.4.RELEASE/spring-aop-5.2.4.RELEASE.jar!/org/springframework/aop/MethodBeforeAdvice.class" timestamp="1588138503997" />
     </filemarks>
     <jumps>
       <jump line="19" column="0" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
