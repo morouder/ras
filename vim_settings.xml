@@ -325,8 +325,12 @@
         <mark key="^" line="118" column="5" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588140999011">
-        <mark key="'" line="28" column="0" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588173006123">
+        <mark key="'" line="57" column="105" />
+        <mark key="[" line="31" column="53" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="34" column="18" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" timestamp="1588109344969">
         <mark key="'" line="37" column="38" />
@@ -492,12 +496,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588141097196">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588172903070">
         <mark key="'" line="2" column="40" />
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="43" column="41" />
-        <mark key="." line="43" column="41" />
-        <mark key="^" line="43" column="41" />
+        <mark key="[" line="41" column="59" />
+        <mark key="]" line="42" column="3" />
+        <mark key="^" line="42" column="3" />
+        <mark key="." line="42" column="3" />
       </file>
       <file name="/JavaScript Console" timestamp="1528485215055">
         <mark key="[" line="0" column="0" />
@@ -608,9 +612,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.4.RELEASE/spring-aop-5.2.4.RELEASE.jar!/org/springframework/aop/MethodBeforeAdvice.class" timestamp="1588138503997" />
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
-      <jump line="56" column="7" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/model/User.java" />
-      <jump line="30" column="4" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/model/User.java" />
       <jump line="9" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" />
       <jump line="25" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" />
       <jump line="2" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/ExceptionUtil.java" />
@@ -708,55 +709,58 @@
       <jump line="146" column="36" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.4.2/HikariCP-3.4.2.jar!/com/zaxxer/hikari/pool/ProxyConnection.class" />
       <jump line="150" column="135" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.4.2/HikariCP-3.4.2.jar!/com/zaxxer/hikari/pool/ProxyConnection.class" />
       <jump line="152" column="90" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.4.2/HikariCP-3.4.2.jar!/com/zaxxer/hikari/pool/ProxyConnection.class" />
+      <jump line="117" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="57" column="105" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>parent</text>
+        <text>getCu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNPTlRFWFQ6IiArIFNlY3VyaXR5Q29udGV4dEhvbGRlci5nZXRDb250ZXh0KCkuZ2V0QXV0aGVudGljYXRpb24oKS5nZXRQcmluY2lwYWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24KICAgICAgICAgICAgICAgIHwgWFNFeGNlcHRpb24KICAgICAgICAgICAgICAgIHwgTm9TdWNoQWxnb3JpdGhtRXhjZXB0aW9uCiAgICAgICAgICAgICAgICB8IEludmFsaWRLZXlFeGNlcHRpb24KICAgICAgICAgICAgICAgIHwgSW52YWxpZEtleVNwZWNFeGNlcHRpb24KICAgICAgICAgICAgICAgIHwgSW52YWxpZEFsZ29yaXRobVBhcmFtZXRlckV4Y2VwdGlvbiBlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmFzQ29ubmVjdGlvbi5pc0Nsb3NlZCgpKSByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IC8vICAgQEluamVjdAo=</text>
+        <text encoding="base64">ICAgIEBCZWFuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IC8vICAgQEluamVjdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIERldGFjaFNlc3Npb25BZHZpY2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEJlYW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50TW9uaXRvci5yZW1vdmUoQ29ubmVjdGlvbi5jbGFzcy5jYXN0KHRhcmdldCkpOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBDb25uZWN0aW9uIG1hbmFnZXJDb25uZWN0aW9uID0gRHJpdmVyTWFuYWdlci5nZXRDb25uZWN0aW9uKAogICAgICAgICAgICAgICAgICAgICJqZGJjOm9yYWNsZTp0aGluOkBsb2NhbGhvc3Q6MTUyMS9hcGxjb3JlIgogICAgICAgICAgICAgICAgICAgICwgInNlY19kaXNwYXRjaGVyIgogICAgICAgICAgICAgICAgICAgICwgInNlY2Rpc3BhdGNoZXJwYXNzIik7CiAgICAgICAgICAgIHhzU2Vzc2lvbk1hbmFnZXIgPSBYU1Nlc3Npb25NYW5hZ2VyLmdldFNlc3Npb25NYW5hZ2VyKG1hbmFnZXJDb25uZWN0aW9uLCAzMCwgODAwMDAwMCk7CiAgICAgICAgICAgIGlmICh1c2VyLmVxdWFscygiYW5vbnltb3VzIikpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRoaXMuY3VycmVudFNlc3Npb24gPSB4c1Nlc3Npb25NYW5hZ2VyLmNyZWF0ZUFub255bW91c1Nlc3Npb24oCiAgICAgICAgICAgICAgICAgICAgICAgIHJhc0Nvbm5lY3Rpb24udW53cmFwKE9yYWNsZUNvbm5lY3Rpb24uY2xhc3MpLAogICAgICAgICAgICAgICAgICAgICAgICBudWxsLCBudWxsKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgIHRoaXMuY3VycmVudFNlc3Npb24gPQogICAgICAgICAgICAgICAgICAgICAgICB4c1Nlc3Npb25NYW5hZ2VyLmNyZWF0ZVNlc3Npb24ocmFzQ29ubmVjdGlvbi51bndyYXAoT3JhY2xlQ29ubmVjdGlvbi5jbGFzcykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIHVzZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIG51bGwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIG51bGwKICAgICAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgfQogICAgICAgICAgICB4c1Nlc3Npb25NYW5hZ2VyLmF0dGFjaFNlc3Npb24ocmFzQ29ubmVjdGlvbi51bndyYXAoT3JhY2xlQ29ubmVjdGlvbi5jbGFzcyksCiAgICAgICAgICAgICAgICAgICAgdGhpcy5jdXJyZW50U2Vzc2lvbiwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCk7Ci8vdG9kbyBtYWtlIGhhbmRsZXIKICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24KICAgICAgICAgICAgICAgIHwgWFNFeGNlcHRpb24KICAgICAgICAgICAgICAgIHwgTm9TdWNoQWxnb3JpdGhtRXhjZXB0aW9uCiAgICAgICAgICAgICAgICB8IEludmFsaWRLZXlFeGNlcHRpb24KICAgICAgICAgICAgICAgIHwgSW52YWxpZEtleVNwZWNFeGNlcHRpb24KICAgICAgICAgICAgICAgIHwgSW52YWxpZEFsZ29yaXRobVBhcmFtZXRlckV4Y2VwdGlvbiBlKQogICAgICAgIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGlmICghKHRoaXMuY3VycmVudFNlc3Npb24gPT0gbnVsbCkgJiYgISh0aGlzLnhzU2Vzc2lvbk1hbmFnZXIgPT0gbnVsbCkpIHsKICAgICAgICAgICAgICAgICAgICB4c1Nlc3Npb25NYW5hZ2VyLmRldGFjaFNlc3Npb24odGhpcy5jdXJyZW50U2Vzc2lvbik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKFhTRXhjZXB0aW9uIGVlKSB7fTsKICAgICAgICAgICAgU3RyaW5nV3JpdGVyIHN3ID0gbmV3IFN0cmluZ1dyaXRlcigpOwogICAgICAgICAgICBQcmludFdyaXRlciBwdyA9IG5ldyBQcmludFdyaXRlcihzdyk7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKHB3KTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN3LnRvU3RyaW5nKCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2VjdXJpdHlDb250ZXh0SG9sZGVyIHNlY3VyaXR5Q29udGV4dEhvbGRlcjsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoICgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>parent</last-search>
+      <last-search>getCu</last-search>
       <last-offset />
-      <last-pattern>parent</last-pattern>
+      <last-pattern>getCu</last-pattern>
       <last-replace>SudirAuthToken</last-replace>
       <last-substitute>DemoAuthenticationToken</last-substitute>
       <last-dir>1</last-dir>
@@ -764,8 +768,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getConn</entry>
-        <entry>clo</entry>
         <entry>supp</entry>
         <entry>Close</entry>
         <entry>rest</entry>
@@ -784,6 +786,8 @@
         <entry>jpa</entry>
         <entry>close</entry>
         <entry>parent</entry>
+        <entry>get</entry>
+        <entry>getCu</entry>
       </history-search>
       <history-cmd>
         <entry>1,10/s/^/5</entry>
