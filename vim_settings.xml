@@ -16,9 +16,6 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1588048783959">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/javaadvanced/pom.xml" timestamp="1526596971010">
         <mark key="'" line="11" column="2" />
         <mark key="[" line="1" column="50" />
@@ -108,9 +105,6 @@
         <mark key="]" line="11" column="33" />
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
-      </file>
-      <file name="$USER_HOME$/Lab/conn_pool/src/main/resources/master-changelog.xml" timestamp="1584138005506">
-        <mark key="[" line="12" column="75" />
       </file>
       <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/java/ru/sbrf/lab/spingtutor/ioc/Message.java" timestamp="1588198911858">
         <mark key="[" line="7" column="5" />
@@ -247,9 +241,6 @@
         <mark key="." line="54" column="39" />
         <mark key="^" line="54" column="38" />
       </file>
-      <file name="$USER_HOME$/Lab/yandex/yanterview/.gitignore" timestamp="1576439444673">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/security/SecurityServiceImpl.java" timestamp="1586584279031">
         <mark key="'" line="35" column="1" />
         <mark key="[" line="14" column="0" />
@@ -263,9 +254,6 @@
         <mark key="]" line="18" column="1" />
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
-      </file>
-      <file name="/a.sql" timestamp="1528482315371">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/exception/MissingRequiredFieldException.java" timestamp="1587892386314">
         <mark key="[" line="0" column="0" />
@@ -405,6 +393,13 @@
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="57" />
       </file>
+      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-user-manager.puml" timestamp="1588537092303">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Lab/conn_pool/src/main/resources/liquibase.properties" timestamp="1584137070871">
         <mark key="'" line="5" column="49" />
         <mark key="[" line="1" column="0" />
@@ -470,12 +465,12 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" timestamp="1588536327308">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" timestamp="1588538923016">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="52" column="17" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tvision/src/main/java/Tvision.java" timestamp="1528241300049">
         <mark key="'" line="3" column="33" />
@@ -530,9 +525,6 @@
         <mark key="]" line="42" column="3" />
         <mark key="^" line="42" column="3" />
         <mark key="." line="42" column="3" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1528485215055">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/test/java/ru/uchkur/model/UserTest.java" timestamp="1575908255178">
         <mark key="'" line="29" column="0" />
@@ -660,26 +652,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1588110678713">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="16" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="20" column="13" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="57" column="7" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="118" column="48" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="110" column="38" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="86" column="19" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="116" column="8" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="29" column="13" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="47" column="37" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="24" column="39" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="42" column="37" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="28" column="18" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
-      <jump line="30" column="18" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
       <jump line="0" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
       <jump line="29" column="11" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" />
       <jump line="2" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" />
@@ -753,11 +727,9 @@
       <jump line="36" column="10" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="46" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="13" column="26" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="28" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="21" column="5" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="11" column="36" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
-      <jump line="17" column="8" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="45" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="10" column="8" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="2" column="22" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-login-use-case.puml" />
@@ -765,55 +737,72 @@
       <jump line="329" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="2" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="1" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
+      <jump line="9" column="6" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-user-manager.puml" />
+      <jump line="40" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-user-manager.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-user-manager.puml" />
+      <jump line="10" column="21" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-user-manager.puml" />
+      <jump line="18" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-user-manager.puml" />
+      <jump line="6" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
+      <jump line="16" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
+      <jump line="5" column="15" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
+      <jump line="25" column="19" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
+      <jump line="41" column="13" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
+      <jump line="20" column="19" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
+      <jump line="36" column="37" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
+      <jump line="84" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
+      <jump line="60" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
+      <jump line="52" column="17" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
+      <jump line="17" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aGlkZSBtZXRob2RzCg==</text>
+        <text encoding="base64">J2hpZGUgbWV0aG9kcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>Nginx</text>
+        <text>legend</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2tpbnBhcmFtIE5vZGVGb250Q29sb3IgZ3JheQo=</text>
+      <register name="0" type="4">
+        <text>DockerImageProxyServer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aGlkZSBtZXRob2RzCg==</text>
+        <text encoding="base64">J2hpZGUgbWV0aG9kcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2tpbnBhcmFtIG5vZGVzZXAgMTAKc2tpbnBhcmFtIHJhbmtzZXAgMjAKCi8nCiAnIFN0eWxlIGZvciBQbGFudFVNTCcKICcvCgonQ29uc3RhbnQgRGVmaW5pdGlvbgohZGVmaW5lIEZPTlRTRVJJRiBOb3RvIFNlcmlmCiFkZWZpbmUgRk9OVFNBTlMgTm90byBTYW5zCiFkZWZpbmUgRk9OVE1PTk8gSW5jb25zb2xhdGEKCidHZW5lcmFsCnNraW5wYXJhbSBzaGFkb3dpbmcgZmFsc2UKc2tpbnBhcmFtIGhhbmR3cml0dGVuIGZhbHNlCnNraW5wYXJhbSBiYWNrZ3JvdW5kQ29sb3IgdHJhbnNwYXJlbnQKc2tpbnBhcmFtIGNvbXBvbmVudFN0eWxlIHVtbDIKc2tpbnBhcmFtIGRwaSAzMDAKCidEZWZhdWx0Jwpza2lucGFyYW0gZGVmYXVsdHsKICAnRm9udCBTdHlsZQogIEZvbnRDb2xvciBCbGFjawogIEZvbnROYW1lIEZPTlRTQU5TCiAgRm9udFNpemUgMTAKICBGb250U3R5bGUgcGxhaW4KICBNb25vc3BhY2VkRm9udE5hbWUgRk9OVE1PTk8KCiAgJ090aGVyIFN0eWxlCiAgVGV4dEFsaWdubWVudCBsZWZ0Cn0Kc2tpbnBhcmFtIHBhZGRpbmcgMgoKJ0hlYWRlcgpza2lucGFyYW0gaGVhZGVyIHsKICBGb250Q29sb3IgQmxhY2sKICBGb250TmFtZSBGT05UU0FOUwogIEZvbnRTaXplIDEwCiAgRm9udFN0eWxlIHBsYWluCn0KCidGb290ZXIKc2tpbnBhcmFtIGZvb3RlciB7CiAgRm9udENvbG9yIEJsYWNrCiAgRm9udE5hbWUgRk9OVFNBTlMKICBGb250U2l6ZSAxMAogIEZvbnRTdHlsZSBwbGFpbgp9CgonVGl0bGUgKGluaGVyaXRzIGZyb20gRGVmYXVsdCkKc2tpbnBhcmFtIHRpdGxlIHsKICAnRm9udCBTdHlsZSAoaW5oZXJpdHMgZnJvbSBEZWZhdWx0KQogIEZvbnRTaXplIDE0CgogICdCb3JkZXIgQ29sb3IKICBCYWNrZ3JvdW5kQ29sb3IgdHJhbnNwYXJlbnQKICBCb3JkZXJDb2xvciBXaGl0ZQogIEJvcmRlclJvdW5kQ29ybmVyIDAKICBCb3JkZXJUaGlja25lc3MgMAp9CgonQXJyb3cKc2tpbnBhcmFtIGFycm93IHsKICAnRm9udCBTdHlsZSAoaW5oZXJpdHMgZnJvbSBEZWZhdWx0KQogIEZvbnROYW1lIEZPTlRTRVJJRgoKICAnQ29sb3IKICBDb2xvciBCbGFjawogIExvbGxpcG9wQ29sb3IgQmxhY2sKICBUaGlja25lc3MgMQogIE1lc3NhZ2VBbGlnbm1lbnQgY2VudGVyCn0KCidOb3RlCnNraW5wYXJhbSBub3RlIHsKICAnRm9udCBTdHlsZQogIEZvbnRDb2xvciBCbGFjawogIEZvbnROYW1lIEZPTlRTRVJJRgogIEZvbnRTaXplIDEwCiAgRm9udFN0eWxlIHBsYWluCgogICdDb2xvcgogIEJhY2tncm91bmRDb2xvciBMZW1vbkNoaWZmb24KICBCb3JkZXJDb2xvciBCbGFjawogIEJvcmRlclRoaWNrbmVzcyAxCn0KCidOb2RlCnNraW5wYXJhbSBub2RlIHsKICAnRm9udCBTdHlsZSAoaW5oZXJpdHMgZnJvbSBEZWZhdWx0KQogIEZvbnRTaXplIDE0CiAgU3RlcmVvdHlwZUZvbnRDb2xvciBCbGFjawogIFN0ZXJlb3R5cGVGb250TmFtZSBGT05UTU9OTwogIFN0ZXJlb3R5cGVGb250U2l6ZSAxMgogIFN0ZXJlb3R5cGVGb250U3R5bGUgcGxhaW4KCiAgJ0JvcmRlciBDb2xvcgogIEJhY2tncm91bmRDb2xvciBXaGl0ZQogIEJvcmRlckNvbG9yIEJsYWNrCn0KCidSZWN0YW5nbGUKc2tpbnBhcmFtIHJlY3RhbmdsZSB7CiAgJ0ZvbnQgU3R5bGUgKGluaGVyaXRzIGZyb20gRGVmYXVsdCkKICBGb250U2l6ZSAxNAogIFN0ZXJlb3R5cGVGb250Q29sb3IgQmxhY2sKICBTdGVyZW90eXBlRm9udE5hbWUgRk9OVE1PTk8KICBTdGVyZW90eXBlRm9udFNpemUgMTIKICBTdGVyZW90eXBlRm9udFN0eWxlIHBsYWluCgogICdCb3JkZXIgQ29sb3IKICBCYWNrZ3JvdW5kQ29sb3IgV2hpdGUKICBCb3JkZXJDb2xvciBCbGFjawogIEJvcmRlclRoaWNrbmVzcyAxCn0KCidGb2xkZXIKc2tpbnBhcmFtIGZvbGRlciB7CiAgJ0ZvbnQgU3R5bGUgKGluaGVyaXRzIGZyb20gRGVmYXVsdCkKICBTdGVyZW90eXBlRm9udENvbG9yIEJsYWNrCiAgU3RlcmVvdHlwZUZvbnROYW1lIEZPTlRNT05PCiAgU3RlcmVvdHlwZUZvbnRTaXplIDEwCiAgU3RlcmVvdHlwZUZvbnRTdHlsZSBwbGFpbgoKICAnQm9yZGVyIENvbG9yCiAgQmFja2dyb3VuZENvbG9yIFdoaXRlCiAgQm9yZGVyQ29sb3IgQmxhY2sKfQoKJ0ZyYW1lCnNraW5wYXJhbSBmcmFtZSB7CiAgJ0ZvbnQgU3R5bGUgKGluaGVyaXRzIGZyb20gRGVmYXVsdCkKICBTdGVyZW90eXBlRm9udENvbG9yIEJsYWNrCiAgU3RlcmVvdHlwZUZvbnROYW1lIEZPTlRNT05PCiAgU3RlcmVvdHlwZUZvbnRTaXplIDEwCiAgU3RlcmVvdHlwZUZvbnRTdHlsZSBwbGFpbgoKICAnQm9yZGVyIENvbG9yCiAgQmFja2dyb3VuZENvbG9yIFdoaXRlCiAgQm9yZGVyQ29sb3IgQmxhY2sKfQoKJ0Nsb3VkCnNraW5wYXJhbSBjbG91ZCB7CiAgJ0ZvbnQgU3R5bGUgKGluaGVyaXRzIGZyb20gRGVmYXVsdCkKICBGb250U2l6ZSAxNAogIFN0ZXJlb3R5cGVGb250Q29sb3IgQmxhY2sKICBTdGVyZW90eXBlRm9udE5hbWUgRk9OVE1PTk8KICBTdGVyZW90eXBlRm9udFNpemUgMTIKICBTdGVyZW90eXBlRm9udFN0eWxlIHBsYWluCgogICdCb3JkZXIgQ29sb3IKICBCYWNrZ3JvdW5kQ29sb3IgV2hpdGUKICBCb3JkZXJDb2xvciBCbGFjawp9CgonRGF0YWJhc2UKc2tpbnBhcmFtIGRhdGFiYXNlIHsKICAnRm9udCBTdHlsZSAoaW5oZXJpdHMgZnJvbSBEZWZhdWx0KQogIEZvbnRTaXplIDE0CiAgU3RlcmVvdHlwZUZvbnRDb2xvciBCbGFjawogIFN0ZXJlb3R5cGVGb250TmFtZSBGT05UTU9OTwogIFN0ZXJlb3R5cGVGb250U2l6ZSAxMgogIFN0ZXJlb3R5cGVGb250U3R5bGUgcGxhaW4KCiAgJ0JvcmRlciBDb2xvcgogIEJhY2tncm91bmRDb2xvciBXaGl0ZQogIEJvcmRlckNvbG9yIEJsYWNrCn0KCidQYWNrYWdlIChkZWZhdWx0IHN0eWxlKQpza2lucGFyYW0gcGFja2FnZSB7CiAgJ1N0eWxlCiAgU3R5bGUgZm9sZGVyCiAgVGl0bGVBbGlnbm1lbnQgY2VudGVyCgogICdGb250IFN0eWxlIChpbmhlcml0cyBmcm9tIERlZmF1bHQpCiAgU3RlcmVvdHlwZUZvbnRDb2xvciBCbGFjawogIFN0ZXJlb3R5cGVGb250TmFtZSBGT05UTU9OTwogIFN0ZXJlb3R5cGVGb250U2l6ZSAxMAogIFN0ZXJlb3R5cGVGb250U3R5bGUgcGxhaW4KCiAgJ0JvcmRlciBDb2xvcgogIEJhY2tncm91bmRDb2xvciBXaGl0ZQogIEJvcmRlckNvbG9yIEJsYWNrCiAgQm9yZGVyVGhpY2tuZXNzIDEKfQoKJ0FjdG9yCnNraW5wYXJhbSBhY3RvciB7CiAgJ0ZvbnQgU3R5bGUgKGluaGVyaXRzIGZyb20gRGVmYXVsdCkKICBGb250U2l6ZSAxNAoKICAnQm9yZGVyIENvbG9yCiAgQmFja2dyb3VuZENvbG9yIFdoaXRlU21va2UKICBCb3JkZXJDb2xvciBCbGFjawp9CgonQm91bmRhcnkKc2tpbnBhcmFtIGJvdW5kYXJ5IHsKICAnRm9udCBTdHlsZSAoaW5oZXJpdHMgZnJvbSBEZWZhdWx0KQogIEZvbnRTaXplIDE0CgogICdCb3JkZXIgQ29sb3IKICBCYWNrZ3JvdW5kQ29sb3IgV2hpdGVTbW9rZQogIEJvcmRlckNvbG9yIEJsYWNrCn0KCidDb250cm9sCnNraW5wYXJhbSBjb250cm9sIHsKICAnRm9udCBTdHlsZSAoaW5oZXJpdHMgZnJvbSBEZWZhdWx0KQogIEZvbnRTaXplIDE0CgogICdCb3JkZXIgQ29sb3IKICBCYWNrZ3JvdW5kQ29sb3IgV2hpdGVTbW9rZQogIEJvcmRlckNvbG9yIEJsYWNrCn0KCidFbnRpdHkKc2tpbnBhcmFtIGVudGl0eSB7CiAgJ0ZvbnQgU3R5bGUgKGluaGVyaXRzIGZyb20gRGVmYXVsdCkKICBGb250U2l6ZSAxNAoKICAnQm9yZGVyIENvbG9yCiAgQmFja2dyb3VuZENvbG9yIFdoaXRlU21va2UKICBCb3JkZXJDb2xvciBCbGFjawp9CgonQ29sbGVjdGlvbnMKc2tpbnBhcmFtIGNvbGxlY3Rpb25zIHsKICAnRm9udCBTdHlsZSAoaW5oZXJpdHMgZnJvbSBEZWZhdWx0KQogIEZvbnRTaXplIDE0CgogICdCb3JkZXIgQ29sb3IKICBCYWNrZ3JvdW5kQ29sb3IgV2hpdGVTbW9rZQogIEJvcmRlckNvbG9yIEJsYWNrCn0KCidQYXJ0aWNpcGFudApza2lucGFyYW0gcGFydGljaXBhbnQgewogICdGb250IFN0eWxlIChpbmhlcml0cyBmcm9tIERlZmF1bHQpCiAgRm9udFNpemUgMTQKCiAgJ0JvcmRlciBDb2xvciBhbmQgUGFkZGluZwogIEJhY2tncm91bmRDb2xvciBXaGl0ZVNtb2tlCiAgQm9yZGVyQ29sb3IgQmxhY2sKICBQYWRkaW5nIDIwCn0KCidTZXF1ZW5jZSBEaWFncmFtcwpoaWRlIGZvb3Rib3gKc2tpbnBhcmFtIEJveFBhZGRpbmcgMTAKJ3NraW5wYXJhbSBNYXhNZXNzYWdlU2l6ZSAxMDAKc2tpbnBhcmFtIHNlcXVlbmNlIHsKICAnQWN0b3IsIEJvdW5kYXJ5LCBDb250cm9sLCBFbnRpdHksIGFuZCBDb2xsZWN0aW9ucwogIEFjdG9yQm9yZGVyVGhpY2tuZXNzIDEKCiAgJ0Fycm93CiAgQXJyb3dUaGlja25lc3MgMQoKICAnQm94IChpbmhlcml0cyBmcm9tIERlZmF1bHQpCiAgQm94QmFja2dyb3VuZENvbG9yIHRyYW5zcGFyZW50CiAgQm94Qm9yZGVyQ29sb3IgQmxhY2sKCiAgJ0RlbGF5IChpbmhlcml0cyBmcm9tIERlZmF1bHQpCgogICdEaXZpZGVyIChpbmhlcml0cyBmcm9tIERlZmF1bHQpCiAgRGl2aWRlckJhY2tncm91bmRDb2xvciB0cmFuc3BhcmVudAogIERpdmlkZXJCb3JkZXJDb2xvciBHcmF5CiAgRGl2aWRlckJvcmRlclRoaWNrbmVzcyAxCgogICdHcm91cCAoaW5oZXJpdHMgZnJvbSBEZWZhdWx0KQogIEdyb3VwRm9udE5hbWUgRk9OVFNFUklGCiAgR3JvdXBIZWFkZXJGb250TmFtZSBGT05UU0FOUwogIEdyb3VwQmFja2dyb3VuZENvbG9yIFdoaXRlU21va2UKICBHcm91cEJvZHlCYWNrZ3JvdW5kQ29sb3IgV2hpdGUKICBHcm91cEJvcmRlckNvbG9yIEJsYWNrCiAgR3JvdXBCb3JkZXJUaGlja25lc3MgMQoKICAnTGlmZSBsaW5lCiAgTGlmZUxpbmVCYWNrZ3JvdW5kQ29sb3IgdHJhbnNwYXJlbnQKICBMaWZlTGluZUJvcmRlckNvbG9yIEJsYWNrCiAgTGlmZUxpbmVCb3JkZXJUaGlja25lc3MgMQoKICAnTWVzc2FnZQogIE1lc3NhZ2VBbGlnbm1lbnQgY2VudGVyCiAgTWVzc2FnZVRleHRBbGlnbm1lbnQgbGVmdAoKICAnTmV3cGFnZQogIE5ld3BhZ2VTZXBhcmF0b3JDb2xvciBHcmF5CgogICdQYXJ0aWNpcGFudAogIFBhcnRpY2lwYW50IHBsYWluCiAgUGFydGljaXBhbnRCb3JkZXJUaGlja25lc3MgMQoKICAnUmVmZXJlbmNlIChpbmhlcml0cyBmcm9tIERlZmF1bHQpCiAgUmVmZXJlbmNlQmFja2dyb3VuZENvbG9yIFdoaXRlCiAgUmVmZXJlbmNlSGVhZGVyQmFja2dyb3VuZENvbG9yIFdoaXRlU21va2UKICBSZWZlcmVuY2VCb3JkZXJDb2xvciBCbGFjawogIFJlZmVyZW5jZUJvcmRlclRoaWNrbmVzcyAxCiAgUmVmZXJlbmNlQWxpZ25tZW50IGNlbnRlcgoKICAnU3RlcmVvdHlwZSAoaW5oZXJpdHMgdG8gQWN0b3IsIEJvdW5kYXJ5LCBDb250cm9sLCBFbnRpdHksIENvbGxlY3Rpb25zLCBEYXRhYmFzZSwgYW5kIFBhcnRpY2lwYW50KQogIFN0ZXJlb3R5cGVGb250Q29sb3IgQmxhY2sKICBTdGVyZW90eXBlRm9udE5hbWUgRk9OVE1PTk8KICBTdGVyZW90eXBlRm9udFNpemUgMTIKICBTdGVyZW90eXBlRm9udFN0eWxlIHBsYWluCgogICdUaXRsZSAoaW5oZXJpdHMgZnJvbSBEZWZhdWx0KQp9CgonQ2xhc3MKc2tpbnBhcmFtIGNsYXNzIHsKICAnRm9udCBTdHlsZSAoaW5oZXJpdHMgZnJvbSBEZWZhdWx0KQogIEZvbnRTaXplIDE0CiAgU3RlcmVvdHlwZUZvbnRDb2xvciBCbGFjawogIFN0ZXJlb3R5cGVGb250TmFtZSBGT05UTU9OTwogIFN0ZXJlb3R5cGVGb250U2l6ZSAxMgogIFN0ZXJlb3R5cGVGb250U3R5bGUgcGxhaW4KCiAgJ0NvbG9yCiAgQmFja2dyb3VuZENvbG9yIFdoaXRlCiAgSGVhZGVyQmFja2dyb3VuZENvbG9yIFdoaXRlCiAgQm9yZGVyQ29sb3IgQmxhY2sKICBCb3JkZXJUaGlja25lc3MgMQoKICAnQXR0cmlidXRpb25zCiAgQXR0cmlidXRlRm9udENvbG9yIEJsYWNrCiAgQXR0cmlidXRlRm9udE5hbWUgRk9OVE1PTk8KICBBdHRyaWJ1dGVGb250U2l6ZSAxMAogIEF0dHJpYnV0ZUZvbnRTdHlsZSBwbGFpbgogIEF0dHJpYnV0ZUljb25TaXplIDAKfQoKJ0ludGVyZmFjZSBDbGFzcwpza2lucGFyYW0gaW50ZXJmYWNlIHsKICBGb250U3R5bGUgaXRhbGljCn0KCidDaXJjbGVkIENoYXJhY3RlciBpbiBDbGFzcyBEaWFncmFtJwpoaWRlIGNpcmNsZQpza2lucGFyYW0gY2lyY2xlZCB7CiAgQ2hhcmFjdGVyRm9udENvbG9yIEJsYWNrCiAgQ2hhcmFjdGVyRm9udE5hbWUgRk9OVE1PTk8KICBDaGFyYWN0ZXJGb250U2l6ZSAxNAogIENoYXJhY3RlckZvbnRTdHlsZSBwbGFpbgogIENoYXJhY3RlclJhZGl1cyA4Cn0K</text>
+        <text encoding="base64">J1BEUC0tUkVTVAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2tpbnBhcmFtIGhhbmR3cml0dGVuIHRydWUK</text>
+        <text encoding="base64">J3VzZXJfbWFuYWdlci0tV1NETAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cmVjdGFuZ2xlIGhpZGRlbiB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">T3BlblNoaWZ0IC0tIERhdGFiYXNlU2VydmVyCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">c2tpbnBhcmFtIGRhdGFiYXNlewogICBoYW5kd3JpdHRlbiB0cnVlCn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">JyAgICBzaGFkb3dpbmcgZmFsc2UK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">JyAgICBmb250Q29sb3IgVHJhbnNwYXJlbnQK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">KFVzZSB0aGUgYXBwbGljYXRpb24pIGFzIChVc2UpCg==</text>
+        <text encoding="base64">JyAgICBib3JkZXJDb2xvciBUcmFuc3BhcmVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QVBMX1NFQ1VSSVRZIC0tIHVzZXJfbWFuYWdlcgo=</text>
+        <text encoding="base64">J2RhdGFiYXNlICJEYXRhYmFzZVNlcnZlciIgPDxkZXZpY2U+PnsKJ25vZGUgIk9yYWNsZV8xMl8yXzBfMSIgPDxkYXRhYmFzZSBzeXN0ZW0+PnsKJ3JlY3RhbmdsZSAgewonZW50aXR5ICJBUExfU0VDVVJJVFkiIDw8c2NoZW1hPj4KJ30KJ3JlY3RhbmdsZSAgewonZW50aXR5ICJBUExfQ09NTU9OX05TSSIgPDxzY2hlbWE+PgonfQonfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Nginx</last-search>
+      <last-search>legend</last-search>
       <last-offset />
-      <last-pattern>Nginx</last-pattern>
+      <last-pattern>legend</last-pattern>
       <last-replace>SudirAuthToken</last-replace>
       <last-substitute>DemoAuthenticationToken</last-substitute>
       <last-dir>1</last-dir>
@@ -821,11 +810,6 @@
     </search>
     <history>
       <history-search>
-        <entry>RasData</entry>
-        <entry encoding="base64">XDxSYXNEYXRhU291cmNlXD4=</entry>
-        <entry>datasou</entry>
-        <entry>attach</entry>
-        <entry encoding="base64">XDxnZXRNYW5hZ2VyQ29ubmVjdGlvblw+</entry>
         <entry encoding="base64">XDx4c1Nlc3Npb25NYW5hZ2VyXD4=</entry>
         <entry>jpa</entry>
         <entry>close</entry>
@@ -838,9 +822,14 @@
         <entry>side</entry>
         <entry>data</entry>
         <entry encoding="base64">XDxEYXRhYmFzZVNlcnZlclw+</entry>
-        <entry>sidecar</entry>
         <entry>nginx</entry>
         <entry>Nginx</entry>
+        <entry>mail</entry>
+        <entry>Mail</entry>
+        <entry>sidecar</entry>
+        <entry>concept</entry>
+        <entry>NG</entry>
+        <entry>legend</entry>
       </history-search>
       <history-cmd>
         <entry>1,10/s/^/5</entry>
