@@ -33,12 +33,12 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" timestamp="1588517035463">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="12" />
-        <mark key="^" line="21" column="31" />
-        <mark key="." line="22" column="12" />
+      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" timestamp="1588520055989">
+        <mark key="'" line="34" column="7" />
+        <mark key="[" line="31" column="10" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/manboard/src/main/resources/application.properties" timestamp="1582844578310">
         <mark key="'" line="12" column="33" />
@@ -652,8 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="40" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="18" column="7" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
@@ -739,68 +737,70 @@
       <jump line="57" column="105" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="11" column="36" filename="$USER_HOME$/Lab/springtutor/ioc/pom.xml" />
       <jump line="2" column="28" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
-      <jump line="8" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="27" column="23" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="11" column="8" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="25" column="17" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="31" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="18" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
-      <jump line="21" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
-      <jump line="34" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="12" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="30" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="10" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="32" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
+      <jump line="8" column="11" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
+      <jump line="21" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
+      <jump line="44" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
+      <jump line="14" column="8" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
+      <jump line="34" column="7" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ojw8cHJvdG9jb2w+PiBIVFRQUw==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ojw8cHJvdG9jb2w+PiBIVFRQUw==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>skin</text>
+        <text>side</text>
       </register>
-      <register name="0" type="4">
-        <text>PolicyDecitionPoint</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2tpbnBhcmFtIE5vZGVGb250Q29sb3IgZ3JheQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlcl9tYW5hZ2VyLS0K</text>
+        <text encoding="base64">UERQLS1OZ2lueFVzZXJNYW5hZ2VyOmh0dHAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcmZhY2UgItCh0KPQlNCY0KAiCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEJhY2tncm91bmRDb2xvciBibHVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICBub2RlICJQUk9YWSJ7Cg==</text>
+        <text encoding="base64">c2tpbnBhcmFtIERvY2tlckltYWdlUHJveHlTZXJ2ZXIgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">T3BlblNoaWZ0IC0tMC0tIERhdGFiYXNlU2VydmVyCgp9CgonY2xvdWQgewonICBbRXhhbXBsZSAxXQonfQoKCidkYXRhYmFzZSAiTXlTcWwiIHsKJyAgZm9sZGVyICJUaGlzIGlzIG15IGZvbGRlciIgewonICAgIFtGb2xkZXIgM10KJyAgfQonICBmcmFtZSAiRm9vIiB7CicgICAgW0ZyYW1lIDRdCicgIH0KJ30KJwonCidbQW5vdGhlciBDb21wb25lbnRdIC0tPiBbRXhhbXBsZSAxXQonW0V4YW1wbGUgMV0gLS0+IFtGb2xkZXIgM10KJ1tGb2xkZXIgM10gLS0+IFtGcmFtZSA0XQoK</text>
+        <text encoding="base64">c2tpbnBhcmFtIE5vZGVGb250Q29sb3IgZ3JheQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CidwYWNrYWdlICJTb21lIEdyb3VwIiA8PGRldmljZT4+IHsKJyAgSFRUUCAtIFtGaXJzdCBDb21wb25lbnRdCicgIFtBbm90aGVyIENvbXBvbmVudF0KJ30KJyAgRlRQIC0gW1NlY29uZCBDb21wb25lbnRdCicgIFtGaXJzdCBDb21wb25lbnRdIC0tPiBGVFAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IAoK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZW50aXR5ICJBUExfU0VDVVJJVFkiIDw8c2NoZW1hPj4K</text>
+      <register name="7" type="4">
+        <text encoding="base64">MAoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VjdGFuZ2xlICB7Cg==</text>
+        <text encoding="base64">PC9zdHlsZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVjdGFuZ2xlICJzIgo=</text>
+        <text encoding="base64">JyBzdHlsZSBlbmNsb3N1cmUgZGVjbGFyYXRpb24KPHN0eWxlPgogICAgJyBzY29wZSB0byBzZXF1ZW5jZURpYWdyYW0gZWxlbWVudHMKICAgIHNlcXVlbmNlRGlhZ3JhbSB7CgogICAgICAnIHNjb3BlIHRvIGFjdG9yIGVsZW1lbnQgdHlwZXMKICAgICAgYWN0b3IgewogICAgICAgIEZvbnRDb2xvciBCbHVlCiAgICAgIH0KCiAgICAgJyBkZWZpbmUgYSBuZXcgc3R5bGUsIHVzaW5nIENTUyBjbGFzcyBzeW50YXgKICAgICAubXlTdHlsZSB7CiAgICAgICAgRm9udENvbG9yIFJlZAogICAgIH0KCn0KPC9zdHlsZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>skin</last-search>
+      <last-search>side</last-search>
       <last-offset />
-      <last-pattern>skin</last-pattern>
+      <last-pattern>side</last-pattern>
       <last-replace>SudirAuthToken</last-replace>
       <last-substitute>DemoAuthenticationToken</last-substitute>
       <last-dir>1</last-dir>
@@ -808,9 +808,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Close</entry>
-        <entry>rest</entry>
-        <entry>user</entry>
         <entry>repos</entry>
         <entry>provider</entry>
         <entry>Provider</entry>
@@ -828,6 +825,9 @@
         <entry>get</entry>
         <entry>getCu</entry>
         <entry>skin</entry>
+        <entry>soadp</entry>
+        <entry>soap</entry>
+        <entry>side</entry>
       </history-search>
       <history-cmd>
         <entry>1,10/s/^/5</entry>
