@@ -362,12 +362,11 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" timestamp="1588575300044">
-        <mark key="'" line="19" column="37" />
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="19" column="32" />
+      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" timestamp="1588631146027">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/repository/UserRepository.java" timestamp="1586548092391">
         <mark key="[" line="7" column="54" />
@@ -661,7 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
       <jump line="64" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="26" column="34" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="4" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
@@ -761,13 +759,14 @@
       <jump line="27" column="29" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
       <jump line="19" column="37" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
+      <jump line="30" column="3" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBkcCAtPiBhcGxfbWFpbl9wcm94eTogc3RhdHVzIDIwMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>app_list</text>
@@ -776,31 +775,31 @@
         <text encoding="base64">Ym94ICJTVURJUiIgI0xpZ2h0Qmx1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcHNfbGlzdC0+dXNlcgo=</text>
+        <text encoding="base64">ICAgIHBkcCAtPiBhcGxfbWFpbl9wcm94eTogc3RhdHVzIDIwMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFwbF9tYWluX3Byb3h5IC0+IHBkcDogcGRwX2RlY2lzaW9uKCR1c2VybmFtZSwgJ2FwcC9hcHBsaXN0JykKICAgIHBkcCAtPiBwZHA6ICJjaGVjay9uIGF1dGgiCiAgICBwZHAgLT4gYXBsX21haW5fcHJveHk6IHN0YXR1cyAyMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWx0IEF1dGhvcml6ZWQK</text>
+        <text encoding="base64">QGVuZHVtbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2tpbnBhcmFtZXRlcnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwcHNfbGlzdC0+dXNlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">J2JvdW4KJ2FjdG9yIGFjdG9yCidhZ2VudCBhZ2VudAonYXJ0aWZhY3QgYXJ0aWZhY3QKJ2JvdW5kYXJ5IGJvdW5kYXJ5CidjYXJkIGNhcmQKJ2Nsb3VkIGNsb3VkCidjb21wb25lbnQgY29tcG9uZW50Cidjb250cm9sIGNvbnRyb2wKJ2RhdGFiYXNlIGRhdGFiYXNlCidlbnRpdHkgZW50aXR5CidmaWxlIGZpbGUKJ2ZvbGRlciBmb2xkZXIKJ2ZyYW1lIGZyYW1lCidpbnRlcmZhY2UgIGludGVyZmFjZQonbm9kZSBub2RlCidwYWNrYWdlIHBhY2thZ2UKJ3F1ZXVlIHF1ZXVlCidzdGFjayBzdGFjawoncmVjdGFuZ2xlIHJlY3RhbmdsZQonc3RvcmFnZSBzdG9yYWdlCid1c2VjYXNlIHVzZWNhc2UK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1ZGlyX3dlYnNlYWwgLT4gYXBsX21haW5fcHJveHk6IEdFVCAvaG9zdAo=</text>
+        <text encoding="base64">YWx0IEF1dGhvcml6ZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlciAtPiBzdWRpcl93ZWJzZWFsOiBHRVQgL2hvc3QKc3VkaXJfd2Vic2VhbCAtPiBzdWRpcl93ZWJzZWFsOiAiY2hlY2tcbmF1dGgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ym91bmRhcnkgIldlYiBTZWFsIiAgYXMgc3VkaXJfd2Vic2VhbCA8PFNVRElSPj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/app_lists/apps_list</text>
