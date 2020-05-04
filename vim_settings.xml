@@ -362,12 +362,12 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" timestamp="1588542917679">
-        <mark key="'" line="25" column="6" />
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-        <mark key="^" line="1" column="16" />
+      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" timestamp="1588575300044">
+        <mark key="'" line="19" column="37" />
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/repository/UserRepository.java" timestamp="1586548092391">
         <mark key="[" line="7" column="54" />
@@ -466,12 +466,12 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" timestamp="1588542383421">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="63" column="13" />
-        <mark key="." line="63" column="13" />
-        <mark key="^" line="63" column="13" />
+      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" timestamp="1588567804898">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+        <mark key="^" line="2" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tvision/src/main/java/Tvision.java" timestamp="1528241300049">
         <mark key="'" line="3" column="33" />
@@ -661,13 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
-      <jump line="6" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
-      <jump line="20" column="13" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/config/parent/SecurityConfig.java" />
-      <jump line="63" column="5" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
-      <jump line="58" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/config/parent/SecurityConfig.java" />
       <jump line="108" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" />
       <jump line="64" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="26" column="34" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
@@ -705,8 +698,6 @@
       <jump line="44" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="14" column="8" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="58" column="6" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
-      <jump line="1" column="9" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
       <jump line="24" column="37" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="34" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="37" column="25" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
@@ -720,7 +711,6 @@
       <jump line="2" column="22" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-login-use-case.puml" />
       <jump line="3" column="24" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="329" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
-      <jump line="2" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="1" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="9" column="6" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-user-manager.puml" />
       <jump line="40" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-user-manager.puml" />
@@ -761,88 +751,94 @@
       <jump line="22" column="6" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
       <jump line="67" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="9" column="6" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-act.puml" />
+      <jump line="2" column="15" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
+      <jump line="1" column="29" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
+      <jump line="32" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
+      <jump line="9" column="2" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
+      <jump line="23" column="43" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
+      <jump line="24" column="4" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
+      <jump line="26" column="4" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
+      <jump line="27" column="29" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
+      <jump line="19" column="37" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VXNlciA=</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VXNlciA=</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>note</text>
+        <text>app_list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wb25lbnQgIk5HSU5YIiA8PHNpZGVjYXI+PiA8PGNvbmNlcHQ+PiBhcyBOZ2lueFVzZXJNYW5hZ2VyCg==</text>
+        <text encoding="base64">Ym94ICJTVURJUiIgI0xpZ2h0Qmx1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENsYXNzICB1c2VyIGV4dGVuZHMgdHVzZXIK</text>
+        <text encoding="base64">ICAgIGFwcHNfbGlzdC0+dXNlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIENsYXNzIHR1c2VyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWVzaW9qCg==</text>
+        <text encoding="base64">YWx0IEF1dGhvcml6ZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KCopICAtLT4gImNoZWNrIGlucHV0IgpJZiAiaW5wdXQgaXMgdmVyYm9zZSIgdGhlbgotLT4gW1llc10gInR1cm4gb24gdmVyYm9zaXR5IgotLT4gInJ1biBjb21tYW5kIgplbHNlCi0tPiAicnVuIGNvbW1hbmQiCkVuZGlmCi0tPigqKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcmZhY2UgIkhUTUwiIGFzIEhUTUxf0L/QsNC90LXQu9GMX9C30LDQv9GD0YHQutCwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wb25lbnQgIk5HSU5YIiA8PHNpZGVjYXI+PiA8PGNvbmNlcHQ+PiBhcyBOZ2lueFVzZXJNYW5hZ2VyCg==</text>
+        <text encoding="base64">J2JvdW4KJ2FjdG9yIGFjdG9yCidhZ2VudCBhZ2VudAonYXJ0aWZhY3QgYXJ0aWZhY3QKJ2JvdW5kYXJ5IGJvdW5kYXJ5CidjYXJkIGNhcmQKJ2Nsb3VkIGNsb3VkCidjb21wb25lbnQgY29tcG9uZW50Cidjb250cm9sIGNvbnRyb2wKJ2RhdGFiYXNlIGRhdGFiYXNlCidlbnRpdHkgZW50aXR5CidmaWxlIGZpbGUKJ2ZvbGRlciBmb2xkZXIKJ2ZyYW1lIGZyYW1lCidpbnRlcmZhY2UgIGludGVyZmFjZQonbm9kZSBub2RlCidwYWNrYWdlIHBhY2thZ2UKJ3F1ZXVlIHF1ZXVlCidzdGFjayBzdGFjawoncmVjdGFuZ2xlIHJlY3RhbmdsZQonc3RvcmFnZSBzdG9yYWdlCid1c2VjYXNlIHVzZWNhc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5vZGUgIm5vZGUuanMiIDw8ZnJhbWV3b3JrPj57CiAgICBjb21wb25lbnQgImFwcGxpY2F0aW9uLWxpc3QiIGFzIGFwcGxpY2F0aW9uX2xpc3QKICAgIH0K</text>
+        <text encoding="base64">ICAgIHN1ZGlyX3dlYnNlYWwgLT4gYXBsX21haW5fcHJveHk6IEdFVCAvaG9zdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEb2NrZXJJbWFnZVByb3h5U2VydmVyLS1XU0RMX291dGVyCg==</text>
+        <text encoding="base64">dXNlciAtPiBzdWRpcl93ZWJzZWFsOiBHRVQgL2hvc3QKc3VkaXJfd2Vic2VhbCAtPiBzdWRpcl93ZWJzZWFsOiAiY2hlY2tcbmF1dGgiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcmZhY2UgIldTREwiCiAgICAgICAgaW50ZXJmYWNlICJSRVNUIgo=</text>
+        <text encoding="base64">Ym91bmRhcnkgIldlYiBTZWFsIiAgYXMgc3VkaXJfd2Vic2VhbCA8PFNVRElSPj4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/app_lists/apps_list</text>
       </register>
     </registers>
     <search>
-      <last-search>note</last-search>
+      <last-search>app_list</last-search>
       <last-offset />
-      <last-pattern>note</last-pattern>
-      <last-replace>SudirAuthToken</last-replace>
-      <last-substitute>DemoAuthenticationToken</last-substitute>
+      <last-pattern>app_list</last-pattern>
+      <last-replace>apps_list</last-replace>
+      <last-substitute>app_lists</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEYXRhYmFzZVNlcnZlclw+</entry>
-        <entry>nginx</entry>
-        <entry>Nginx</entry>
-        <entry>mail</entry>
-        <entry>Mail</entry>
-        <entry>sidecar</entry>
-        <entry>concept</entry>
         <entry>NG</entry>
         <entry>legend</entry>
         <entry>inter</entry>
         <entry>user</entry>
         <entry>applic</entry>
         <entry>load</entry>
-        <entry>NGINX</entry>
         <entry>node.js</entry>
         <entry>side</entry>
         <entry>applica</entry>
         <entry>HTML_панель</entry>
         <entry>NginxUser</entry>
         <entry>note</entry>
+        <entry>host</entry>
+        <entry>apl_app_list</entry>
+        <entry>nginx</entry>
+        <entry>NGINX</entry>
+        <entry>application</entry>
+        <entry>s</entry>
+        <entry>app_lists</entry>
+        <entry>app_list</entry>
       </history-search>
       <history-cmd>
-        <entry>1,10/s/^/5</entry>
-        <entry>1,10s/^/5</entry>
-        <entry>1,10s/^/\/\/</entry>
-        <entry>1,10s/^/[//]:</entry>
         <entry>1,10s/^/[\/\/]:</entry>
         <entry>registers</entry>
         <entry>actionlist</entry>
@@ -859,6 +855,10 @@
         <entry>W</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>%s/host/apl_app_list</entry>
+        <entry>%s/apl_app_list/applications</entry>
+        <entry>%s/application/app_list</entry>
+        <entry>%s/app_lists/apps_list</entry>
       </history-cmd>
       <history-expr />
       <history-input />
