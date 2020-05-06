@@ -112,11 +112,6 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/java/ru/sbrf/lab/spingtutor/ioc/MessageRunnerWithFileSystemApplicationContext.java" timestamp="1588200884673">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/DataSourceConfig.java" timestamp="1586834009024">
         <mark key="'" line="133" column="0" />
         <mark key="[" line="26" column="0" />
@@ -296,17 +291,18 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/RASSession.java" timestamp="1588794386620">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="35" />
+        <mark key="^" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/tictactoe_example/src/main/java/ru/sbt/tictactoe/Heuristic.java" timestamp="1527922583740">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
         <mark key="^" line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasConnection.java" timestamp="1587990169854">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="28" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/demo/src/main/java/com/example/demo/BlogController.java" timestamp="1582456118892">
         <mark key="'" line="0" column="0" />
@@ -335,12 +331,11 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588173006123">
-        <mark key="'" line="57" column="105" />
-        <mark key="[" line="31" column="53" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="34" column="18" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588797632969">
+        <mark key="'" line="79" column="23" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" timestamp="1588109344969">
         <mark key="'" line="37" column="38" />
@@ -387,6 +382,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/APLSession.java" timestamp="1588794916312">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/RasDataSourceApplication.java" timestamp="1587889805426">
         <mark key="[" line="10" column="0" />
@@ -491,12 +492,11 @@
         <mark key="^" line="56" column="20" />
         <mark key="." line="56" column="20" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/config/parent/SecurityConfig.java" timestamp="1588113508772">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="38" column="0" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/config/parent/SecurityConfig.java" timestamp="1588793077084">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-act.puml" timestamp="1588542878000">
         <mark key="'" line="1" column="6" />
@@ -537,12 +537,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588782458257">
-        <mark key="'" line="2" column="40" />
-        <mark key="[" line="65" column="12" />
-        <mark key="]" line="65" column="12" />
-        <mark key="." line="65" column="12" />
-        <mark key="^" line="66" column="57" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588797608558">
+        <mark key="'" line="50" column="23" />
+        <mark key="[" line="77" column="54" />
+        <mark key="]" line="77" column="56" />
+        <mark key="." line="77" column="56" />
+        <mark key="^" line="77" column="56" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/test/java/ru/uchkur/model/UserTest.java" timestamp="1575908255178">
         <mark key="'" line="29" column="0" />
@@ -605,11 +605,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="22" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588118321294">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras.puml" timestamp="1588480981179">
         <mark key="[" line="4" column="13" />
@@ -675,21 +670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="90" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.4.2/HikariCP-3.4.2.jar!/com/zaxxer/hikari/pool/ProxyConnection.class" />
-      <jump line="117" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
-      <jump line="57" column="105" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
-      <jump line="11" column="36" filename="$USER_HOME$/Lab/springtutor/ioc/pom.xml" />
-      <jump line="2" column="28" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
-      <jump line="27" column="23" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
-      <jump line="11" column="8" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
-      <jump line="25" column="17" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
-      <jump line="31" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
-      <jump line="18" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
-      <jump line="12" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
-      <jump line="30" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
-      <jump line="10" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="32" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="8" column="11" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
       <jump line="21" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-comp.puml" />
@@ -775,55 +755,70 @@
       <jump line="0" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-seq-jsessionid.puml" />
       <jump line="66" column="6" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-seq-jsessionid.puml" />
       <jump line="15" column="25" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-seq-jsessionid.puml" />
+      <jump line="65" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
+      <jump line="68" column="29" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
+      <jump line="69" column="43" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
+      <jump line="50" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="122" column="37" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="89" column="4" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="99" column="38" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="105" column="24" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="111" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="124" column="61" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="92" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="96" column="68" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="33" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="79" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text encoding="base64">XDxtYW5hZ2VyQ29ubmVjdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbiBtYW5hZ2VyQ29ubmVjdGlvbiA9IERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbigKICAgICAgICAgICAgICAgICAgICAiamRiYzpvcmFjbGU6dGhpbjpAbG9jYWxob3N0OjE1MjEvYXBsY29yZSIKICAgICAgICAgICAgICAgICAgICAsICJzZWNfZGlzcGF0Y2hlciIKICAgICAgICAgICAgICAgICAgICAsICJzZWNkaXNwYXRjaGVycGFzcyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdWRpckF1dGhGaWx0ZXIuYXBwQ29ubmVjdGlvbiA9IGNvbm5lY3Rpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBYU1Nlc3Npb25NYW5hZ2VyIHhzU2Vzc2lvbk1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWRpckF1dGhGaWx0ZXIueHNTZXNzaW9uTWFuYWdlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4c1Nlc3Npb25NYW5hZ2VyID0gc3VkaXJBdXRoRmlsdGVyLnhzU2Vzc2lvbk1hbmFnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVTZXNzaW9uKFNlY3VyaXR5Q29udGV4dEhvbGRlci5nZXRDb250ZXh0KCkuZ2V0QXV0aGVudGljYXRpb24oKS5nZXRQcmluY2lwYWwoKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTZXNzaW9uIGdldFJhc1Nlc3Npb24oKSB7CiAgICAgICAgcmV0dXJuIHJhc1Nlc3Npb247CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UmFzU2Vzc2lvbihTZXNzaW9uIHJhc1Nlc3Npb24pIHsKICAgICAgICB0aGlzLnJhc1Nlc3Npb24gPSByYXNTZXNzaW9uOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QHN0YXJ0dW1sCkFsaWNlIC0+IEJvYjogQXV0aGVudGljYXRpb24gUmVxdWVzdApCb2IgLS0+IEFsaWNlOiBBdXRoZW50aWNhdGlvbiBSZXNwb25zZQoKQWxpY2UgLT4gQm9iOiBBbm90aGVyIGF1dGhlbnRpY2F0aW9uIFJlcXVlc3QKQWxpY2UgPC0tIEJvYjogYW5vdGhlciBhdXRoZW50aWNhdGlvbiBSZXNwb25zZQpAZW5kdW1sCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTZXNzaW9uIGdldFJhc1Nlc3Npb24oKSB7CiAgICAgICAgcmV0dXJuIHJhc1Nlc3Npb247CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UmFzU2Vzc2lvbihTZXNzaW9uIHJhc1Nlc3Npb24pIHsKICAgICAgICB0aGlzLnJhc1Nlc3Npb24gPSByYXNTZXNzaW9uOwogICAgfQoKICAgIHByaXZhdGUgU2Vzc2lvbiByYXNTZXNzaW9uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">QEF1dG93aXJlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW5kIGxvb3AK</text>
+        <text encoding="base64">aW1wb3J0IHJ1LnNicmYubGFiLnNlY3VyaXR5LlJBU1Nlc3Npb247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWN0aXZhdGUgYXBsX3NlY3VyaXR5X2RiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBzZXNzaW9uX21hbmFnZXIK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFJBU1Nlc3Npb24gZXh0ZW5kcyBTZXNzaW9uIHsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/app_lists/apps_list</text>
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search encoding="base64">XDxtYW5hZ2VyQ29ubmVjdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern encoding="base64">XDxtYW5hZ2VyQ29ubmVjdGlvblw+</last-pattern>
       <last-replace>apps_list</last-replace>
       <last-substitute>app_lists</last-substitute>
       <last-dir>1</last-dir>
@@ -831,10 +826,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
-        <entry>node.js</entry>
-        <entry>side</entry>
-        <entry>applica</entry>
         <entry>HTML_панель</entry>
         <entry>NginxUser</entry>
         <entry>note</entry>
@@ -851,6 +842,10 @@
         <entry>Request with RAS</entry>
         <entry>createSession</entry>
         <entry>login</entry>
+        <entry>appConn</entry>
+        <entry>deta</entry>
+        <entry>xsSe</entry>
+        <entry encoding="base64">XDxtYW5hZ2VyQ29ubmVjdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>1,10s/^/[\/\/]:</entry>
