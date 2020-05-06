@@ -71,7 +71,6 @@
         <mark key="^" line="126" column="86" />
         <mark key="." line="126" column="86" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/oracle/ras/xsee/1.0.0.0/xsee-1.0.0.0.jar!/oracle/security/xs/ee/session/provider/SessionProvider.class" timestamp="1588744102246" />
       <file name="$USER_HOME$/IdeaProjects/javacore/tvision/src/main/java/TApplication.java" timestamp="1528241370639">
         <mark key="'" line="32" column="4" />
         <mark key="[" line="4" column="13" />
@@ -187,6 +186,13 @@
         <mark key="^" line="31" column="47" />
         <mark key="." line="31" column="40" />
       </file>
+      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-seq-jsessionid.puml" timestamp="1588774329482">
+        <mark key="'" line="15" column="25" />
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+      </file>
       <file name="$USER_HOME$/repo/coda/src/main/java/RestApi.java" timestamp="1564902219704">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -262,7 +268,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/oracle/ras/xs/1.0.0.0/xs-1.0.0.0.jar!/oracle/security/xs/internal/SessionImpl.class" timestamp="1588742877583" />
       <file name="$USER_HOME$/IdeaProjects/javacore/tictactoe/src/main/java/ru/sbt/tictactoe/Board.java" timestamp="1528237437329">
         <mark key="'" line="39" column="22" />
         <mark key="[" line="6" column="22" />
@@ -310,7 +315,6 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/oracle/ras/xsee/1.0.0.0/xsee-1.0.0.0.jar!/oracle/security/xs/ee/session/provider/SessionProviderFactory.class" timestamp="1588744064083" />
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/OracleConfiguration.java" timestamp="1586805938935">
         <mark key="'" line="20" column="21" />
         <mark key="[" line="17" column="0" />
@@ -506,8 +510,8 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq-token.puml" timestamp="1588656095006">
-        <mark key="'" line="36" column="13" />
+      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq-token.puml" timestamp="1588774239032">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="61" column="49" />
         <mark key="]" line="36" column="13" />
         <mark key="^" line="36" column="13" />
@@ -625,7 +629,6 @@
         <mark key="." line="31" column="3" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/oracle/ras/xs/1.0.0.0/xs-1.0.0.0.jar!/oracle/security/xs/internal/SessionEventListener.class" timestamp="1588742840405" />
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/SudirAuthenticationProvider.java" timestamp="1588140902248">
         <mark key="'" line="10" column="41" />
         <mark key="[" line="37" column="0" />
@@ -669,10 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="30" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.4.2/HikariCP-3.4.2.jar!/com/zaxxer/hikari/pool/ProxyConnection.class" />
-      <jump line="141" column="40" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.4.2/HikariCP-3.4.2.jar!/com/zaxxer/hikari/pool/ProxyConnection.class" />
-      <jump line="146" column="36" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.4.2/HikariCP-3.4.2.jar!/com/zaxxer/hikari/pool/ProxyConnection.class" />
-      <jump line="150" column="135" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.4.2/HikariCP-3.4.2.jar!/com/zaxxer/hikari/pool/ProxyConnection.class" />
       <jump line="152" column="90" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.4.2/HikariCP-3.4.2.jar!/com/zaxxer/hikari/pool/ProxyConnection.class" />
       <jump line="117" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="42" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
@@ -763,19 +762,23 @@
       <jump line="29" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq-token.puml" />
       <jump line="30" column="40" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq-token.puml" />
       <jump line="47" column="7" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq-token.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq-token.puml" />
       <jump line="1" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq-token.puml" />
       <jump line="52" column="6" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq-token.puml" />
       <jump line="5" column="8" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq-token.puml" />
       <jump line="36" column="13" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq-token.puml" />
       <jump line="317" column="17" filename="$MAVEN_REPOSITORY$/com/oracle/ras/xs/1.0.0.0/xs-1.0.0.0.jar!/oracle/security/xs/internal/MasterSessionImpl.class" />
+      <jump line="13" column="11" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq-token.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq-token.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-seq-jsessionid.puml" />
+      <jump line="66" column="6" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-seq-jsessionid.puml" />
+      <jump line="15" column="25" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-seq-jsessionid.puml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZS5yYXM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnhzPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj5MQVRFU1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
@@ -784,31 +787,31 @@
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZS5yYXM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnhzPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj5MQVRFU1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">QHN0YXJ0dW1sCkFsaWNlIC0+IEJvYjogQXV0aGVudGljYXRpb24gUmVxdWVzdApCb2IgLS0+IEFsaWNlOiBBdXRoZW50aWNhdGlvbiBSZXNwb25zZQoKQWxpY2UgLT4gQm9iOiBBbm90aGVyIGF1dGhlbnRpY2F0aW9uIFJlcXVlc3QKQWxpY2UgPC0tIEJvYjogYW5vdGhlciBhdXRoZW50aWNhdGlvbiBSZXNwb25zZQpAZW5kdW1sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5kIGxvb3AK</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWN0aXZhdGUgYXBsX3NlY3VyaXR5X2RiCg==</text>
+        <text encoding="base64">ZW5kIGxvb3AK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBzZXNzaW9uX21hbmFnZXIK</text>
+        <text encoding="base64">YWN0aXZhdGUgYXBsX3NlY3VyaXR5X2RiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBwZHAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ZGVhY3RpdmF0ZSBzZXNzaW9uX21hbmFnZXIK</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZGVhY3RpdmF0ZSBwZHAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVhY3RpdmF0ZSBzZXNzaW9uX21hbmFnZXIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ZGVhY3RpdmF0ZSBwZHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBzZXNzaW9uX21hbmFnZXIK</text>
+        <text encoding="base64">ZGVhY3RpdmF0ZSBwZHAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/app_lists/apps_list</text>
