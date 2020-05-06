@@ -186,11 +186,11 @@
         <mark key="^" line="31" column="47" />
         <mark key="." line="31" column="40" />
       </file>
-      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-seq-jsessionid.puml" timestamp="1588774329482">
+      <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-seq-jsessionid.puml" timestamp="1588777135123">
         <mark key="'" line="15" column="25" />
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="36" />
-        <mark key="." line="11" column="36" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
         <mark key="^" line="11" column="36" />
       </file>
       <file name="$USER_HOME$/repo/coda/src/main/java/RestApi.java" timestamp="1564902219704">
