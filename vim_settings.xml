@@ -71,6 +71,7 @@
         <mark key="^" line="126" column="86" />
         <mark key="." line="126" column="86" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/oracle/ras/xsee/1.0.0.0/xsee-1.0.0.0.jar!/oracle/security/xs/ee/session/provider/SessionProvider.class" timestamp="1588744102246" />
       <file name="$USER_HOME$/IdeaProjects/javacore/tvision/src/main/java/TApplication.java" timestamp="1528241370639">
         <mark key="'" line="32" column="4" />
         <mark key="[" line="4" column="13" />
@@ -309,6 +310,7 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/oracle/ras/xsee/1.0.0.0/xsee-1.0.0.0.jar!/oracle/security/xs/ee/session/provider/SessionProviderFactory.class" timestamp="1588744064083" />
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/OracleConfiguration.java" timestamp="1586805938935">
         <mark key="'" line="20" column="21" />
         <mark key="[" line="17" column="0" />
@@ -415,9 +417,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="6" column="30" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.4.2/HikariCP-3.4.2.jar!/com/zaxxer/hikari/pool/ProxyConnection.class" timestamp="1588121212952">
-        <mark key="'" line="152" column="90" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/DetachSessionAdvice.java" timestamp="1588140094509">
         <mark key="'" line="25" column="0" />
@@ -633,12 +632,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/pom.xml" timestamp="1588141644507">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="17" />
+      <file name="$USER_HOME$/Lab/RasDataSource/pom.xml" timestamp="1588743410304">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="66" column="41" />
+        <mark key="]" line="66" column="27" />
+        <mark key="^" line="66" column="27" />
+        <mark key="." line="66" column="27" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/model/Customer.java" timestamp="1584169655253">
         <mark key="'" line="22" column="1" />
@@ -773,7 +772,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGVwIC0+IHBkcDogVmFsaWRhdGUgYWNjZXNzIHRva2VuCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZS5yYXM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnhzPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj5MQVRFU1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -782,7 +781,7 @@
         <text>login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGVwIC0+IHBkcDogVmFsaWRhdGUgYWNjZXNzIHRva2VuCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZS5yYXM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnhzPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj5MQVRFU1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZW5kCg==</text>
