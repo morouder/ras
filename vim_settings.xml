@@ -328,12 +328,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" timestamp="1588115174136">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" timestamp="1588779905462">
         <mark key="'" line="108" column="0" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="^" line="118" column="5" />
-        <mark key="." line="118" column="0" />
+        <mark key="[" line="118" column="4" />
+        <mark key="]" line="118" column="4" />
+        <mark key="^" line="93" column="39" />
+        <mark key="." line="118" column="4" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588173006123">
         <mark key="'" line="57" column="105" />
@@ -537,12 +537,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588778554245">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588782458257">
         <mark key="'" line="2" column="40" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="42" column="3" />
-        <mark key="^" line="42" column="3" />
-        <mark key="." line="42" column="3" />
+        <mark key="[" line="65" column="12" />
+        <mark key="]" line="65" column="12" />
+        <mark key="." line="65" column="12" />
+        <mark key="^" line="66" column="57" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/test/java/ru/uchkur/model/UserTest.java" timestamp="1575908255178">
         <mark key="'" line="29" column="0" />
@@ -670,6 +670,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1588780592486">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="152" column="90" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.4.2/HikariCP-3.4.2.jar!/com/zaxxer/hikari/pool/ProxyConnection.class" />
@@ -775,43 +778,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZS5yYXM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnhzPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj5MQVRFU1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbiBtYW5hZ2VyQ29ubmVjdGlvbiA9IERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbigKICAgICAgICAgICAgICAgICAgICAiamRiYzpvcmFjbGU6dGhpbjpAbG9jYWxob3N0OjE1MjEvYXBsY29yZSIKICAgICAgICAgICAgICAgICAgICAsICJzZWNfZGlzcGF0Y2hlciIKICAgICAgICAgICAgICAgICAgICAsICJzZWNkaXNwYXRjaGVycGFzcyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QHN0YXJ0dW1sCkFsaWNlIC0+IEJvYjogQXV0aGVudGljYXRpb24gUmVxdWVzdApCb2IgLS0+IEFsaWNlOiBBdXRoZW50aWNhdGlvbiBSZXNwb25zZQoKQWxpY2UgLT4gQm9iOiBBbm90aGVyIGF1dGhlbnRpY2F0aW9uIFJlcXVlc3QKQWxpY2UgPC0tIEJvYjogYW5vdGhlciBhdXRoZW50aWNhdGlvbiBSZXNwb25zZQpAZW5kdW1sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBYU1Nlc3Npb25NYW5hZ2VyIHhzU2Vzc2lvbk1hbmFnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW5kIGxvb3AK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWN0aXZhdGUgYXBsX3NlY3VyaXR5X2RiCg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVTZXNzaW9uKFNlY3VyaXR5Q29udGV4dEhvbGRlci5nZXRDb250ZXh0KCkuZ2V0QXV0aGVudGljYXRpb24oKS5nZXRQcmluY2lwYWwoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBzZXNzaW9uX21hbmFnZXIK</text>
+        <text encoding="base64">QHN0YXJ0dW1sCkFsaWNlIC0+IEJvYjogQXV0aGVudGljYXRpb24gUmVxdWVzdApCb2IgLS0+IEFsaWNlOiBBdXRoZW50aWNhdGlvbiBSZXNwb25zZQoKQWxpY2UgLT4gQm9iOiBBbm90aGVyIGF1dGhlbnRpY2F0aW9uIFJlcXVlc3QKQWxpY2UgPC0tIEJvYjogYW5vdGhlciBhdXRoZW50aWNhdGlvbiBSZXNwb25zZQpAZW5kdW1sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBwZHAK</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBzZXNzaW9uX21hbmFnZXIK</text>
+        <text encoding="base64">ZW5kIGxvb3AK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBwZHAK</text>
+        <text encoding="base64">YWN0aXZhdGUgYXBsX3NlY3VyaXR5X2RiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBwZHAK</text>
+        <text encoding="base64">ZGVhY3RpdmF0ZSBzZXNzaW9uX21hbmFnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/app_lists/apps_list</text>
