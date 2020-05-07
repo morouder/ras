@@ -539,12 +539,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588859127716">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588860965004">
         <mark key="'" line="118" column="33" />
-        <mark key="[" line="135" column="38" />
-        <mark key="]" line="135" column="38" />
-        <mark key="." line="135" column="38" />
-        <mark key="^" line="135" column="38" />
+        <mark key="[" line="128" column="10" />
+        <mark key="]" line="129" column="7" />
+        <mark key="." line="129" column="7" />
+        <mark key="^" line="129" column="7" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/test/java/ru/uchkur/model/UserTest.java" timestamp="1575908255178">
         <mark key="'" line="29" column="0" />
