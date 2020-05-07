@@ -160,7 +160,6 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.4.RELEASE/spring-aop-5.2.4.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class" timestamp="1588842459134" />
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/apl/common/DataSourceConfig.java" timestamp="1584193194578">
         <mark key="'" line="15" column="7" />
         <mark key="[" line="12" column="0" />
@@ -332,12 +331,13 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588844621049">
-        <mark key="'" line="111" column="0" />
-        <mark key="[" line="54" column="49" />
-        <mark key="]" line="54" column="70" />
-        <mark key="." line="54" column="70" />
-        <mark key="^" line="54" column="70" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588854618305">
+        <mark key="q" line="5" column="0" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="27" column="4" />
+        <mark key="^" line="27" column="4" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" timestamp="1588109344969">
         <mark key="'" line="37" column="38" />
@@ -680,7 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="6" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" />
       <jump line="67" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="9" column="6" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-act.puml" />
       <jump line="2" column="15" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
@@ -728,7 +727,6 @@
       <jump line="84" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="110" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="78" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="80" column="8" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="123" column="8" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="2" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
@@ -763,7 +761,6 @@
       <jump line="107" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="108" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="103" column="36" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
-      <jump line="108" column="70" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="112" column="53" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="117" column="39" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="119" column="83" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
@@ -780,10 +777,13 @@
       <jump line="56" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="55" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="111" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="108" column="24" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
         <text>sudirAu</text>
@@ -795,34 +795,34 @@
         <text encoding="base64">ICAgIHZvaWQgcHJlcGFyZUNvbm5lY3Rpb25Qb2ludGN1dCgpIHt9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBZnRlclJldHVybmluZyhwb2ludGN1dCA9ICJleGVjdXRpb24oKiAqICguLikpIikK</text>
+        <text encoding="base64">IiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHN1ZGlyQXV0aEZpbHRlci5hcHBDb25uZWN0aW9uCg==</text>
+        <text encoding="base64">JycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzU2Vjb25kQ2FsbAo=</text>
+        <text encoding="base64">ICAgIEBBZnRlclJldHVybmluZyhwb2ludGN1dCA9ICJleGVjdXRpb24oKiAqICguLikpIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGpzZXNzaW9uaWQ7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHN1ZGlyQXV0aEZpbHRlci5hcHBDb25uZWN0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByZXZpb3VzU2Vzc2lvbklkID0gdGhpcy5qc2Vzc2lvbmlkOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzU2Vjb25kQ2FsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeHNTZXNzaW9uTWFuYWdlci5zZXRDb29raWUodGhpcy5jdXJyZW50U2Vzc2lvbiwgdGhpcy5zdWRpckF1dGhGaWx0ZXIuanNlc3Npb25pZCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGpzZXNzaW9uaWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByZXZpb3VzU2Vzc2lvbklkID0gdGhpcy5qc2Vzc2lvbmlkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5IHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoWFNFeGNlcHRpb258U1FMRXhjZXB0aW9uIGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFN0cmluZ1dyaXRlciBzdyA9IG5ldyBTdHJpbmdXcml0ZXIoKTsKICAgICAgICAgICAgICAgIFByaW50V3JpdGVyIHB3ID0gbmV3IFByaW50V3JpdGVyKHN3KTsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKHB3KTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdy50b1N0cmluZygpKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeHNTZXNzaW9uTWFuYWdlci5zZXRDb29raWUodGhpcy5jdXJyZW50U2Vzc2lvbiwgdGhpcy5zdWRpckF1dGhGaWx0ZXIuanNlc3Npb25pZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHhzU2Vzc2lvbk1hbmFnZXIuZGVzdHJveVNlc3Npb24odGhpcy5hcHBDb25uZWN0aW9uLCB0aGlzLmN1cnJlbnRTZXNzaW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>e</text>
+        <text>action About</text>
       </register>
     </registers>
     <search>
@@ -858,13 +858,6 @@
         <entry>setCook</entry>
       </history-search>
       <history-cmd>
-        <entry>Console.Open</entry>
-        <entry>action Console.Open</entry>
-        <entry encoding="base64">bWFwIFxyIDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
-        <entry>action ReformatCode</entry>
-        <entry>help</entry>
-        <entry>e ~/.ideavimrc</entry>
         <entry>wq</entry>
         <entry>%s/DemoAuthenticationFilter/SudirAuthFilter/g</entry>
         <entry>%s/DemoAuthenticationToken/SudirAuthToken/g</entry>
@@ -878,6 +871,13 @@
         <entry>e $MY</entry>
         <entry>e</entry>
         <entry>echo a</entry>
+        <entry>set nu</entry>
+        <entry>actionList</entry>
+        <entry>actionlist</entry>
+        <entry>action about</entry>
+        <entry>action About</entry>
+        <entry>%ls</entry>
+        <entry>ls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -915,6 +915,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
