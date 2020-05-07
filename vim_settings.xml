@@ -822,7 +822,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHhzU2Vzc2lvbk1hbmFnZXIuZGVzdHJveVNlc3Npb24odGhpcy5hcHBDb25uZWN0aW9uLCB0aGlzLmN1cnJlbnRTZXNzaW9uKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/app_lists/apps_list</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
@@ -858,9 +858,6 @@
         <entry>setCook</entry>
       </history-search>
       <history-cmd>
-        <entry>1,10s/^/[\/\/]:</entry>
-        <entry>registers</entry>
-        <entry>actionlist</entry>
         <entry>Console.Open</entry>
         <entry>action Console.Open</entry>
         <entry encoding="base64">bWFwIFxyIDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
@@ -878,6 +875,9 @@
         <entry>%s/apl_app_list/applications</entry>
         <entry>%s/application/app_list</entry>
         <entry>%s/app_lists/apps_list</entry>
+        <entry>e $MY</entry>
+        <entry>e</entry>
+        <entry>echo a</entry>
       </history-cmd>
       <history-expr />
       <history-input />
