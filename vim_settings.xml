@@ -332,12 +332,12 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588842473947">
-        <mark key="'" line="104" column="47" />
-        <mark key="[" line="109" column="20" />
-        <mark key="]" line="109" column="20" />
-        <mark key="." line="109" column="20" />
-        <mark key="^" line="109" column="20" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588844621049">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="54" column="49" />
+        <mark key="]" line="54" column="70" />
+        <mark key="." line="54" column="70" />
+        <mark key="^" line="54" column="70" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" timestamp="1588109344969">
         <mark key="'" line="37" column="38" />
@@ -539,8 +539,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588842812949">
-        <mark key="'" line="66" column="26" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588843300573">
+        <mark key="'" line="55" column="26" />
         <mark key="[" line="55" column="17" />
         <mark key="]" line="55" column="44" />
         <mark key="^" line="55" column="44" />
@@ -727,7 +727,6 @@
       <jump line="35" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="84" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="110" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
-      <jump line="111" column="29" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="78" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="80" column="8" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
@@ -778,57 +777,58 @@
       <jump line="50" column="21" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="51" column="15" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="54" column="37" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
-      <jump line="55" column="38" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="56" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
+      <jump line="55" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
+      <jump line="111" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>sudirAu</text>
       </register>
       <register name="/" type="4">
-        <text>jsess</text>
+        <text>setCook</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBydS5zYnJmLmxhYi5maWx0ZXJzOwoKaW1wb3J0IG9yYWNsZS5qZGJjLmRyaXZlci5PcmFjbGVDb25uZWN0aW9uOwppbXBvcnQgb3JhY2xlLnNlY3VyaXR5LnhzLk5vdEF0dGFjaGVkRXhjZXB0aW9uOwppbXBvcnQgb3JhY2xlLnNlY3VyaXR5LnhzLlNlc3Npb247CmltcG9ydCBvcmFjbGUuc2VjdXJpdHkueHMuWFNFeGNlcHRpb247CmltcG9ydCBvcmFjbGUuc2VjdXJpdHkueHMuWFNTZXNzaW9uTWFuYWdlcjsKaW1wb3J0IG9yYWNsZS5zZWN1cml0eS54cy5pbnRlcm5hbC5TZXNzaW9uSW1wbDsKaW1wb3J0IG9yZy5oaWJlcm5hdGUuaW50ZXJuYWwudXRpbC54bWwuWHNkRXhjZXB0aW9uOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5iZWFucy5mYWN0b3J5LmFubm90YXRpb24uQXV0b3dpcmVkOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5odHRwLkh0dHBFbnRpdHk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuSHR0cEhlYWRlcnM7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuSHR0cE1ldGhvZDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5NZWRpYVR5cGU7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5LmNvcmUuQXV0aGVudGljYXRpb247CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnNlY3VyaXR5LmNvcmUuY29udGV4dC5TZWN1cml0eUNvbnRleHRIb2xkZXI7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnN0ZXJlb3R5cGUuQ29tcG9uZW50OwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuY2xpZW50LlJlc3RUZW1wbGF0ZTsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmZpbHRlci5PbmNlUGVyUmVxdWVzdEZpbHRlcjsKaW1wb3J0IHJ1LnNicmYubGFiLnNlY3VyaXR5LkFQTFNlc3Npb247CmltcG9ydCBydS5zYnJmLmxhYi5zZWN1cml0eS5TdWRpckF1dGhlbnRpY2F0aW9uUHJvdmlkZXI7CgppbXBvcnQgamF2YS5pby5JT0V4Y2VwdGlvbjsKaW1wb3J0IGphdmEuaW8uUHJpbnRXcml0ZXI7CmltcG9ydCBqYXZhLmlvLlN0cmluZ1dyaXRlcjsKaW1wb3J0IGphdmEuc2VjdXJpdHkuSW52YWxpZEFsZ29yaXRobVBhcmFtZXRlckV4Y2VwdGlvbjsKaW1wb3J0IGphdmEuc2VjdXJpdHkuSW52YWxpZEtleUV4Y2VwdGlvbjsKaW1wb3J0IGphdmEuc2VjdXJpdHkuTm9TdWNoQWxnb3JpdGhtRXhjZXB0aW9uOwppbXBvcnQgamF2YS5zZWN1cml0eS5zcGVjLkludmFsaWRLZXlTcGVjRXhjZXB0aW9uOwppbXBvcnQgamF2YS5zcWwuQ29ubmVjdGlvbjsKaW1wb3J0IGphdmEuc3FsLkRyaXZlck1hbmFnZXI7CmltcG9ydCBqYXZhLnNxbC5TUUxFeGNlcHRpb247CmltcG9ydCBqYXZhLnV0aWwuKjsKaW1wb3J0IGphdmF4LnNlcnZsZXQuRmlsdGVyQ2hhaW47CmltcG9ydCBqYXZheC5zZXJ2bGV0LlNlcnZsZXRFeGNlcHRpb247CmltcG9ydCBqYXZheC5zZXJ2bGV0Lmh0dHAuQ29va2llOwppbXBvcnQgamF2YXguc2VydmxldC5odHRwLkh0dHBTZXJ2bGV0UmVxdWVzdDsKaW1wb3J0IGphdmF4LnNlcnZsZXQuaHR0cC5IdHRwU2VydmxldFJlc3BvbnNlOwoKaW1wb3J0IHN0YXRpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QuY29udGV4dC5wcm9wZXJ0aWVzLnNvdXJjZS5Db25maWd1cmF0aW9uUHJvcGVydHlOYW1lLmlzVmFsaWQ7CgoKQENvbXBvbmVudApwdWJsaWMgY2xhc3MgU3VkaXJBdXRoRmlsdGVyIGV4dGVuZHMgT25jZVBlclJlcXVlc3RGaWx0ZXIgewoKICAgIC8vQEF1dG93aXJlZAogICAgcHVibGljIFNlc3Npb24gY3VycmVudFNlc3Npb247CiAgICBwdWJsaWMgWFNTZXNzaW9uTWFuYWdlciB4c1Nlc3Npb25NYW5hZ2VyOwogICAgcHVibGljIENvbm5lY3Rpb24gYXBwQ29ubmVjdGlvbjsKICAgIHB1YmxpYyBTdHJpbmcganNlc3Npb25pZDsKCi8vICAgIHByaXZhdGUgdm9pZCBjcmVhdGVTZXNzaW9uIChTdHJpbmcgdXNlcikgdGhyb3dzIFNRTEV4Y2VwdGlvbgovLyAgICB7Ci8vICAgICAgICB0cnkgewovLwovLy8vICAgICAgICAgICAgQ29ubmVjdGlvbiBtYW5hZ2VyQ29ubmVjdGlvbiA9IERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbigKLy8vLyAgICAgICAgICAgICAgICAgICAgImpkYmM6b3JhY2xlOnRoaW46QGxvY2FsaG9zdDoxNTIxL2FwbGNvcmUiCi8vLy8gICAgICAgICAgICAgICAgICAgICwgInNlY19kaXNwYXRjaGVyIgovLy8vICAgICAgICAgICAgICAgICAgICAsICJzZWNkaXNwYXRjaGVycGFzcyIpOwovLy8vICAgICAgICAgICAgeHNTZXNzaW9uTWFuYWdlciA9IFhTU2Vzc2lvbk1hbmFnZXIuZ2V0U2Vzc2lvbk1hbmFnZXIobWFuYWdlckNvbm5lY3Rpb24sIDMwLCA4MDAwMDAwKTsKLy8vLyAgICAgICAgICAgIGFwcENvbm5lY3Rpb24gPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oCi8vLy8gICAgICAgICAgICAgICAgICAgICJqZGJjOm9yYWNsZTp0aGluOkBsb2NhbGhvc3Q6MTUyMS9hcGxjb3JlIgovLy8vICAgICAgICAgICAgICAgICAgICAsICJhcGxfZGlyZWN0IgovLy8vICAgICAgICAgICAgICAgICAgICAsICJhcGxkaXJlY3RwYXMiKTsKLy8KLy8vLyAgICAgICAgICAgIGN1cnJlbnRTZXNzaW9uID0gbmV3IEFQTFNlc3Npb24gKAovLy8vICAgICAgICAgICAgICAgICAgICB4c1Nlc3Npb25NYW5hZ2VyLmNyZWF0ZVNlc3Npb24KLy8vLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAoYXBwQ29ubmVjdGlvbiwgdXNlciwgbnVsbCwgbnVsbCkpOwovLy8vICAgICAgICAgICAgeHNTZXNzaW9uTWFuYWdlci5hdHRhY2hTZXNzaW9uKGFwcENvbm5lY3Rpb24sCi8vLy8gICAgICAgICAgICAgICAgICAgIGN1cnJlbnRTZXNzaW9uLmdldFJhc1Nlc3Npb24oKSwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCk7Ci8vLy8gICAgICAgICAgICB4c1Nlc3Npb25NYW5hZ2VyLmRldGFjaFNlc3Npb24odGhpcy5jdXJyZW50U2Vzc2lvbik7Ci8vICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbgovLyAgICAgICAgICAgICAgICB8IFhTRXhjZXB0aW9uCi8vLy8gICAgICAgICAgICAgICAgfCBOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24KLy8gLy8gICAgICAgICAgICAgICB8IEludmFsaWRLZXlFeGNlcHRpb24KLy8gIC8vICAgICAgICAgICAgICB8IEludmFsaWRLZXlTcGVjRXhjZXB0aW9uCi8vICAgLy8gICAgICAgICAgICAgfCBJbnZhbGlkQWxnb3JpdGhtUGFyYW1ldGVyRXhjZXB0aW9uCi8vICAgICAgICBlKQovLyAgICAgICAgewovLyAgICAgICAgICAgIFN0cmluZ1dyaXRlciBzdyA9IG5ldyBTdHJpbmdXcml0ZXIoKTsKLy8gICAgICAgICAgICBQcmludFdyaXRlciBwdyA9IG5ldyBQcmludFdyaXRlcihzdyk7Ci8vICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UocHcpOwovLyAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdy50b1N0cmluZygpKTsKLy8gICAgICAgIH07Ci8vICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIGRvRmlsdGVySW50ZXJuYWwoSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QsCiAgICAgICAgICAgIEh0dHBTZXJ2bGV0UmVzcG9uc2UgcmVzcG9uc2UsCiAgICAgICAgICAgIEZpbHRlckNoYWluIGZpbHRlckNoYWluKSB0aHJvd3MgU2VydmxldEV4Y2VwdGlvbiwgSU9FeGNlcHRpb24gewogICAgICAgIC8vdG9kbyBtaWdyYXRlIHRvIEpXVAovL3RvZG8gICAgZmluYWwgU3RyaW5nIHJlcXVlc3RUb2tlbkhlYWRlciA9IHJlcXVlc3QuZ2V0SGVhZGVyKCJBdXRob3JpemF0aW9uIik7Ci8vICAgICAgICBTdHJpbmcgcmVxdWVzdFRva2VuSGVhZGVyID0gcmVxdWVzdC5nZXRIZWFkZXIoIml2X3VzZXIiKTsKLy8gICAgICAgIFN1ZGlyQXV0aGVudGljYXRpb25Qcm92aWRlciBhdXRoZW50aWNhdGlvblByb3ZpZGVyID0gbmV3IFN1ZGlyQXV0aGVudGljYXRpb25Qcm92aWRlcigpOwovLyAgICAgICAgQXV0aGVudGljYXRpb24gYXV0aCA9IGF1dGhlbnRpY2F0aW9uUHJvdmlkZXIuZ2V0QXV0aGVudGljYXRpb24ocmVxdWVzdFRva2VuSGVhZGVyKTsKLy8gICAgICAgU2VjdXJpdHlDb250ZXh0SG9sZGVyLmdldENvbnRleHQoKS5zZXRBdXRoZW50aWNhdGlvbihhdXRoKTsKICAgICAgICAvL2NoZWNrCgogICAgICAgIENvb2tpZVtdIGFsbENvb2tpZXMgPSByZXF1ZXN0LmdldENvb2tpZXMoKTsKICAgICAgICBpZiAoYWxsQ29va2llcyAhPSBudWxsKSB7CiAgICAgICAgICAgIENvb2tpZSBzZXNzaW9uID0KICAgICAgICAgICAgICAgICAgICBBcnJheXMuc3RyZWFtKGFsbENvb2tpZXMpLmZpbHRlcih4IC0+IHguZ2V0TmFtZSgpLmVxdWFscygiSlNFU1NJT05JRCIpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZpbmRGaXJzdCgpLm9yRWxzZShudWxsKTsKICAgICAgICAgICAganNlc3Npb25pZCA9IHNlc3Npb24uZ2V0VmFsdWUoKTsKCi8vICAgICAgICAgICAgaWYgKHNlc3Npb24gIT0gbnVsbCkgewovLwovLyAgICAgICAgICAgICAgICBzZXNzaW9uLnNldEh0dHBPbmx5KHRydWUpOwovLyAgICAgICAgICAgICAgICBzZXNzaW9uLnNldFNlY3VyZSh0cnVlKTsKLy8gICAgICAgICAgICAgICAgcmVzLmFkZENvb2tpZShzZXNzaW9uKTsKLy8gICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNPTlRFWFQgQkVGT1JFOiIgKyBTZWN1cml0eUNvbnRleHRIb2xkZXIuZ2V0Q29udGV4dCgpLmdldEF1dGhlbnRpY2F0aW9uKCkuZ2V0UHJpbmNpcGFsKCkpOwo=</text>
+        <text encoding="base64">ICAgIHZvaWQgcHJlcGFyZUNvbm5lY3Rpb25Qb2ludGN1dCgpIHt9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzU2Vjb25kQ2FsbAo=</text>
+        <text encoding="base64">ICAgIEBBZnRlclJldHVybmluZyhwb2ludGN1dCA9ICJleGVjdXRpb24oKiAqICguLikpIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGpzZXNzaW9uaWQ7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHN1ZGlyQXV0aEZpbHRlci5hcHBDb25uZWN0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByZXZpb3VzU2Vzc2lvbklkID0gdGhpcy5qc2Vzc2lvbmlkOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzU2Vjb25kQ2FsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeHNTZXNzaW9uTWFuYWdlci5zZXRDb29raWUodGhpcy5jdXJyZW50U2Vzc2lvbiwgdGhpcy5zdWRpckF1dGhGaWx0ZXIuanNlc3Npb25pZCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGpzZXNzaW9uaWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByZXZpb3VzU2Vzc2lvbklkID0gdGhpcy5qc2Vzc2lvbmlkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5IHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoWFNFeGNlcHRpb258U1FMRXhjZXB0aW9uIGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFN0cmluZ1dyaXRlciBzdyA9IG5ldyBTdHJpbmdXcml0ZXIoKTsKICAgICAgICAgICAgICAgIFByaW50V3JpdGVyIHB3ID0gbmV3IFByaW50V3JpdGVyKHN3KTsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKHB3KTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdy50b1N0cmluZygpKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeHNTZXNzaW9uTWFuYWdlci5zZXRDb29raWUodGhpcy5jdXJyZW50U2Vzc2lvbiwgdGhpcy5zdWRpckF1dGhGaWx0ZXIuanNlc3Npb25pZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHhzU2Vzc2lvbk1hbmFnZXIuZGVzdHJveVNlc3Npb24odGhpcy5hcHBDb25uZWN0aW9uLCB0aGlzLmN1cnJlbnRTZXNzaW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHhzU2Vzc2lvbk1hbmFnZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5IHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoWFNFeGNlcHRpb258U1FMRXhjZXB0aW9uIGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFN0cmluZ1dyaXRlciBzdyA9IG5ldyBTdHJpbmdXcml0ZXIoKTsKICAgICAgICAgICAgICAgIFByaW50V3JpdGVyIHB3ID0gbmV3IFByaW50V3JpdGVyKHN3KTsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKHB3KTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdy50b1N0cmluZygpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHhzU2Vzc2lvbk1hbmFnZXIuZGVzdHJveVNlc3Npb24odGhpcy5hcHBDb25uZWN0aW9uLCB0aGlzLmN1cnJlbnRTZXNzaW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/app_lists/apps_list</text>
       </register>
     </registers>
     <search>
-      <last-search>jsess</last-search>
+      <last-search>setCook</last-search>
       <last-offset />
-      <last-pattern>jsess</last-pattern>
+      <last-pattern>setCook</last-pattern>
       <last-replace>apps_list</last-replace>
       <last-substitute>app_lists</last-substitute>
       <last-dir>1</last-dir>
@@ -836,7 +836,6 @@
     </search>
     <history>
       <history-search>
-        <entry>app_lists</entry>
         <entry>app_list</entry>
         <entry>callerid</entry>
         <entry>caller</entry>
@@ -856,6 +855,7 @@
         <entry>print</entry>
         <entry>set</entry>
         <entry>jsess</entry>
+        <entry>setCook</entry>
       </history-search>
       <history-cmd>
         <entry>1,10s/^/[\/\/]:</entry>
