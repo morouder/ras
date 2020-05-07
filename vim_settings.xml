@@ -331,11 +331,11 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588832734641">
-        <mark key="[" line="80" column="36" />
-        <mark key="]" line="81" column="17" />
-        <mark key="." line="81" column="17" />
-        <mark key="^" line="81" column="17" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588834587604">
+        <mark key="[" line="114" column="4" />
+        <mark key="]" line="114" column="4" />
+        <mark key="." line="114" column="4" />
+        <mark key="^" line="114" column="5" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" timestamp="1588109344969">
         <mark key="'" line="37" column="38" />
@@ -537,12 +537,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588832282088">
-        <mark key="'" line="35" column="26" />
-        <mark key="[" line="132" column="66" />
-        <mark key="]" line="132" column="86" />
-        <mark key="." line="132" column="86" />
-        <mark key="^" line="132" column="86" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588836440423">
+        <mark key="'" line="123" column="8" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="132" column="32" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/test/java/ru/uchkur/model/UserTest.java" timestamp="1575908255178">
         <mark key="'" line="29" column="0" />
@@ -675,7 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="26" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="21" column="5" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="11" column="36" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
       <jump line="45" column="0" filename="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" />
@@ -775,55 +774,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="80" column="8" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="112" column="75" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="123" column="8" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmN1cnJlbnRTZXNzaW9uLmlzQXR0YWNoZWQoKSkgewogICAgICAgICAgICAgICAgICAgIHRoaXMueHNTZXNzaW9uTWFuYWdlci5kZXRhY2hTZXNzaW9uKHRoaXMuY3VycmVudFNlc3Npb24pOwogICAgICAgICAgICAgICAgICAgIHRoaXMueHNTZXNzaW9uTWFuYWdlci5kZXN0cm95U2Vzc2lvbihyYXNDb25uZWN0aW9uLHRoaXMuY3VycmVudFNlc3Npb24pOwogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>attach</text>
+        <text>jsees</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmN1cnJlbnRTZXNzaW9uLmlzQXR0YWNoZWQoKSkgCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMueHNTZXNzaW9uTWFuYWdlci5kZXRhY2hTZXNzaW9uKHRoaXMuY3VycmVudFNlc3Npb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nV3JpdGVyIHN3ID0gbmV3IFN0cmluZ1dyaXRlcigpOwogICAgICAgICAgICBQcmludFdyaXRlciBwdyA9IG5ldyBQcmludFdyaXRlcihzdyk7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKHB3KTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN3LnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmN1cnJlbnRTZXNzaW9uLmlzQXR0YWNoZWQoKSkgewogICAgICAgICAgICAgICAgICAgIHRoaXMueHNTZXNzaW9uTWFuYWdlci5kZXRhY2hTZXNzaW9uKHRoaXMuY3VycmVudFNlc3Npb24pOwogICAgICAgICAgICAgICAgICAgIHRoaXMueHNTZXNzaW9uTWFuYWdlci5kZXN0cm95U2Vzc2lvbihyYXNDb25uZWN0aW9uLHRoaXMuY3VycmVudFNlc3Npb24pOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeHNTZXNzaW9uTWFuYWdlci5zZXRDb29raWUodGhpcy5jdXJyZW50U2Vzc2lvbiwgdGhpcy5zdWRpckF1dGhGaWx0ZXIuanNlc3Npb25pZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmN1cnJlbnRTZXNzaW9uLmkpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5IHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoWFNFeGNlcHRpb258U1FMRXhjZXB0aW9uIGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFN0cmluZ1dyaXRlciBzdyA9IG5ldyBTdHJpbmdXcml0ZXIoKTsKICAgICAgICAgICAgICAgIFByaW50V3JpdGVyIHB3ID0gbmV3IFByaW50V3JpdGVyKHN3KTsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKHB3KTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdy50b1N0cmluZygpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLG4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHhzU2Vzc2lvbk1hbmFnZXIuZGVzdHJveVNlc3Npb24odGhpcy5hcHBDb25uZWN0aW9uLCB0aGlzLmN1cnJlbnRTZXNzaW9uKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHhzU2Vzc2lvbk1hbmFnZXIuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghdGhpcy5jdXJyZW50U2Vzc2lvbi5pc0F0dGFjaGVkKCkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB4c1Nlc3Npb25NYW5hZ2VyLmRlc3Ryb3lTZXNzaW9uKHRoaXMuYXBwQ29ubmVjdGlvbiwgdGhpcy5jdXJyZW50U2Vzc2lvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHhzU2Vzc2lvbk1hbmFnZXIuZGVzdHJveVNlc3Npb24odGhpcy5hcHBDb25uZWN0aW9uLCB0aGlzLmN1cnJlbnRTZXNzaW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/app_lists/apps_list</text>
       </register>
     </registers>
     <search>
-      <last-search>attach</last-search>
+      <last-search>jsees</last-search>
       <last-offset />
-      <last-pattern>attach</last-pattern>
+      <last-pattern>jsees</last-pattern>
       <last-replace>apps_list</last-replace>
       <last-substitute>app_lists</last-substitute>
       <last-dir>1</last-dir>
@@ -831,7 +831,6 @@
     </search>
     <history>
       <history-search>
-        <entry>host</entry>
         <entry>apl_app_list</entry>
         <entry>nginx</entry>
         <entry>NGINX</entry>
@@ -851,6 +850,7 @@
         <entry>Cook</entry>
         <entry>create</entry>
         <entry>attach</entry>
+        <entry>jsees</entry>
       </history-search>
       <history-cmd>
         <entry>1,10s/^/[\/\/]:</entry>
