@@ -331,11 +331,11 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588803686091">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="103" column="62" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="101" column="16" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1588831085972">
+        <mark key="[" line="116" column="65" />
+        <mark key="]" line="118" column="57" />
+        <mark key="." line="118" column="57" />
+        <mark key="^" line="118" column="57" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" timestamp="1588109344969">
         <mark key="'" line="37" column="38" />
@@ -537,12 +537,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588803035409">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1588830963535">
         <mark key="'" line="35" column="26" />
-        <mark key="[" line="118" column="15" />
-        <mark key="]" line="118" column="15" />
-        <mark key="." line="118" column="15" />
-        <mark key="^" line="118" column="7" />
+        <mark key="[" line="130" column="30" />
+        <mark key="]" line="130" column="42" />
+        <mark key="." line="130" column="42" />
+        <mark key="^" line="130" column="42" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/test/java/ru/uchkur/model/UserTest.java" timestamp="1575908255178">
         <mark key="'" line="29" column="0" />
@@ -670,7 +670,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1588802361961">
+      <file name="/fragment.java" timestamp="1588830841450">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -777,11 +777,11 @@
       <jump line="112" column="75" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuY3VycmVudFNlc3Npb24gPSB4c1Nlc3Npb25NYW5hZ2VyLmNyZWF0ZUFub255bW91c1Nlc3Npb24oCiAgICAgICAgICAgICAgICAgICAgICAgIHJhc0Nvbm5lY3Rpb24udW53cmFwKE9yYWNsZUNvbm5lY3Rpb24uY2xhc3MpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VkaXJBdXRoRmlsdGVyLmpzZXNzaW9uaWQsIG51bGwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>attach</text>
@@ -790,32 +790,32 @@
         <text encoding="base64">ICAgICAgICBzdWRpckF1dGhGaWx0ZXIuYXBwQ29ubmVjdGlvbiA9IGNvbm5lY3Rpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuY3VycmVudFNlc3Npb24gPSB4c1Nlc3Npb25NYW5hZ2VyLmNyZWF0ZUFub255bW91c1Nlc3Npb24oCiAgICAgICAgICAgICAgICAgICAgICAgIHJhc0Nvbm5lY3Rpb24udW53cmFwKE9yYWNsZUNvbm5lY3Rpb24uY2xhc3MpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VkaXJBdXRoRmlsdGVyLmpzZXNzaW9uaWQsIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuY3VycmVudFNlc3Npb24gPSB4c1Nlc3Npb25NYW5hZ2VyLmNyZWF0ZUFub255bW91c1Nlc3Npb24oCiAgICAgICAgICAgICAgICAgICAgICAgIHJhc0Nvbm5lY3Rpb24udW53cmFwKE9yYWNsZUNvbm5lY3Rpb24uY2xhc3MpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VkaXJBdXRoRmlsdGVyLmpzZXNzaW9uaWQsIG51bGwpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeHNTZXNzaW9uTWFuYWdlci5hdHRhY2hTZXNzaW9uQnlDb29raWUocmFzQ29ubmVjdGlvbi51bndyYXAoT3JhY2xlQ29ubmVjdGlvbi5jbGFzcyksCiAgICAgICAgICAgICAgICAgICAgc3VkaXJBdXRoRmlsdGVyLmpzZXNzaW9uaWQsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>версия на аоп - подставляются пользователи из хидера и создаются ras
 сессии</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBBUExTZXNzaW9uIGN1cnJlbnRTZXNzaW9uOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBDb29raWUK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdWRpckF1dGhGaWx0ZXIueHNTZXNzaW9uTWFuYWdlcjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4c1Nlc3Npb25NYW5hZ2VyID0gc3VkaXJBdXRoRmlsdGVyLnhzU2Vzc2lvbk1hbmFnZXI7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTZXNzaW9uIGdldFJhc1Nlc3Npb24oKSB7CiAgICAgICAgcmV0dXJuIHJhc1Nlc3Npb247CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UmFzU2Vzc2lvbihTZXNzaW9uIHJhc1Nlc3Npb24pIHsKICAgICAgICB0aGlzLnJhc1Nlc3Npb24gPSByYXNTZXNzaW9uOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWRpckF1dGhGaWx0ZXIueHNTZXNzaW9uTWFuYWdlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/app_lists/apps_list</text>
