@@ -342,6 +342,7 @@
         <mark key="^" line="88" column="19" />
         <mark key="." line="93" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/oracle/ras/xs/1.0.0.0/xs-1.0.0.0.jar!/oracle/security/xs/XSAccessController.class" timestamp="1588970243389" />
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" timestamp="1588968547976">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="32" column="11" />
