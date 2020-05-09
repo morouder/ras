@@ -560,11 +560,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1589042292688">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1589042917324">
         <mark key="'" line="235" column="38" />
-        <mark key="[" line="104" column="52" />
-        <mark key="]" line="100" column="54" />
-        <mark key="." line="100" column="54" />
+        <mark key="[" line="50" column="101" />
+        <mark key="]" line="50" column="101" />
+        <mark key="." line="50" column="101" />
         <mark key="^" line="95" column="68" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/test/java/ru/uchkur/model/UserTest.java" timestamp="1575908255178">
