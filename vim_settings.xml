@@ -349,13 +349,13 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1589040552664">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1589042193843">
         <mark key="q" line="5" column="0" />
         <mark key="'" line="127" column="121" />
-        <mark key="[" line="126" column="50" />
-        <mark key="]" line="126" column="59" />
-        <mark key="." line="126" column="59" />
-        <mark key="^" line="126" column="59" />
+        <mark key="[" line="136" column="73" />
+        <mark key="]" line="136" column="84" />
+        <mark key="." line="136" column="84" />
+        <mark key="^" line="136" column="84" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/RasDataSourceAppTest.java" timestamp="1589005193941">
         <mark key="[" line="11" column="1" />
@@ -560,12 +560,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1589040012446">
-        <mark key="'" line="211" column="48" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="1" />
-        <mark key="." line="217" column="1" />
-        <mark key="^" line="217" column="1" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1589042292688">
+        <mark key="'" line="235" column="38" />
+        <mark key="[" line="104" column="52" />
+        <mark key="]" line="100" column="54" />
+        <mark key="." line="100" column="54" />
+        <mark key="^" line="95" column="68" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/test/java/ru/uchkur/model/UserTest.java" timestamp="1575908255178">
         <mark key="'" line="29" column="0" />
@@ -697,13 +697,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1589037186253">
+      <file name="/fragment.java" timestamp="1589042003292">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="4" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
-      <jump line="49" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
       <jump line="67" column="13" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
       <jump line="17" column="49" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
@@ -802,16 +802,18 @@
       <jump line="211" column="48" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="110" column="65" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="127" column="121" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="213" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
+      <jump line="235" column="38" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>anon</text>
+        <text>hash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3VkaXJBdXRoRmlsdGVyLnNldEpzZXNzaW9uaWQoc3VkaXJBdXRoRmlsdGVyLmdldEpzZXNzaW9uaWQoKSk7Cg==</text>
@@ -848,9 +850,9 @@
       </register>
     </registers>
     <search>
-      <last-search>anon</last-search>
+      <last-search>hash</last-search>
       <last-offset />
-      <last-pattern>anon</last-pattern>
+      <last-pattern>hash</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>.</last-substitute>
       <last-dir>1</last-dir>
@@ -858,8 +860,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jpa</entry>
-        <entry>build</entry>
         <entry>mock</entry>
         <entry>parent</entry>
         <entry>sure</entry>
@@ -878,6 +878,8 @@
         <entry>sudiruse</entry>
         <entry>attach</entry>
         <entry>anon</entry>
+        <entry>hask</entry>
+        <entry>hash</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
