@@ -309,12 +309,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" timestamp="1589008278484">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" timestamp="1589018836627">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="55" column="81" />
-        <mark key="]" line="55" column="82" />
-        <mark key="^" line="55" column="91" />
-        <mark key="." line="55" column="82" />
+        <mark key="[" line="56" column="88" />
+        <mark key="]" line="56" column="88" />
+        <mark key="^" line="55" column="28" />
+        <mark key="." line="56" column="88" />
       </file>
       <file name="$USER_HOME$/Lab/demo/src/main/java/com/example/demo/BlogController.java" timestamp="1582456118892">
         <mark key="'" line="0" column="0" />
@@ -655,12 +655,12 @@
         <mark key="." line="31" column="3" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/pom.xml" timestamp="1589004972857">
-        <mark key="'" line="96" column="21" />
-        <mark key="[" line="145" column="25" />
-        <mark key="]" line="145" column="25" />
-        <mark key="^" line="145" column="33" />
-        <mark key="." line="145" column="25" />
+      <file name="$USER_HOME$/Lab/RasDataSource/pom.xml" timestamp="1589018949779">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="142" column="33" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java" timestamp="1588837578490">
         <mark key="'" line="377" column="0" />
@@ -698,9 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
-      <jump line="134" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
-      <jump line="46" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="117" column="14" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="53" column="19" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="68" column="41" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
@@ -774,7 +771,6 @@
       <jump line="67" column="13" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
       <jump line="17" column="49" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
       <jump line="65" column="44" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
       <jump line="32" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
       <jump line="21" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
       <jump line="8" column="30" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
@@ -798,55 +794,59 @@
       <jump line="19" column="19" filename="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" />
       <jump line="21" column="76" filename="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" />
       <jump line="28" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" />
+      <jump line="132" column="4" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
+      <jump line="133" column="5" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
+      <jump line="139" column="0" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>mock</text>
+        <text>jar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcmFzVXNlck5hbWUgPSAiYW5vbnltb3VzIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4yLjUuUkVMRUFTRTwvdmVyc2lvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4yLjUuUkVMRUFTRTwvdmVyc2lvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1vY2tNdmMucGVyZm9ybShnZXQoIi8iKSkuYW5kRXhwZWN0KHN0YXR1cygpLmlzT2soKSkKICAgICAgICAgICAgICAgIC5hbmREbyhkb2N1bWVudCgiaW5kZXgiLCBwcmVwcm9jZXNzUmVxdWVzdChyZW1vdmVIZWFkZXJzKCJGb28iKSksCiAgICAgICAgICAgICAgICAgICAgICAgIHByZXByb2Nlc3NSZXNwb25zZShwcmV0dHlQcmludCgpKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+IDIuMC4wLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlcHJvY2Vzc1Jlc3BvbnNlKHByZXR0eVByaW50KCkpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzdWx0VGVzdE9uZSA9IHJlc3VsdC5nZXRSZXNwb25zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1vY2tNdmMucGVyZm9ybShnZXQoIi8iKSkuYW5kRXhwZWN0KHN0YXR1cygpLmlzT2soKSkKICAgICAgICAgICAgICAgIC5hbmREbyhkb2N1bWVudCgiaW5kZXgiLCBwcmVwcm9jZXNzUmVxdWVzdChyZW1vdmVIZWFkZXJzKCJGb28iKSksCiAgICAgICAgICAgICAgICAgICAgICAgIHByZXByb2Nlc3NSZXNwb25zZShwcmV0dHlQcmludCgpKSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgTW9ja012YyBtb2NrTXZjOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlcHJvY2Vzc1Jlc3BvbnNlKHByZXR0eVByaW50KCkpKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzdWx0VGVzdE9uZSA9IHJlc3VsdC5nZXRSZXNwb25zZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/./g</text>
       </register>
     </registers>
     <search>
-      <last-search>mock</last-search>
+      <last-search>jar</last-search>
       <last-offset />
-      <last-pattern>mock</last-pattern>
+      <last-pattern>jar</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>.</last-substitute>
       <last-dir>1</last-dir>
@@ -854,9 +854,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disp</entry>
-        <entry>create</entry>
-        <entry>attach</entry>
         <entry>dis</entry>
         <entry encoding="base64">XDxtYW5hZ2VyQ29ubmVjdGlvblw+</entry>
         <entry>clos</entry>
@@ -874,6 +871,9 @@
         <entry>anon</entry>
         <entry>build</entry>
         <entry>mock</entry>
+        <entry>parent</entry>
+        <entry>sure</entry>
+        <entry>jar</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
