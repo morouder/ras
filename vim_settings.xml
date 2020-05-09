@@ -309,12 +309,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" timestamp="1589056981464">
-        <mark key="'" line="102" column="11" />
-        <mark key="[" line="88" column="71" />
-        <mark key="]" line="92" column="81" />
-        <mark key="." line="92" column="81" />
-        <mark key="^" line="92" column="81" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" timestamp="1589060520944">
+        <mark key="'" line="108" column="11" />
+        <mark key="i" line="91" column="77" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/demo/src/main/java/com/example/demo/BlogController.java" timestamp="1582456118892">
         <mark key="'" line="0" column="0" />
@@ -836,7 +836,7 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>ismailov-rr@mail.ca.sbrf.ru&quot;</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>junit</text>
@@ -845,31 +845,31 @@
         <text encoding="base64">ICAgICAgICB0ZXN0T25lKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuZ2V0UmVzcG9uc2UoKS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVzZXJTZXJ2aWNlIGt1c2VyU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2R5KG9iamVjdE1hcHBlci53cml0ZVZhbHVlQXNCeXRlcyhuZXcgQ291Y2hiYXNlUHJvcGVydGllcy5FbmRwb2ludHMuQXNzaWdubWVudCgpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEF1dG9Db25maWd1cmVNb2NrTXZjCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDb21wb25lbnQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBVc2VyU2VydmljZUltcGwoKXt9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFVzZXJTZXJ2aWNlIGt1c2VyU2VydmljZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QEF1dG9Db25maWd1cmVNb2NrTXZjCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBVc2VyU2VydmljZUltcGwoKXt9Cg==</text>
+        <text encoding="base64">ICAgIEBDb21wb25lbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBVc2VyU2VydmljZUltcGwoKXt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
