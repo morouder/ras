@@ -303,11 +303,12 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" timestamp="1589100612473">
-        <mark key="'" line="120" column="11" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="99" column="36" />
-        <mark key="." line="99" column="36" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" timestamp="1589142869129">
+        <mark key="'" line="63" column="32" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="2" />
+        <mark key="." line="72" column="2" />
+        <mark key="^" line="72" column="2" />
       </file>
       <file name="$USER_HOME$/Lab/demo/src/main/java/com/example/demo/BlogController.java" timestamp="1582456118892">
         <mark key="'" line="0" column="0" />
@@ -717,8 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="47" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
-      <jump line="117" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="131" column="29" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="93" column="16" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="97" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
@@ -817,6 +816,8 @@
       <jump line="1" column="14" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="9" column="34" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="61" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" />
+      <jump line="63" column="32" filename="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -826,7 +827,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>destr</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4c1Nlc3Npb25NYW5hZ2VyLmF0dGFjaFNlc3Npb24odGhpcy5hcHBDb25uZWN0aW9uLHMsIG51bGwsIG51bGwsCg==</text>
@@ -863,9 +864,9 @@
       </register>
     </registers>
     <search>
-      <last-search>destr</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>destr</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>.</last-substitute>
       <last-dir>1</last-dir>
@@ -873,7 +874,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
         <entry encoding="base64">anNlc3Npb24gLSA=</entry>
         <entry>jsess</entry>
         <entry>sudir</entry>
@@ -893,6 +893,7 @@
         <entry>jsession</entry>
         <entry>jdbc</entry>
         <entry>destr</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
