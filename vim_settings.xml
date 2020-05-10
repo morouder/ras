@@ -348,13 +348,10 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1589042193843">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1589085323194">
         <mark key="q" line="5" column="0" />
         <mark key="'" line="127" column="121" />
-        <mark key="[" line="136" column="73" />
-        <mark key="]" line="136" column="84" />
-        <mark key="." line="136" column="84" />
-        <mark key="^" line="136" column="84" />
+        <mark key="^" line="107" column="28" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/test/resources/integr-test.sh" timestamp="1589049959370">
         <mark key="[" line="0" column="0" />
@@ -451,7 +448,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test-autoconfigure/2.2.5.RELEASE/spring-boot-test-autoconfigure-2.2.5.RELEASE.jar!/org/springframework/boot/test/autoconfigure/web/servlet/MockMvcAutoConfiguration.class" timestamp="1589048471162" />
       <file name="$USER_HOME$/Lab/conn_pool/src/main/resources/liquibase.properties" timestamp="1584137070871">
         <mark key="'" line="5" column="49" />
         <mark key="[" line="1" column="0" />
@@ -535,12 +531,12 @@
         <mark key="^" line="56" column="20" />
         <mark key="." line="56" column="20" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/config/parent/SecurityConfig.java" timestamp="1589050949431">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="55" column="0" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/config/parent/SecurityConfig.java" timestamp="1589086481968">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="55" column="1" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/test/java/RasDataSourceAppTest.java" timestamp="1589002127067">
         <mark key="[" line="8" column="0" />
@@ -580,12 +576,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1589051435303">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" timestamp="1589084812404">
         <mark key="'" line="81" column="45" />
-        <mark key="[" line="82" column="40" />
-        <mark key="]" line="82" column="40" />
-        <mark key="." line="82" column="40" />
-        <mark key="^" line="82" column="68" />
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="249" column="0" />
+        <mark key="." line="249" column="0" />
+        <mark key="^" line="247" column="1" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/test/java/ru/uchkur/model/UserTest.java" timestamp="1575908255178">
         <mark key="'" line="29" column="0" />
@@ -708,12 +704,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" timestamp="1588969150920">
-        <mark key="'" line="8" column="30" />
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="14" column="8" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" timestamp="1589086420326">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-login-use-case.puml" timestamp="1588535246863">
         <mark key="'" line="2" column="22" />
@@ -729,8 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="49" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
-      <jump line="15" column="27" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="21" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="22" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="23" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
@@ -829,13 +823,15 @@
       <jump line="14" column="0" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
       <jump line="85" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" />
       <jump line="96" column="11" filename="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
+      <jump line="53" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>junit</text>
@@ -844,31 +840,31 @@
         <text encoding="base64">ICAgICAgICB0ZXN0T25lKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTb21lQ3VzdG9tUmVzcG9uc2UgcmVzcG9uc2UgPSBvYmplY3RNYXBwZXIucmVhZFZhbHVlKGNvbnRlbnRBc1N0cmluZywgU29tZUN1c3RvbVJlc3BvbnNlLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgIC5leAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuZ2V0UmVzcG9uc2UoKS4K</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVTZXNzaW9uKGNvbm5lY3Rpb24sIHJhc1VzZXJOYW1lLCBzdWRpclVzZXJOYW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2R5KG9iamVjdE1hcHBlci53cml0ZVZhbHVlQXNCeXRlcyhuZXcgQ291Y2hiYXNlUHJvcGVydGllcy5FbmRwb2ludHMuQXNzaWdubWVudCgpKSkK</text>
+        <text encoding="base64">ICAgICAgICBJdGVyYXRvcjxTZXNzaW9uPiBpdCA9IHNlc3Npb25zLml0ZXJhdG9yKCk7CiAgICAgICAgd2hpbGUgKGl0Lmhhc05leHQoKSkKICAgICAgICB7CiAgICAgICAgICAgIFNlc3Npb24gcyA9IGl0Lm5leHQoKTsKICAgICAgICAgICAgaWYgKCEocz09bnVsbCkpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJkZWJ1ZyAtIGF0dGFjaCAiICsgKChTZXNzaW9uSW1wbCkgcykuZ2V0U2Vzc2lvbkluZm8oKS5zZXNzaW9uQ29va2llKTsKICAgICAgICAgICAgICAgICAgICB4c1Nlc3Npb25NYW5hZ2VyLmF0dGFjaFNlc3Npb24odGhpcy5hcHBDb25uZWN0aW9uLHMsIG51bGwsIG51bGwsCiAgICAgICAgICAgICAgICAgICAgbnVsbCwgbnVsbCk7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJkZWJ1ZyAtIGRldGFjaCAiICsgKChTZXNzaW9uSW1wbCkgcykuZ2V0U2Vzc2lvbkluZm8oKS5zZXNzaW9uQ29va2llKTsKICAgICAgICAgICAgICAgICAgICB4c1Nlc3Npb25NYW5hZ2VyLmRldGFjaFNlc3Npb24ocyk7CgovLyAgICAgICAgICAgICAgICAgICAgaXQucmVtb3ZlKCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKFhTRXhjZXB0aW9uIHwgU1FMRXhjZXB0aW9uIGUpIHtTeXN0ZW0ub3V0LnByaW50bG4oZS5nZXRNZXNzYWdlKCkpO30KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">c3luY2hyb25pemVkICh0aGlzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFVzZXJTZXJ2aWNlIGt1c2VyU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICBTb21lQ3VzdG9tUmVzcG9uc2UgcmVzcG9uc2UgPSBvYmplY3RNYXBwZXIucmVhZFZhbHVlKGNvbnRlbnRBc1N0cmluZywgU29tZUN1c3RvbVJlc3BvbnNlLmNsYXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuZ2V0UmVzcG9uc2UoKS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEF1dG9Db25maWd1cmVNb2NrTXZjCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBDb21wb25lbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2R5KG9iamVjdE1hcHBlci53cml0ZVZhbHVlQXNCeXRlcyhuZXcgQ291Y2hiYXNlUHJvcGVydGllcy5FbmRwb2ludHMuQXNzaWdubWVudCgpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
