@@ -659,6 +659,12 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="38" column="11" />
       </file>
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" timestamp="1589274872385">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="33" />
+      </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/ExceptionUtil.java" timestamp="1588855596191">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="10" column="24" />
@@ -846,13 +852,13 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>а</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlY2FzZSAi0J/RgNC+0LLQtdGA0LjRgtGMINGA0LXQt9GD0LvRjNGC0LDRgtGLXG7RgNCw0LHQvtGC0Ysg0L7RgtC00LXQu9CwIiA8PHNlYSBsZXZlbCB1c2UgY2FzZT4+YXMgbWFuYWdlbWVudF9ib2FyZF9jaGVja19yZXN1bHQK</text>
+        <text encoding="base64">Qm9yZGVyQ29sb3I8PHNlYSBsZXZlbD4+IEJsdWUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cGFydGl0aW9uIHVzZXJ7fQpwYXJ0aXRpb24gdXNlcjJ7fQo=</text>
