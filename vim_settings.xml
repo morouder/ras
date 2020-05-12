@@ -50,10 +50,12 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" timestamp="1589281905928">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" timestamp="1589281918741">
+        <mark key="'" line="67" column="7" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="67" column="7" />
+        <mark key="." line="67" column="7" />
+        <mark key="^" line="67" column="7" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/main/java/ru/uchkur/model/User.java" timestamp="1575907224524">
         <mark key="'" line="35" column="0" />
@@ -626,7 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="17" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="91" column="21" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="92" column="15" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="78" column="19" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
@@ -726,6 +727,7 @@
       <jump line="86" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-deployment.puml" />
       <jump line="2" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
+      <jump line="67" column="7" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
