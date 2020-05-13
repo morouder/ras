@@ -10,12 +10,12 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1589344622242">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="22" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1589355049293">
+        <mark key="'" line="17" column="40" />
+        <mark key="[" line="15" column="230" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-session-state-machine" timestamp="1589344086840">
         <mark key="[" line="11" column="15" />
@@ -99,8 +99,8 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" timestamp="1589281918741">
-        <mark key="'" line="67" column="7" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" timestamp="1589354919075">
+        <mark key="'" line="44" column="24" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="67" column="7" />
         <mark key="." line="67" column="7" />
@@ -646,14 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="18" filename="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" />
-      <jump line="41" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" />
-      <jump line="30" column="13" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
-      <jump line="59" column="19" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
-      <jump line="62" column="58" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
-      <jump line="81" column="45" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
-      <jump line="146" column="0" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
       <jump line="79" column="29" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
       <jump line="80" column="32" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
@@ -722,7 +714,6 @@
       <jump line="15" column="19" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
       <jump line="86" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-deployment.puml" />
       <jump line="2" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
       <jump line="67" column="7" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
       <jump line="21" column="21" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
       <jump line="33" column="9" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
@@ -744,57 +735,66 @@
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case-pcp.puml" />
       <jump line="26" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case-pcp.puml" />
       <jump line="7" column="8" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
-      <jump line="13" column="24" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="17" column="22" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="20" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="13" column="5" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="15" column="150" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="16" column="40" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="51" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
+      <jump line="15" column="22" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
+      <jump line="18" column="5" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
+      <jump line="44" column="24" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>§</text>
       </register>
       <register name="/" type="4">
-        <text>odpz</text>
+        <text>alt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">J3NraW5wYXJhbSBkcGkgMzAwCidoaWRlIHN0ZXJlb3R5cGVzCnNraW5wYXJhbSBoYW5kd3JpdHRlbiBmYWxzZQo=</text>
+        <text encoding="base64">bm90ZSBvdmVyIHdlYnNlYWw6IFBPU1QgLyBIVFRQLzEuMVxuSG9zdDogJHtBUExfSE9TVH1cblVzZXItQWdlbnQ6IEphdmEvMS44LjBfMjVcbkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uO1xuQWNjZXB0OiBhcHBsaWNhdGlvbi9qc29uXG57Iml2X3VzZXIiOiJpdmFub3YtaWlAc2JlcmJhbmsucnUiLCJKU0VTU0lPTklEIjoiQzM2NzI0NTMwOUU0RTgwNjA2MDY2RkRDRkJFMEVFNDMifQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGVwIC0+IHBlcCA6IEpTRVNTSU9OSUQgaGVhZGVyIGV4aXN0cz8gKG5vKQo=</text>
+        <text encoding="base64">cmVnaXN0cmF0b3IgLS0+IHBlcDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWN0b3IgU1VESVIgYXMgd2Vic2VhbAo=</text>
+        <text encoding="base64">J1BPU1QgL3Nlc3Npb25zIEhUVFAvMS4xCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWN0b3IgQnJvd3NlciBhcyBicm93c2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YnJvd3NlciAtPiB3ZWJzZWFsOiBHRVQgYXBpLmFwbC5jYS5zYnJmLnJ1Lwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWN0b3IgQnJvd3NlciBhcyBicm93c2VyCg==</text>
+        <text encoding="base64">cGVwIC0+IHBlcCA6IEpTRVNTSU9OSUQgaGVhZGVyIGV4aXN0cz8gKG5vKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">WypdIC0tPiBOb3RTaG9vdGluZwo=</text>
+        <text encoding="base64">YWN0b3IgU1VESVIgYXMgd2Vic2VhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">J25vdGUgUE9TVCAvc2Vzc2lvbnMgSFRUUC8xLjEK</text>
+        <text encoding="base64">YWN0b3IgQnJvd3NlciBhcyBicm93c2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bm90ZSBsZWZ0IG9mIHJlZ2lzdHJhdG9yCmxlZnQgb2YgIG9wdAplbmQgbm90ZQo=</text>
+        <text encoding="base64">YnJvd3NlciAtPiB3ZWJzZWFsOiBHRVQgYXBpLmFwbC5jYS5zYnJmLnJ1Lwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bm90ZSBvdmVyCg==</text>
+        <text encoding="base64">YWN0b3IgQnJvd3NlciBhcyBicm93c2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/odpz/pcp</text>
       </register>
     </registers>
     <search>
-      <last-search>odpz</last-search>
+      <last-search>alt</last-search>
       <last-offset />
-      <last-pattern>odpz</last-pattern>
+      <last-pattern>alt</last-pattern>
       <last-replace>pcp</last-replace>
       <last-substitute>odpz</last-substitute>
       <last-dir>1</last-dir>
@@ -802,11 +802,6 @@
     </search>
     <history>
       <history-search>
-        <entry>plug</entry>
-        <entry>jupi</entry>
-        <entry>head</entry>
-        <entry>cook</entry>
-        <entry>jsession</entry>
         <entry>jdbc</entry>
         <entry>destr</entry>
         <entry>test</entry>
@@ -822,6 +817,11 @@
         <entry>check</entry>
         <entry>§§§</entry>
         <entry>odpz</entry>
+        <entry>use</entry>
+        <entry>iv</entry>
+        <entry>sber</entry>
+        <entry>auth</entry>
+        <entry>alt</entry>
       </history-search>
       <history-cmd>
         <entry>action CommentByLineComment</entry>
