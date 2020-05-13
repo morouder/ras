@@ -10,12 +10,12 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1589400760884">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="12" column="141" />
-        <mark key="]" line="12" column="140" />
-        <mark key="." line="12" column="140" />
-        <mark key="^" line="12" column="140" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1589401860718">
+        <mark key="'" line="25" column="26" />
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="165" />
+        <mark key="." line="23" column="165" />
+        <mark key="^" line="23" column="164" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-session-state-machine" timestamp="1589344086840">
         <mark key="[" line="11" column="15" />
@@ -646,8 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
-      <jump line="170" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="212" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="115" column="55" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
@@ -727,35 +725,37 @@
       <jump line="7" column="8" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="17" column="22" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="20" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
-      <jump line="13" column="5" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
-      <jump line="15" column="150" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
-      <jump line="16" column="40" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="51" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
       <jump line="15" column="22" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
       <jump line="18" column="5" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
       <jump line="44" column="24" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
       <jump line="10" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
-      <jump line="9" column="9" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="129" column="49" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="114" column="66" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="106" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="110" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="5" column="4" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
-      <jump line="26" column="25" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="25" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="9" column="39" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="26" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="15" column="9" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="22" column="171" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="13" column="40" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="16" column="149" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="23" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>applic</text>
+        <text>upper</text>
       </register>
       <register name="0" type="4">
         <text>HTTP/1.1 201 Created\nLocation: /sessions/${sber_pdi}/${JSESSIONID}\nContent-Length: 0</text>
@@ -788,13 +788,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/odpz/pcp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>applic</last-search>
+      <last-search>upper</last-search>
       <last-offset />
-      <last-pattern>applic</last-pattern>
+      <last-pattern>upper</last-pattern>
       <last-replace>pcp</last-replace>
       <last-substitute>odpz</last-substitute>
       <last-dir>1</last-dir>
@@ -802,11 +802,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
-        <entry>head_odpz</entry>
-        <entry>ОДПЗ</entry>
-        <entry>pcp_user</entry>
-        <entry>пцп</entry>
         <entry>set_ta</entry>
         <entry>management_board</entry>
         <entry>check</entry>
@@ -822,6 +817,11 @@
         <entry>disp</entry>
         <entry encoding="base64">XDxtYW5hZ2VyQ29ubmVjdGlvblw+</entry>
         <entry>applic</entry>
+        <entry>dlau</entry>
+        <entry>locati</entry>
+        <entry>pdi</entry>
+        <entry>jsess</entry>
+        <entry>upper</entry>
       </history-search>
       <history-cmd>
         <entry>action CommentByLineComment</entry>
@@ -837,13 +837,13 @@
         <entry>%s/Primary/Secondary/gcy</entry>
         <entry>%s/primary/Secondary/gcy</entry>
         <entry>%s/./g</entry>
-        <entry>w</entry>
         <entry>%s/head_odpz/head_pcp</entry>
         <entry>одпз/ПЦП</entry>
         <entry>ОДПЗ/ПЦП</entry>
         <entry>%s/ОДПЗ/ПЦП</entry>
         <entry>%s/management_board/pcp_board</entry>
         <entry>%s/odpz/pcp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
