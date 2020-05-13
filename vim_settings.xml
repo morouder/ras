@@ -10,15 +10,18 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1589307002468">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1589344622242">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="7" />
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-session-state-machine" timestamp="1589342920679">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-session-state-machine" timestamp="1589344086840">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/test/java/ru/lafore/HighArrayTest.java" timestamp="1576439709867">
         <mark key="'" line="9" column="9" />
@@ -749,7 +752,7 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>odpz</text>
@@ -758,31 +761,31 @@
         <text encoding="base64">J3NraW5wYXJhbSBkcGkgMzAwCidoaWRlIHN0ZXJlb3R5cGVzCnNraW5wYXJhbSBoYW5kd3JpdHRlbiBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">J25vdGUgUE9TVCAvc2Vzc2lvbnMgSFRUUC8xLjEK</text>
+        <text encoding="base64">cGVwIC0+IHBlcCA6IEpTRVNTSU9OSUQgaGVhZGVyIGV4aXN0cz8gKG5vKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bm90ZSBsZWZ0IG9mIHJlZ2lzdHJhdG9yCmxlZnQgb2YgIG9wdAplbmQgbm90ZQo=</text>
+        <text encoding="base64">YWN0b3IgU1VESVIgYXMgd2Vic2VhbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bm90ZSBvdmVyCg==</text>
+        <text encoding="base64">YWN0b3IgQnJvd3NlciBhcyBicm93c2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW1wbG95ZWVfb2RweiAtZG93bi0+IHBjcF9ib2FyZF9jaGVja190YXNrX3N0dWZmCg==</text>
+        <text encoding="base64">YnJvd3NlciAtPiB3ZWJzZWFsOiBHRVQgYXBpLmFwbC5jYS5zYnJmLnJ1Lwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW1wbG95ZWVfb2RweiAtZG93bi0+IG1hbmFnZW1lbnRfYm9hcmRfZ2V0X3Rhc2tfc3R1ZmYK</text>
+        <text encoding="base64">YWN0b3IgQnJvd3NlciBhcyBicm93c2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlY2FzZSAi0J/QvtC70YPRh9C40YLRjCDQt9Cw0LTQsNGH0LhcbtC+0YIg0YDRg9C60L7QstC+0LTQuNGC0LXQu9GPIiA8PHNlYSBsZXZlbD4+YXMgbWFuYWdlbWVudF9ib2FyZF9nZXRfdGFza19zdHVmZgo=</text>
+        <text encoding="base64">WypdIC0tPiBOb3RTaG9vdGluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aGVhZF9wY3AgLWRvd24tPiBtYW5hZ2VtZW50X2JvYXJkX3NldF90YXNrX3N0dWZmCg==</text>
+        <text encoding="base64">J25vdGUgUE9TVCAvc2Vzc2lvbnMgSFRUUC8xLjEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlY2FzZSAi0J/QvtGB0YLQsNCy0LjRgtGMINC30LDQtNCw0YfQuFxu0YHQvtGC0YDRg9C00L3QuNC60LDQvCIgPDxzZWEgbGV2ZWw+PmFzIG1hbmFnZW1lbnRfYm9hcmRfc2V0X3Rhc2tfc3R1ZmYK</text>
+        <text encoding="base64">bm90ZSBsZWZ0IG9mIHJlZ2lzdHJhdG9yCmxlZnQgb2YgIG9wdAplbmQgbm90ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGNwX3VzZXIgLXVwLXw+dXNlcgo=</text>
+        <text encoding="base64">bm90ZSBvdmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/odpz/pcp</text>
