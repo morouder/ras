@@ -10,12 +10,12 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1589383665535">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1589386580821">
         <mark key="'" line="9" column="9" />
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="17" column="19" />
-        <mark key="^" line="17" column="25" />
-        <mark key="." line="17" column="19" />
+        <mark key="[" line="18" column="151" />
+        <mark key="]" line="18" column="155" />
+        <mark key="^" line="18" column="155" />
+        <mark key="." line="18" column="155" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-session-state-machine" timestamp="1589344086840">
         <mark key="[" line="11" column="15" />
@@ -42,9 +42,9 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1589123964065">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1589384853950">
         <mark key="q" line="5" column="0" />
-        <mark key="'" line="9" column="34" />
+        <mark key="'" line="110" column="23" />
         <mark key="[" line="136" column="0" />
         <mark key="]" line="143" column="14" />
         <mark key="^" line="143" column="14" />
@@ -646,11 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="32" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
-      <jump line="14" column="0" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
-      <jump line="85" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" />
-      <jump line="96" column="11" filename="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
       <jump line="53" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/application.properties" />
       <jump line="88" column="12" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
       <jump line="155" column="14" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
@@ -746,16 +741,21 @@
       <jump line="44" column="24" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
       <jump line="10" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="9" column="9" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="129" column="49" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="114" column="66" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="110" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text encoding="base64">XDxtYW5hZ2VyQ29ubmVjdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bm90ZSBvdmVyIHdlYnNlYWw6IFBPU1QgLyBIVFRQLzEuMVxuSG9zdDogJHtBUExfSE9TVH1cblVzZXItQWdlbnQ6IEphdmEvMS44LjBfMjVcbkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uO1xuQWNjZXB0OiBhcHBsaWNhdGlvbi9qc29uXG57Iml2X3VzZXIiOiJpdmFub3YtaWlAc2JlcmJhbmsucnUiLCJKU0VTU0lPTklEIjoiQzM2NzI0NTMwOUU0RTgwNjA2MDY2RkRDRkJFMEVFNDMifQo=</text>
@@ -792,9 +792,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search encoding="base64">XDxtYW5hZ2VyQ29ubmVjdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern encoding="base64">XDxtYW5hZ2VyQ29ubmVjdGlvblw+</last-pattern>
       <last-replace>pcp</last-replace>
       <last-substitute>odpz</last-substitute>
       <last-dir>1</last-dir>
@@ -802,8 +802,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
-        <entry>employ</entry>
         <entry>одпз</entry>
         <entry>start</entry>
         <entry>head_odpz</entry>
@@ -822,6 +820,8 @@
         <entry>alt</entry>
         <entry>pdp</entry>
         <entry>create</entry>
+        <entry>disp</entry>
+        <entry encoding="base64">XDxtYW5hZ2VyQ29ubmVjdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>action CommentByLineComment</entry>
