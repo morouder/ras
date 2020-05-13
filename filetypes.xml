@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="changelog" type="PLAIN_TEXT" />
+      <mapping pattern="ras-session-state-machine" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
