@@ -10,12 +10,12 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1589382863099">
-        <mark key="'" line="17" column="40" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="18" column="22" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1589383665535">
+        <mark key="'" line="9" column="9" />
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="17" column="19" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-session-state-machine" timestamp="1589344086840">
         <mark key="[" line="11" column="15" />
@@ -646,8 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
-      <jump line="79" column="29" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
       <jump line="80" column="32" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
       <jump line="14" column="0" filename="$USER_HOME$/Lab/RasDataSource/pom.xml" />
       <jump line="85" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" />
@@ -746,16 +744,18 @@
       <jump line="15" column="22" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
       <jump line="18" column="5" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
       <jump line="44" column="24" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
+      <jump line="10" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="9" column="9" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>alt</text>
+        <text>create</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bm90ZSBvdmVyIHdlYnNlYWw6IFBPU1QgLyBIVFRQLzEuMVxuSG9zdDogJHtBUExfSE9TVH1cblVzZXItQWdlbnQ6IEphdmEvMS44LjBfMjVcbkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uO1xuQWNjZXB0OiBhcHBsaWNhdGlvbi9qc29uXG57Iml2X3VzZXIiOiJpdmFub3YtaWlAc2JlcmJhbmsucnUiLCJKU0VTU0lPTklEIjoiQzM2NzI0NTMwOUU0RTgwNjA2MDY2RkRDRkJFMEVFNDMifQo=</text>
@@ -792,9 +792,9 @@
       </register>
     </registers>
     <search>
-      <last-search>alt</last-search>
+      <last-search>create</last-search>
       <last-offset />
-      <last-pattern>alt</last-pattern>
+      <last-pattern>create</last-pattern>
       <last-replace>pcp</last-replace>
       <last-substitute>odpz</last-substitute>
       <last-dir>1</last-dir>
@@ -802,8 +802,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jdbc</entry>
-        <entry>destr</entry>
         <entry>test</entry>
         <entry>employ</entry>
         <entry>одпз</entry>
@@ -822,6 +820,8 @@
         <entry>sber</entry>
         <entry>auth</entry>
         <entry>alt</entry>
+        <entry>pdp</entry>
+        <entry>create</entry>
       </history-search>
       <history-cmd>
         <entry>action CommentByLineComment</entry>
