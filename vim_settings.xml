@@ -10,10 +10,10 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1589401860718">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1589463214417">
         <mark key="'" line="25" column="26" />
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="165" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="26" />
         <mark key="." line="23" column="165" />
         <mark key="^" line="23" column="164" />
       </file>
@@ -99,11 +99,11 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" timestamp="1589354919075">
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" timestamp="1589463129503">
         <mark key="'" line="44" column="24" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="67" column="7" />
-        <mark key="." line="67" column="7" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="25" />
         <mark key="^" line="67" column="7" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/main/java/ru/uchkur/model/User.java" timestamp="1575907224524">
@@ -374,11 +374,12 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-versioning.puml" timestamp="1589461674950">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="11" column="11" />
-        <mark key="." line="11" column="10" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-versioning.puml" timestamp="1589463498740">
+        <mark key="'" line="7" column="92" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/main/java/ru/uchkur/chap1/Primitive.java" timestamp="1576435238221">
         <mark key="'" line="10" column="4" />
@@ -652,7 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="115" column="55" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
       <jump line="116" column="49" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/filters/SudirAuthFilter.java" />
@@ -752,46 +752,47 @@
       <jump line="13" column="40" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="16" column="149" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="23" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="5" column="92" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-versioning.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>upper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29tcG9uZW50ICLQn9Cw0L3QtdC70Ywg0LfQsNC/0YPRgdC60LAiIDw8YmFzZSBhcHBsaWNhdGlvbj4+IGFzIGFwcGxpc3RfY29tcG9uZW50Cg==</text>
+        <text encoding="base64">c2tpbnBhcmFtIGhhbmR3cml0dGVuIGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KCopICAtLT4gImNoZWNrIGlucHV0IgpJZiAiaW5wdXQgaXMgdmVyYm9zZSIgdGhlbgotLT4gW1llc10gInR1cm4gb24gdmVyYm9zaXR5IgotLT4gInJ1biBjb21tYW5kIgplbHNlCi0tPiAicnVuIGNvbW1hbmQiCkVuZGlmCi0tPigqKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBwZXAK</text>
+        <text encoding="base64">c2tpbnBhcmFtIGRwaSAzMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWN0aXZhdGUgcGVwCg==</text>
+        <text encoding="base64">KCopICAtLT4gImNoZWNrIGlucHV0IgpJZiAiaW5wdXQgaXMgdmVyYm9zZSIgdGhlbgotLT4gW1llc10gInR1cm4gb24gdmVyYm9zaXR5IgotLT4gInJ1biBjb21tYW5kIgplbHNlCi0tPiAicnVuIGNvbW1hbmQiCkVuZGlmCi0tPigqKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWN0aXZhdGUgd2Vic2VhbAo=</text>
+        <text encoding="base64">ZGVhY3RpdmF0ZSBwZXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0aXZhdGUgcGVwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWN0aXZhdGUgcmVnaXN0cmF0b3IK</text>
+        <text encoding="base64">YWN0aXZhdGUgd2Vic2VhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVnaXN0cmF0b3IgLS0+IHBlcDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">J1BPU1QgL3Nlc3Npb25zIEhUVFAvMS4xCg==</text>
+        <text encoding="base64">YWN0aXZhdGUgcmVnaXN0cmF0b3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVnaXN0cmF0b3IgLS0+IHBlcDoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
