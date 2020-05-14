@@ -374,6 +374,12 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
       </file>
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-versioning.puml" timestamp="1589461674950">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="11" />
+        <mark key="." line="11" column="10" />
+      </file>
       <file name="$USER_HOME$/Lab/yandex/yanterview/src/main/java/ru/uchkur/chap1/Primitive.java" timestamp="1576435238221">
         <mark key="'" line="10" column="4" />
         <mark key="[" line="8" column="38" />
@@ -752,37 +758,37 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>upper</text>
       </register>
-      <register name="0" type="4">
-        <text>HTTP/1.1 201 Created\nLocation: /sessions/${sber_pdi}/${JSESSIONID}\nContent-Length: 0</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29tcG9uZW50ICLQn9Cw0L3QtdC70Ywg0LfQsNC/0YPRgdC60LAiIDw8YmFzZSBhcHBsaWNhdGlvbj4+IGFzIGFwcGxpc3RfY29tcG9uZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVhY3RpdmF0ZSBwZXAK</text>
+        <text encoding="base64">KCopICAtLT4gImNoZWNrIGlucHV0IgpJZiAiaW5wdXQgaXMgdmVyYm9zZSIgdGhlbgotLT4gW1llc10gInR1cm4gb24gdmVyYm9zaXR5IgotLT4gInJ1biBjb21tYW5kIgplbHNlCi0tPiAicnVuIGNvbW1hbmQiCkVuZGlmCi0tPigqKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWN0aXZhdGUgcGVwCg==</text>
+        <text encoding="base64">ZGVhY3RpdmF0ZSBwZXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWN0aXZhdGUgd2Vic2VhbAo=</text>
+        <text encoding="base64">YWN0aXZhdGUgcGVwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0aXZhdGUgd2Vic2VhbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWN0aXZhdGUgcmVnaXN0cmF0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVnaXN0cmF0b3IgLS0+IHBlcDoK</text>
+        <text encoding="base64">YWN0aXZhdGUgcmVnaXN0cmF0b3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">J1BPU1QgL3Nlc3Npb25zIEhUVFAvMS4xCg==</text>
+        <text encoding="base64">cmVnaXN0cmF0b3IgLS0+IHBlcDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">J1BPU1QgL3Nlc3Npb25zIEhUVFAvMS4xCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
