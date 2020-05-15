@@ -367,12 +367,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/RasDataSourceApplication.java" timestamp="1589489718074">
-        <mark key="'" line="33" column="59" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="21" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/RasDataSourceApplication.java" timestamp="1589519015898">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/ras-seq.puml" timestamp="1588635152652">
         <mark key="'" line="21" column="5" />
@@ -669,8 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="32" filename="$USER_HOME$/Lab/RasDataSource/src/test/java/ru/sbrf/lab/UserControllerTest.java" />
-      <jump line="16" column="16" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-sequence.puml" />
       <jump line="12" column="4" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-sequence.puml" />
       <jump line="18" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-sequence.puml" />
       <jump line="17" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-sequence.puml" />
@@ -769,6 +767,8 @@
       <jump line="7" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
       <jump line="17" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
       <jump line="85" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/RasDataSourceApplication.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/RasDataSourceApplication.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -784,31 +784,31 @@
         <text encoding="base64">YXBsLnNlY3VyaXR5LlJlZ2lzdHJhdG9ySW1wbCAtLT4gb3JhY2xlLnNlY3VyaXR5LnhzLlhTTWFuYWdlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yYWNsZS5zZWN1cml0eS54ZHMuKjsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlNlcnZlclNvY2tldDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5FbmFibGVUcmFuc2FjdGlvbk1hbmFnZW1lbnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LVN0cmluZyBzZXRSYXNTYXVOYW1lKFN0cmluZyByYXNTYXVOYW1lKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5qcGEucmVwb3NpdG9yeS5jb25maWcuRW5hYmxlSnBhUmVwb3NpdG9yaWVzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3RydWN0b3IK</text>
+        <text encoding="base64">aW1wb3J0IG9yYWNsZS5zZWN1cml0eS54ZHMuKjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBsLnNlY3VyaXR5LkFQTFNlc3Npb24gLS1vIGFwbC5zZWN1cml0eS5SZWdpc3RyYXRvckltcGwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgYXBsLnNlY3VyaXR5LkFQTFNlc3Npb24gIGltcGxlbWVudHMgb3JhY2xlLnNlY3VyaXR5LnhzLlNlc3Npb24gewoKfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LVN0cmluZyBzcwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">LVN0cmluZyBzZXRSYXNTYXVOYW1lKFN0cmluZyByYXNTYXVOYW1lKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3RydWN0b3IK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">YXBsLnNlY3VyaXR5LkFQTFNlc3Npb24gLS1vIGFwbC5zZWN1cml0eS5SZWdpc3RyYXRvckltcGwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Kwo=</text>
+        <text encoding="base64">Y2xhc3MgYXBsLnNlY3VyaXR5LkFQTFNlc3Npb24gIGltcGxlbWVudHMgb3JhY2xlLnNlY3VyaXR5LnhzLlNlc3Npb24gewoKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
