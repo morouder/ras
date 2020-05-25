@@ -242,6 +242,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="1" />
       </file>
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" timestamp="1590416563515">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+      </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/repository/CustomerRepository.java" timestamp="1586328264507">
         <mark key="'" line="21" column="1" />
         <mark key="[" line="19" column="0" />
@@ -780,40 +786,40 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>aplsession</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBsLnNlY3VyaXR5LlJlZ2lzdHJhdG9ySW1wbCAtLT4gb3JhY2xlLnNlY3VyaXR5LnhzLlhTTWFuYWdlcgo=</text>
+        <text encoding="base64">LS0+ItCS0YvQv9C+0LvQvdC40YLRjCDQu9C+0LPQuNGH0LXRgdC60Lgg0YbQtdC70YPRjiDQtdC00LjQvdC40YbRgyDRgNCw0LHQvtGC0YsiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWN0b3IgZ2l0bGFiCg==</text>
+        <text encoding="base64">SWYgItCS0LXRgtC60LAg0LTQu9GPINC30LDQtNCw0YfQuCDQtdGB0YLRjD8iIHRoZW4KLS0+IFtZZXNdICJnaXQgY2hlY2tvdXQgZmVhdHVyZS9BUEwtMDIxIgotLT4i0JLRi9C/0L7Qu9C90LjRgtGMINC70L7Qs9C40YfQtdGB0LrQuCDRhtC10LvRg9GOINC10LTQuNC90LjRhtGDINGA0LDQsdC+0YLRiyIKZWxzZQotLT5bTm9dIGdpdCBicmFuY2ggZmVhdHVyZS9BUEwtMDIxCkVuZGlmCi0tPiLQktGL0L/QvtC70L3QuNGC0Ywg0LvQvtCz0LjRh9C10YHQutC4INGG0LXQu9GD0Y4g0LXQtNC40L3QuNGG0YMg0YDQsNCx0L7RgtGLIgotLT4iZ2l0IGNvbW1pdCAtbSfQstGL0L/QvtC70L3QtdC90LAg0YDQsNC30YDQsNCx0L7RgtC60LAg0LfQsNC00LDRh9C4IEFQTC0wMjEnIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlNlcnZlclNvY2tldDsK</text>
+        <text encoding="base64">LS0+ItCh0L7Qt9C00LDRgtGMINC30LDQtNCw0YfRgyDQsiBKaXJhIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5FbmFibGVUcmFuc2FjdGlvbk1hbmFnZW1lbnQ7Cg==</text>
+        <text encoding="base64">LS0+W3llc10gaWYgItCS0LXRgtC60LAg0LTQu9GPINC30LDQtNCw0YfQuCDQtdGB0YLRjD8iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5qcGEucmVwb3NpdG9yeS5jb25maWcuRW5hYmxlSnBhUmVwb3NpdG9yaWVzOwo=</text>
+        <text encoding="base64">LS0+W3llc10gaWYgItCS0LXRgtC60LAg0LTQu9GPINC30LDQtNCw0YfQuCDQtdGB0YLRjD8iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yYWNsZS5zZWN1cml0eS54ZHMuKjsK</text>
+        <text encoding="base64">LS0+W3llc10gaWYgItCS0LXRgtC60LAg0LXRgdGC0Yw/Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0+INCh0L7Qt9C00LDRgtGMINC30LDQtNCw0YfRgzEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LVN0cmluZyBzZXRSYXNTYXVOYW1lKFN0cmluZyByYXNTYXVOYW1lKQo=</text>
+        <text encoding="base64">LS0+ICLQodC+0LfQtNCw0YLRjCDQt9Cw0LTQsNGH0YMiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3RydWN0b3IK</text>
+        <text encoding="base64">ZW5kaWYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBsLnNlY3VyaXR5LkFQTFNlc3Npb24gLS1vIGFwbC5zZWN1cml0eS5SZWdpc3RyYXRvckltcGwK</text>
+        <text encoding="base64">LS0+W1llc10gImYiIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -918,6 +924,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
