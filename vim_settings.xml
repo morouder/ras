@@ -242,12 +242,13 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" timestamp="1590433051126">
-        <mark key="[" line="27" column="67" />
-        <mark key="k" line="28" column="29" />
-        <mark key="]" line="27" column="67" />
-        <mark key="^" line="27" column="67" />
-        <mark key="." line="27" column="67" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" timestamp="1590455930558">
+        <mark key="'" line="62" column="0" />
+        <mark key="k" line="65" column="29" />
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+        <mark key="^" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/repository/CustomerRepository.java" timestamp="1586328264507">
         <mark key="'" line="21" column="1" />
@@ -681,10 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-sequence.puml" />
-      <jump line="97" column="6" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-sequence.puml" />
-      <jump line="8" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-sequence.puml" />
-      <jump line="3" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-sequence.puml" />
       <jump line="9" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-sequence.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-sequence.puml" />
       <jump line="14" column="7" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/login.puml" />
@@ -777,50 +774,54 @@
       <jump line="44" column="6" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="18" column="6" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="17" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="7" column="3" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="4" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="28" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="29" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="7" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="32" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="2" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="57" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>true</text>
       </register>
-      <register name="0" type="4">
-        <text>git commit -m&quot;some text&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">J3RpdGxlINCf0YDQvtGG0LXRgdGBINGA0LDQt9GA0LDQsdC+0YLQutC4INCyIEdpdGxhYiAtINC/0L7QtNCz0L7RgtC+0LLQutCwINGB0YDQtdC00YsgZ2l0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fGdpdCBjb21taXQgLW0i0YTRg9C90LrRhtC40Y8gQVBMLTAxMCDRgNC10LDQu9C40LfQvtCy0LDQvdCwIi0tPnNdCg==</text>
+        <text encoding="base64">LQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CicoKikgIC0tPiAi0YDQtdC/0L7Qt9C40YLQvtGA0LjQuSDQutC70L7QvdC40YDQvtCy0LDQvSIKJ25vdGUgcmlnaHQKJ0E6IGdpdCBjbG9uZSA8dXJsL3RvL3JlcG9zaXRvcnk+CidlbmQgbm90ZQonSWYgItCX0LDQtNCw0YfQsCDQsiBKSVJBINC10YHRgtGMPyIgdGhlbgonLS0+W25vXSAgItCh0L7Qt9C00LDRgtGMINC30LDQtNCw0YfRgyDQsiBKaXJhIgonZWxzZQonLS0+W3llc10gImQiCidlbmRpZgonSWYgItCS0LXRgtC60LAg0LTQu9GPINC30LDQtNCw0YfQuCDQtdGB0YLRjD8iIHRoZW4KJy0tPiBbWWVzXSAiZ2l0IGNoZWNrb3V0IGZlYXR1cmUvQVBMLTAyMSIKJy0tPiLQktGL0L/QvtC70L3QuNGC0Ywg0LvQvtCz0LjRh9C10YHQutC4INGG0LXQu9GD0Y4g0LXQtNC40L3QuNGG0YMg0YDQsNCx0L7RgtGLIgonZWxzZQonLS0+W05vXSBnaXQgYnJhbmNoIGZlYXR1cmUvQVBMLTAyMQonRW5kaWYKJy0tPiLQktGL0L/QvtC70L3QuNGC0Ywg0LvQvtCz0LjRh9C10YHQutC4INGG0LXQu9GD0Y4g0LXQtNC40L3QuNGG0YMg0YDQsNCx0L7RgtGLIgonLS0+ImdpdCBjb21taXQgLW0n0LLRi9C/0L7Qu9C90LXQvdCwINGA0LDQt9GA0LDQsdC+0YLQutCwINC30LDQtNCw0YfQuCBBUEwtMDIxJyIKQGVuZHVtbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JyLQodC+0LfQtNCw0YLRjCDQt9Cw0LTQsNGH0YMg0LIgSmlyYSItLT4gaWYgItCS0LXRgtC60LAg0LXRgdGC0Yw/IiB0aGVuCg==</text>
+        <text encoding="base64">fEdpdExhYnwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QTogZ2l0IGNoZWNrb3V0IGZlYXR1cmUvQVBMLTAxMAo=</text>
+        <text encoding="base64">fEdpdExhYnwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QTogZ2l0IGJyYW5jaCBmZWF0dXJlL0FQTC0wMTAK</text>
+        <text encoding="base64">fNCS0LvQsNC00LXQu9C10YYg0L/RgNC+0LTRg9C60YLQsHwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0+W2ZhbHNlXSAi0KHQvtC30LTQsNGC0YwiCg==</text>
+        <text encoding="base64">fNCS0LvQsNC00LXQu9C10YYg0L/RgNC+0LTRg9C60YLQsHwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICdpZiAi0JLQtdGC0LrQsCDQtdGB0YLRjD8iIHRoZW4K</text>
+        <text encoding="base64">ZW5kaWYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0+PT09Zj09PQo=</text>
+        <text encoding="base64">J2Vsc2VpZiAoY29uZGl0aW9uIEIpIHRoZW4gKHllcykKJyAgOlRleHQgMjsKJyAgc3RvcAonZWxzZWlmIChjb25kaXRpb24gQykgdGhlbiAoeWVzKQonICA6VGV4dCAzOwonZWxzZWlmIChjb25kaXRpb24gRCkgdGhlbiAoeWVzKQonICA6VGV4dCA0OwonZWxzZSAobm90aGluZykKJyAgOlRleHQgZWxzZTsKJ2VuZGlmCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/true/ДА</text>
