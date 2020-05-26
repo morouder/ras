@@ -242,12 +242,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" timestamp="1590457619514">
-        <mark key="'" line="28" column="7" />
-        <mark key="k" line="83" column="29" />
-        <mark key="[" line="47" column="23" />
-        <mark key="]" line="47" column="23" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" timestamp="1590458623937">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="50" column="5" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/repository/CustomerRepository.java" timestamp="1586328264507">
         <mark key="'" line="21" column="1" />
@@ -681,18 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="35" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/login.puml" />
-      <jump line="6" column="32" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/login.puml" />
-      <jump line="26" column="9" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/login.puml" />
-      <jump line="21" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/activity.puml" />
-      <jump line="19" column="29" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
-      <jump line="27" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
-      <jump line="16" column="17" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
-      <jump line="15" column="19" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
-      <jump line="86" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-deployment.puml" />
-      <jump line="2" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
-      <jump line="67" column="7" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
-      <jump line="21" column="21" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
       <jump line="33" column="9" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
       <jump line="17" column="17" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
       <jump line="1" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
@@ -766,81 +754,89 @@
       <jump line="85" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="55" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/RasDataSourceApplication.java" />
       <jump line="6" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/RasDataSourceApplication.java" />
-      <jump line="44" column="6" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="18" column="6" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="4" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="29" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="7" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="32" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="2" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="57" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="46" column="18" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="17" column="5" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="1" column="71" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="20" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="59" column="1" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="54" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="24" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="19" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="50" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="44" column="1" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="29" column="1" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="18" column="4" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="35" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="7" column="2" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="49" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="30" column="1" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="43" column="1" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="2" column="4" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="9" column="4" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="27" column="4" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="28" column="4" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="51" column="4" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="28" column="7" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="40" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>git</text>
+        <text>40</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">fNCg0LDQt9GA0LDQsdC+0YLRh9C40Lp8Cg==</text>
+        <text encoding="base64">fEdpdExhYnwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LdCX0LDQutGA0YvRgtGMINC30LDQtNCw0YfRgyBBUEwtMDEwCg==</text>
+        <text encoding="base64">fDMwIEdpdExhYnwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVmIG92ZXIg0K3QutGB0L/Qu9GD0LDRgtC40YDQvtCy0LDRgtGMIAo=</text>
+        <text encoding="base64">LTMwLjgg0JfQsNC60YDRi9GC0Ywg0LfQsNC00LDRh9GDIEFQTC0wMTAg0LIgSklSQQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVwZWF0Cg==</text>
+        <text encoding="base64">LdCX0LDQutGA0YvRgtGMINC30LDQtNCw0YfRgyBBUEwtMDEwINCyIEpJUkEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVwZWF0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LdCV0YHRgtGMINC+0YjQuNCx0LrQuCAtINGB0Lwg0J/RgNC+0YbQtdGB0YEg0YPQv9GA0LDQstC70LXQvdC40Y9cbtC+0YjQuNCx0LrQsNC80Lgg0J/RgNC+0LzRi9GI0LvQtdC90L3QvtC5INGB0YDQtdC00YsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Jy1yZXZpZXcg0LrQvtC00LAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVwZWF0CnJlcGVhdApyZXBlYXQKcmVwZWF0CnJlcGVhdAo=</text>
+        <text encoding="base64">J3xDb2RlIHJldmlld2VyfAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVwZWF0CnJlcGVhdApyZXBlYXQKcmVwZWF0CnJlcGVhdAo=</text>
+        <text encoding="base64">J0BzdGFydHVtbAondGl0bGUg0J/RgNC+0YbQtdGB0YEg0YDQsNC30YDQsNCx0L7RgtC60Lgg0LIgR2l0bGFiIC0g0L/QvtC00LPQvtGC0L7QstC60LAg0YHRgNC10LTRiyBnaXQKJygqKSAgLS0+ICLRgNC10L/QvtC30LjRgtC+0YDQuNC5INC60LvQvtC90LjRgNC+0LLQsNC9Igonbm90ZSByaWdodAonZ2l0IGNsb25lIDx1cmwvdG8vcmVwb3NpdG9yeT4KJ2VuZCBub3RlCidJZiAi0JfQsNC00LDRh9CwINCyIEpJUkEg0LXRgdGC0Yw/IiB0aGVuCictLT5b0J3QldCiXSAgItCh0L7Qt9C00LDRgtGMINC30LDQtNCw0YfRgyDQsiBKaXJhIEFQTC0wMTAiCictLT4gaWYgItCS0LXRgtC60LAg0LXRgdGC0Yw/IgonLS0+W9Cd0JXQol0gItCh0L7Qt9C00LDRgtGMIgonZWxzZQonLS0+W9CU0JBdICLQuNGB0L/QvtC70YzQt9C+0LLQsNGC0YwiCidlbmRpZgonZWxzZQonLS0+W9CU0JBdICBpZiAi0JLQtdGC0LrQsCDQtdGB0YLRjD8iIHRoZW4KJy0tPlvQndCV0KJdICLQodC+0LfQtNCw0YLRjCIKJ25vdGUgcmlnaHQKJ2dpdCBicmFuY2ggZmVhdHVyZS9BUEwtMDEwCidlbmQgbm90ZQonZWxzZQonLS0+W9CU0JBdICLQuNGB0L/QvtC70YzQt9C+0LLQsNGC0YwiCidub3RlIHJpZ2h0CidnaXQgY2hlY2tvdXQgZmVhdHVyZS9BUEwtMDEwCidlbmQgbm90ZQonZW5kaWYKJyLQuNGB0L/QvtC70YzQt9C+0LLQsNGC0YwiLS0+ItCg0LDQt9GA0LDQsdC+0YLQsNGC0Ywg0LvQvtCz0LjRh9C10YHQutC4INGG0LXQu9GM0L3Rg9GOINGH0LDRgdGC0Ywg0YEg0LDQstGC0L7RgtC10YHRgtCw0LzQuCIKJyLQodC+0LfQtNCw0YLRjCItLT4i0KDQsNC30YDQsNCx0L7RgtCw0YLRjCDQu9C+0LPQuNGH0LXRgdC60Lgg0YbQtdC70YzQvdGD0Y4g0YfQsNGB0YLRjCDRgSDQsNCy0YLQvtGC0LXRgdGC0LDQvNC4IgonItCg0LDQt9GA0LDQsdC+0YLQsNGC0Ywg0LvQvtCz0LjRh9C10YHQutC4INGG0LXQu9GM0L3Rg9GOINGH0LDRgdGC0Ywg0YEg0LDQstGC0L7RgtC10YHRgtCw0LzQuCIgLS0+ICJnaXQgY29tbWl0IgonImdpdCBjb21taXQiIC0tPiAiZ2l0IHB1c2giCidAZW5kdW1sCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fEpJUkF8Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/true/ДА</text>
+        <text>%s/40/30/g</text>
       </register>
     </registers>
     <search>
-      <last-search>git</last-search>
+      <last-search>40</last-search>
       <last-offset />
-      <last-pattern>git</last-pattern>
-      <last-replace>ДА</last-replace>
-      <last-substitute>true</last-substitute>
+      <last-pattern>40</last-pattern>
+      <last-replace>30</last-replace>
+      <last-substitute>40</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dlau</entry>
-        <entry>locati</entry>
-        <entry>pdi</entry>
-        <entry>jsess</entry>
         <entry>upper</entry>
         <entry>cooki</entry>
         <entry>forse</entry>
@@ -857,11 +853,12 @@
         <entry>false</entry>
         <entry>true</entry>
         <entry>git</entry>
+        <entry>Владелец продукта</entry>
+        <entry>GitLab</entry>
+        <entry encoding="base64">XDzQoNCw0LfRgNCw0LHQvtGC0YfQuNC6XD4=</entry>
+        <entry>40</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoClass</entry>
-        <entry>action GotoSymbol</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>actionlist</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
@@ -879,6 +876,9 @@
         <entry>w</entry>
         <entry>%s/false/НЕТ</entry>
         <entry>%s/true/ДА</entry>
+        <entry>%s/Владелец продукта/20 Владелец продукта</entry>
+        <entry>%s/GitLab/40 GitLab</entry>
+        <entry>%s/40/30/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
