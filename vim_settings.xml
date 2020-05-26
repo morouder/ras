@@ -242,13 +242,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" timestamp="1590455930558">
-        <mark key="'" line="62" column="0" />
-        <mark key="k" line="65" column="29" />
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="16" column="5" />
-        <mark key="." line="16" column="5" />
-        <mark key="^" line="16" column="5" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" timestamp="1590457619514">
+        <mark key="'" line="28" column="7" />
+        <mark key="k" line="83" column="29" />
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="47" column="23" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/repository/CustomerRepository.java" timestamp="1586328264507">
         <mark key="'" line="21" column="1" />
@@ -682,10 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-sequence.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-sequence.puml" />
-      <jump line="14" column="7" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/login.puml" />
-      <jump line="22" column="6" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/login.puml" />
       <jump line="7" column="35" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/login.puml" />
       <jump line="6" column="32" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/login.puml" />
       <jump line="26" column="9" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/login.puml" />
@@ -773,64 +768,68 @@
       <jump line="6" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/RasDataSourceApplication.java" />
       <jump line="44" column="6" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="18" column="6" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="17" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="4" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="28" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="29" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="7" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="32" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="2" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="57" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="46" column="18" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="17" column="5" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="1" column="71" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="20" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="59" column="1" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="28" column="7" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>true</text>
+        <text>git</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">J3RpdGxlINCf0YDQvtGG0LXRgdGBINGA0LDQt9GA0LDQsdC+0YLQutC4INCyIEdpdGxhYiAtINC/0L7QtNCz0L7RgtC+0LLQutCwINGB0YDQtdC00YsgZ2l0Cg==</text>
+        <text encoding="base64">fNCg0LDQt9GA0LDQsdC+0YLRh9C40Lp8Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LQo=</text>
+        <text encoding="base64">LdCX0LDQutGA0YvRgtGMINC30LDQtNCw0YfRgyBBUEwtMDEwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVmIG92ZXIg0K3QutGB0L/Qu9GD0LDRgtC40YDQvtCy0LDRgtGMIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVwZWF0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fEdpdExhYnwK</text>
+        <text encoding="base64">cmVwZWF0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fEdpdExhYnwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fNCS0LvQsNC00LXQu9C10YYg0L/RgNC+0LTRg9C60YLQsHwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fNCS0LvQsNC00LXQu9C10YYg0L/RgNC+0LTRg9C60YLQsHwK</text>
+        <text encoding="base64">cmVwZWF0CnJlcGVhdApyZXBlYXQKcmVwZWF0CnJlcGVhdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW5kaWYK</text>
+        <text encoding="base64">cmVwZWF0CnJlcGVhdApyZXBlYXQKcmVwZWF0CnJlcGVhdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">J2Vsc2VpZiAoY29uZGl0aW9uIEIpIHRoZW4gKHllcykKJyAgOlRleHQgMjsKJyAgc3RvcAonZWxzZWlmIChjb25kaXRpb24gQykgdGhlbiAoeWVzKQonICA6VGV4dCAzOwonZWxzZWlmIChjb25kaXRpb24gRCkgdGhlbiAoeWVzKQonICA6VGV4dCA0OwonZWxzZSAobm90aGluZykKJyAgOlRleHQgZWxzZTsKJ2VuZGlmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/true/ДА</text>
       </register>
     </registers>
     <search>
-      <last-search>true</last-search>
+      <last-search>git</last-search>
       <last-offset />
-      <last-pattern>true</last-pattern>
+      <last-pattern>git</last-pattern>
       <last-replace>ДА</last-replace>
       <last-substitute>true</last-substitute>
       <last-dir>1</last-dir>
@@ -838,7 +837,6 @@
     </search>
     <history>
       <history-search>
-        <entry>applic</entry>
         <entry>dlau</entry>
         <entry>locati</entry>
         <entry>pdi</entry>
@@ -858,6 +856,7 @@
         <entry>aplsession</entry>
         <entry>false</entry>
         <entry>true</entry>
+        <entry>git</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
