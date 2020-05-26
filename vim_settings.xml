@@ -242,12 +242,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" timestamp="1590461077411">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="22" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" timestamp="1590479557098">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/repository/CustomerRepository.java" timestamp="1586328264507">
         <mark key="'" line="21" column="1" />
@@ -388,11 +387,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-deployment.puml" timestamp="1589400027068">
-        <mark key="'" line="86" column="0" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-deployment.puml" timestamp="1590487837466">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="26" />
+        <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/RasDataSource.java" timestamp="1587277142588">
         <mark key="'" line="38" column="0" />
@@ -681,7 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="9" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
       <jump line="17" column="17" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
       <jump line="1" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case.puml" />
@@ -781,46 +780,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="40" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="49" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
+      <jump line="15" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-deployment.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>40</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">fEdpdExhYnwK</text>
+        <text encoding="base64">J3NraW5wYXJhbSBkcGkgMzAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IFlvdSBjYW4gdXNlIGltYWdlcwo=</text>
+        <text encoding="base64">c3RvcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29tcG9uZW50IFtBcHBsaWNhdGlvbjEgaWNvMV0gYXMgQTEK</text>
+        <text encoding="base64">c3RhcnQKOmZvbzsKbm90ZSBsZWZ0CgplbmQgbm90ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhcnQK</text>
+        <text encoding="base64">PGltZzpodHRwczovL2Fib3V0LmdpdGxhYi5jb20vaW1hZ2VzL2Jsb2dpbWFnZXMvaWRlYS10by1wcm9kdWN0aW9uLTEwLXN0ZXBzLnBuZz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IWRlZmluZSBpY28xIDxpbWcgc3JjPSJodHRwczovL2Fib3V0LmdpdGxhYi5jb20vaW1hZ2VzL2Jsb2dpbWFnZXMvaWRlYS10by1wcm9kdWN0aW9uLTEwLXN0ZXBzLnBuZyI+Cg==</text>
+        <text encoding="base64">IFlvdSBjYW4gdXNlIGltYWdlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29tcG9uZW50IFtBcHBsaWNhdGlvbjEgaWNvMV0gYXMgQTEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">OlNvbWUgW1todHRwOi8vcGxhbnR1bWwuY29tIGxpbmtdXTsK</text>
+        <text encoding="base64">c3RhcnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">OlNvbWUgW1todHRwOi8vcGxhbnR1bWwuY29tIGxpbmtdXTsK</text>
+        <text encoding="base64">IWRlZmluZSBpY28xIDxpbWcgc3JjPSJodHRwczovL2Fib3V0LmdpdGxhYi5jb20vaW1hZ2VzL2Jsb2dpbWFnZXMvaWRlYS10by1wcm9kdWN0aW9uLTEwLXN0ZXBzLnBuZyI+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IWRlZmluZSBpY28xIDxpbWcgc3JjPSJodHRwczovL2Fib3V0LmdpdGxhYi5jb20vaW1hZ2VzL2Jsb2dpbWFnZXMvaWRlYS10by1wcm9kdWN0aW9uLTEwLXN0ZXBzLnBuZyI+Cg==</text>
+        <text encoding="base64">OlNvbWUgW1todHRwOi8vcGxhbnR1bWwuY29tIGxpbmtdXTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/40/30/g</text>
