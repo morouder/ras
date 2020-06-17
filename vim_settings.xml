@@ -333,8 +333,8 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="118" column="4" />
       </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1589463214417">
-        <mark key="'" line="25" column="26" />
+      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" timestamp="1592392938293">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="26" />
         <mark key="." line="23" column="165" />
@@ -680,7 +680,6 @@
       <jump line="7" column="8" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="17" column="22" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="20" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="51" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
       <jump line="15" column="22" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
@@ -694,7 +693,6 @@
       <jump line="110" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="5" column="4" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="25" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
-      <jump line="9" column="39" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="26" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="15" column="9" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="22" column="171" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
@@ -770,6 +768,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-integration-ekp.puml" />
       <jump line="21" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-integration-ekp.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-integration-ekp.puml" />
+      <jump line="9" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
