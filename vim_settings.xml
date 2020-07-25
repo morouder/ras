@@ -102,12 +102,12 @@
         <mark key="." line="16" column="33" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" timestamp="1595715202596">
-        <mark key="'" line="33" column="75" />
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-        <mark key="^" line="30" column="24" />
+      <file name="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" timestamp="1595720707444">
+        <mark key="'" line="13" column="21" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tictactoe_example/src/main/java/Advanced_Minimax.java" timestamp="1527921954511">
         <mark key="'" line="333" column="0" />
@@ -573,12 +573,12 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/Lab/file-loader/pom.xml" timestamp="1595713241103">
-        <mark key="'" line="37" column="25" />
-        <mark key="[" line="37" column="17" />
-        <mark key="]" line="37" column="17" />
-        <mark key="^" line="37" column="24" />
-        <mark key="." line="37" column="17" />
+      <file name="$USER_HOME$/Lab/file-loader/pom.xml" timestamp="1595719531482">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="43" column="13" />
+        <mark key="^" line="55" column="3" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" timestamp="1588749471510">
         <mark key="'" line="2" column="15" />
@@ -608,12 +608,12 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="55" column="1" />
       </file>
-      <file name="$USER_HOME$/Lab/file-loader/src/main/resources/static/index.html" timestamp="1595694146786">
+      <file name="$USER_HOME$/Lab/file-loader/src/main/resources/static/index.html" timestamp="1595720398003">
         <mark key="'" line="28" column="11" />
-        <mark key="[" line="3" column="93" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="23" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/test/java/RasDataSourceAppTest.java" timestamp="1589002127067">
         <mark key="[" line="8" column="0" />
@@ -743,7 +743,7 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595715749418">
+      <file name="/Dummy.txt" timestamp="1595720752478">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -798,6 +798,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE.jar!/org/springframework/util/PropertyPlaceholderHelper.class" timestamp="1595719326620" />
       <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-login-use-case.puml" timestamp="1588535246863">
         <mark key="'" line="2" column="22" />
         <mark key="[" line="2" column="0" />
@@ -805,17 +806,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1595715749408">
+      <file name="/fragment.java" timestamp="1595720752473">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="46" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
-      <jump line="19" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
-      <jump line="12" column="10" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
       <jump line="6" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
       <jump line="23" column="26" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
       <jump line="7" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
@@ -906,22 +903,26 @@
       <jump line="23" column="4" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/model/DBFile.java" />
       <jump line="24" column="26" filename="$USER_HOME$/Lab/file-loader/src/main/resources/static/js/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/resources/static/js/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" />
       <jump line="2" column="75" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" />
       <jump line="37" column="25" filename="$USER_HOME$/Lab/file-loader/pom.xml" />
       <jump line="12" column="3" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application-local.properties" />
       <jump line="9" column="5" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application-local.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application-local.properties" />
+      <jump line="4" column="0" filename="$USER_HOME$/Lab/file-loader/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/file-loader/pom.xml" />
+      <jump line="27" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" />
+      <jump line="13" column="21" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>demo</text>
+        <text>local</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMgU3ByaW5nIERBVEFTT1VSQ0UgKERhdGFTb3VyY2VBdXRvQ29uZmlndXJhdGlvbiAmIERhdGFTb3VyY2VQcm9wZXJ0aWVzKQojc3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6b3JhY2xlOnRoaW46QGxvY2FsaG9zdDoxNTIxL2FwbGNvcmUKc3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6b3JhY2xlOnRoaW46QCR7T1BFTlNISUZUX09SQV9IT1NUfToke09QRU5TSElGVF9PUkFfUE9SVH0vJHtPUEVOU0hJRlRfT1JBX0FQTF9TUlZDfQpzcHJpbmcuZGF0YXNvdXJjZS51c2VybmFtZT0gJHtPUEVOU0hJRlRfT1JBX1VTRVJ9CnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPSAke09QRU5TSElGVF9PUkFfUEFTU30Kc3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kZWZhdWx0X3NjaGVtYT0ke09QRU5TSElGVF9PUkFfREVGQVVMVF9TQ0hFTUF9IAoKIyBUaGUgU1FMIGRpYWxlY3QgbWFrZXMgSGliZXJuYXRlIGdlbmVyYXRlIGJldHRlciBTUUwgZm9yIHRoZSBjaG9zZW4gZGF0YWJhc2UKc3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kaWFsZWN0ID0gb3JnLmhpYmVybmF0ZS5kaWFsZWN0Lk9yYWNsZTEyY0RpYWxlY3QKI3NwcmluZy5kYXRhc291cmNlLmhpa2FyaS5qZGJjLXVybD1qZGJjOm9yYWNsZTp0aGluOkBsb2NhbGhvc3Q6MTUyMS9hcGxjb3JlCnNwcmluZy5qcGEuaGliZXJuYXRlLmRkbC1hdXRvID0gdXBkYXRlCgojbG9nZ2luZy5sZXZlbC5vcmcuc3ByaW5nZnJhbWV3b3JrPUlORk8KbG9nZ2luZy5sZXZlbC5vcmcuaGliZXJuYXRlLlNRTD0gREVCVUcKCgojIyBNVUxUSVBBUlQgKE11bHRpcGFydFByb3BlcnRpZXMpCiMgRW5hYmxlIG11bHRpcGFydCB1cGxvYWRzCnNwcmluZy5zZXJ2bGV0Lm11bHRpcGFydC5lbmFibGVkPXRydWUKIyBUaHJlc2hvbGQgYWZ0ZXIgd2hpY2ggZmlsZXMgYXJlIHdyaXR0ZW4gdG8gZGlzay4Kc3ByaW5nLnNlcnZsZXQubXVsdGlwYXJ0LmZpbGUtc2l6ZS10aHJlc2hvbGQ9MktCCiMgTWF4IGZpbGUgc2l6ZS4Kc3ByaW5nLnNlcnZsZXQubXVsdGlwYXJ0Lm1heC1maWxlLXNpemU9MjAwME1CCiMgTWF4IFJlcXVlc3QgU2l6ZQpzcHJpbmcuc2VydmxldC5tdWx0aXBhcnQubWF4LXJlcXVlc3Qtc2l6ZT0yMDAwTUIKCiMjIEZpbGUgU3RvcmFnZSBQcm9wZXJ0aWVzCiMgQWxsIGZpbGVzIHVwbG9hZGVkIHRocm91Z2ggdGhlIFJFU1QgQVBJIHdpbGwgYmUgc3RvcmVkIGluIHRoaXMgZGlyZWN0b3J5CmZpbGUudXBsb2FkLWRpcj0uL3VwbG9hZHMK</text>
@@ -962,9 +963,9 @@
       </register>
     </registers>
     <search>
-      <last-search>demo</last-search>
+      <last-search>local</last-search>
       <last-offset />
-      <last-pattern>demo</last-pattern>
+      <last-pattern>local</last-pattern>
       <last-replace>30</last-replace>
       <last-substitute>40</last-substitute>
       <last-dir>1</last-dir>
@@ -972,8 +973,6 @@
     </search>
     <history>
       <history-search>
-        <entry>aplse</entry>
-        <entry>use</entry>
         <entry>regis</entry>
         <entry>aplsessio</entry>
         <entry>hasg</entry>
@@ -992,6 +991,8 @@
         <entry>pom.xml</entry>
         <entry>filede</entry>
         <entry>demo</entry>
+        <entry>prof</entry>
+        <entry>local</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
