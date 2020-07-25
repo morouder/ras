@@ -102,12 +102,12 @@
         <mark key="." line="16" column="33" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" timestamp="1595694659415">
-        <mark key="'" line="23" column="17" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="53" />
+      <file name="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" timestamp="1595713652339">
+        <mark key="'" line="2" column="75" />
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="76" />
+        <mark key="." line="5" column="78" />
+        <mark key="^" line="5" column="76" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tictactoe_example/src/main/java/Advanced_Minimax.java" timestamp="1527921954511">
         <mark key="'" line="333" column="0" />
@@ -568,8 +568,8 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/Lab/file-loader/pom.xml" timestamp="1595691209479">
-        <mark key="'" line="9" column="17" />
+      <file name="$USER_HOME$/Lab/file-loader/pom.xml" timestamp="1595713241103">
+        <mark key="'" line="37" column="25" />
         <mark key="[" line="37" column="17" />
         <mark key="]" line="37" column="17" />
         <mark key="^" line="37" column="24" />
@@ -738,7 +738,7 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595695579900">
+      <file name="/Dummy.txt" timestamp="1595713598498">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -794,16 +794,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1595685345651">
+      <file name="/fragment.java" timestamp="1595713598492">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="49" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
-      <jump line="13" column="22" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
-      <jump line="8" column="28" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
       <jump line="21" column="19" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
       <jump line="1" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
       <jump line="4" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" />
@@ -901,16 +898,19 @@
       <jump line="23" column="4" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/model/DBFile.java" />
       <jump line="24" column="26" filename="$USER_HOME$/Lab/file-loader/src/main/resources/static/js/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/resources/static/js/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" />
+      <jump line="2" column="75" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" />
+      <jump line="37" column="25" filename="$USER_HOME$/Lab/file-loader/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>’</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>pom.xml</text>
+        <text>demo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuaGlrYXJpLmpkYmMtdXJsPWpkYmM6b3JhY2xlOnRoaW46QGxvY2FsaG9zdDoxNTIxL2FwbGNvcmU9Cg==</text>
@@ -951,9 +951,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pom.xml</last-search>
+      <last-search>demo</last-search>
       <last-offset />
-      <last-pattern>pom.xml</last-pattern>
+      <last-pattern>demo</last-pattern>
       <last-replace>30</last-replace>
       <last-substitute>40</last-substitute>
       <last-dir>1</last-dir>
@@ -961,8 +961,6 @@
     </search>
     <history>
       <history-search>
-        <entry>forc</entry>
-        <entry>oracle</entry>
         <entry>aplse</entry>
         <entry>use</entry>
         <entry>regis</entry>
@@ -981,6 +979,8 @@
         <entry>build</entry>
         <entry>maven</entry>
         <entry>pom.xml</entry>
+        <entry>filede</entry>
+        <entry>demo</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
