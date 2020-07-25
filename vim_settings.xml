@@ -22,6 +22,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1595686155864">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/javaadvanced/pom.xml" timestamp="1526596971010">
         <mark key="'" line="11" column="2" />
         <mark key="[" line="1" column="50" />
@@ -78,6 +81,13 @@
         <mark key="^" line="126" column="86" />
         <mark key="." line="126" column="86" />
       </file>
+      <file name="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/service/FileStorageService.java" timestamp="1595685196558">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="3" column="64" />
+        <mark key="]" line="3" column="64" />
+        <mark key="." line="3" column="64" />
+        <mark key="^" line="3" column="63" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tvision/src/main/java/TApplication.java" timestamp="1528241370639">
         <mark key="'" line="32" column="4" />
         <mark key="[" line="4" column="13" />
@@ -91,6 +101,12 @@
         <mark key="]" line="16" column="33" />
         <mark key="." line="16" column="33" />
         <mark key="^" line="16" column="34" />
+      </file>
+      <file name="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" timestamp="1595686784098">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tictactoe_example/src/main/java/Advanced_Minimax.java" timestamp="1527921954511">
         <mark key="'" line="333" column="0" />
@@ -176,6 +192,13 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/exception/MyFileNotFoundException.java" timestamp="1595685315556">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/model/User.java" timestamp="1586580956823">
         <mark key="'" line="31" column="40" />
         <mark key="[" line="31" column="40" />
@@ -190,8 +213,17 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/oracle/ras/xs/1.0.0.0/xs-1.0.0.0.jar!/oracle/security/xs/XSSessionManager.class" timestamp="1589487863867">
-        <mark key="'" line="47" column="25" />
+      <file name="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/property/FileStorageProperties.java" timestamp="1595684423996">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/FileLoaderApplication.java" timestamp="1595686140347">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/repo/coda/src/main/java/RestApi.java" timestamp="1564902219704">
         <mark key="'" line="0" column="0" />
@@ -277,6 +309,13 @@
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
+      <file name="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/controller/FileController.java" timestamp="1595685928274">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="59" />
+        <mark key="." line="4" column="59" />
+        <mark key="^" line="4" column="59" />
+      </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/apl/common/SecurityContextHolderUserProvider.java" timestamp="1584221836232">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="14" column="58" />
@@ -312,7 +351,6 @@
         <mark key="." line="72" column="2" />
         <mark key="^" line="72" column="2" />
       </file>
-      <file name="$USER_HOME$/Lab/balance/src/main/java/apl/core/datamarts/balance/strategies/StageMigrationStrategy.java" timestamp="1592822165457" />
       <file name="$USER_HOME$/Lab/demo/src/main/java/com/example/demo/BlogController.java" timestamp="1582456118892">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="47" />
@@ -334,6 +372,13 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="27" column="27" />
       </file>
+      <file name="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/payload/UploadFileResponce.java" timestamp="1595685039124">
+        <mark key="'" line="48" column="1" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/RasDataSource.java" timestamp="1588779905462">
         <mark key="'" line="108" column="0" />
         <mark key="[" line="118" column="4" />
@@ -353,13 +398,6 @@
         <mark key="]" line="11" column="14" />
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
-      </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" timestamp="1589518181632">
-        <mark key="q" line="5" column="0" />
-        <mark key="'" line="85" column="12" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/datasource/DataSourceConfig.java" timestamp="1589048753715">
         <mark key="'" line="50" column="0" />
@@ -450,6 +488,13 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/exception/FileStorageException.java" timestamp="1595685252221">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/resources/application.yml" timestamp="1584169746543">
         <mark key="'" line="27" column="19" />
         <mark key="[" line="0" column="0" />
@@ -484,6 +529,13 @@
         <mark key="]" line="41" column="36" />
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
+      </file>
+      <file name="$USER_HOME$/Lab/file-loader/pom.xml" timestamp="1595685553989">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="21" column="14" />
       </file>
       <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-deployment.puml" timestamp="1588749471510">
         <mark key="'" line="2" column="15" />
@@ -524,12 +576,6 @@
         <mark key="]" line="36" column="13" />
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
-      </file>
-      <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-versioning.puml" timestamp="1591763966414">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/doc/pom.xml" timestamp="1526757966572">
         <mark key="'" line="0" column="0" />
@@ -638,7 +684,7 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589490583741">
+      <file name="/Dummy.txt" timestamp="1595685345655">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -654,6 +700,12 @@
         <mark key="]" line="69" column="21" />
         <mark key="^" line="68" column="35" />
         <mark key="." line="69" column="21" />
+      </file>
+      <file name="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/payload/UploadFileResponse.java" timestamp="1595685826786">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/model/Customer.java" timestamp="1584169655253">
         <mark key="'" line="22" column="1" />
@@ -682,28 +734,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1589486773857">
+      <file name="/fragment.java" timestamp="1595685345651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/balance/src/main/java/apl/core/datamarts/balance/strategies/MigrationStrategy.java" timestamp="1592516251041" />
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case-pcp.puml" />
-      <jump line="28" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case-pcp.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case-pcp.puml" />
-      <jump line="26" column="23" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/use-case-pcp.puml" />
-      <jump line="7" column="8" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
-      <jump line="17" column="22" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
-      <jump line="20" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
-      <jump line="51" column="20" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
-      <jump line="15" column="22" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
-      <jump line="18" column="5" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
-      <jump line="44" column="24" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-seq-jsessionid.puml" />
-      <jump line="10" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
-      <jump line="129" column="49" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="114" column="66" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
       <jump line="106" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/security/OracleConnectionPrepareAdvice.java" />
@@ -790,59 +827,69 @@
       <jump line="30" column="12" filename="$USER_HOME$/Lab/balance/pom.xml" />
       <jump line="34" column="36" filename="$USER_HOME$/Lab/balance/src/main/resources/application.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/balance/src/main/resources/application.yml" />
+      <jump line="62" column="10" filename="$USER_HOME$/Lab/file-loader/pom.xml" />
+      <jump line="50" column="0" filename="$USER_HOME$/Lab/file-loader/pom.xml" />
+      <jump line="48" column="10" filename="$USER_HOME$/Lab/file-loader/pom.xml" />
+      <jump line="72" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/controller/FileController.java" />
+      <jump line="15" column="1" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/payload/UploadFileResponce.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/service/FileStorageService.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/service/FileStorageService.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/exception/FileStorageException.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/exception/MyFileNotFoundException.java" />
+      <jump line="9" column="17" filename="$USER_HOME$/Lab/file-loader/pom.xml" />
+      <jump line="2" column="4" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/controller/FileController.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/controller/FileController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/controller/FileController.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/controller/FileController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>10.</text>
+        <text>build</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXJ0aWZhY3QgImFwbF9zdGcuZWtwXyoudGFibGVzIiBhcyBzdGdfdGFibGVzCg==</text>
+      <register name="0" type="4">
+        <text>ru.sbrf.ca.apl.file_loader.e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5kcG9pbnRzOgogIGFjdHVhdG9yOgogICAgZW5hYmxlZDogdHJ1ZQogIGZseXdheToKICAgIGVuYWJsZWQ6IHRydWUK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEZpbGVMb2FkZXJBcHBsaWNhdGlvbiB7Cn0KCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBlbmRwb2ludDoKICAgIGZseXdheToKICAgICAgZW5hYmxlZDogdHJ1ZQo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZW5kcG9pbnRzOgogICAgd2ViOgogICAgICBleHBvc3VyZToKICAgICAgICBpbmNsdWRlOiAqCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEZpbGVDb250cm9sbGVyIHsKfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJlYW5zOgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBVcGxvYWRGaWxlUmVzcG9uc2UoU3RyaW5nIGZpbGVOYW1lLCBTdHJpbmcgZmlsZURvd25sb2FkVXJpLCBTdHJpbmcgZmlsZVR5cGUsIGxvbmcgc2l6ZSkgewogICAgICAgIHRoaXMuZmlsZU5hbWUgPSBmaWxlTmFtZTsKICAgICAgICB0aGlzLmZpbGVEb3dubG9hZFVyaSA9IGZpbGVEb3dubG9hZFVyaTsKICAgICAgICB0aGlzLmZpbGVUeXBlID0gZmlsZVR5cGU7CiAgICAgICAgdGhpcy5zaXplID0gc2l6ZTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW5hYmxlZDogCg==</text>
+        <text encoding="base64">ICAgIC8vIEdldHRlcnMgYW5kIFNldHRlcnMgKE9taXR0ZWQgZm9yIGJyZXZpdHkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFVwbG9hZEZpbGVSZXNwb25zZSB7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIEdldHRlcnMgYW5kIFNldHRlcnMgKE9taXR0ZWQgZm9yIGJyZXZpdHkpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBlbmRwb2ludHM6CiAgICB3ZWI6CiAgICAgIGV4cG9zdXJlOgogICAgICAgIGluY2x1ZGU6ICo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHJ1LnNicmYuY2EuYXBsLmZpbGVfbG9hZGVyLnBheWxvYWQuVXBsb2FkRmlsZVJlc3BvbmNlOwppbXBvcnQgcnUuc2JyZi5jYS5hcGwuZmlsZV9sb2FkZXIuc2VydmljZS5GaWxlU3RvcmFnZVNlcnZpY2U7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyOwppbXBvcnQgb3JnLnNsZjRqLkxvZ2dlckZhY3Rvcnk7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLmZhY3RvcnkuYW5ub3RhdGlvbi5BdXRvd2lyZWQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmNvcmUuaW8uUmVzb3VyY2U7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuSHR0cEhlYWRlcnM7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuTWVkaWFUeXBlOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5odHRwLlJlc3BvbnNlRW50aXR5OwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuYmluZC5hbm5vdGF0aW9uLio7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5tdWx0aXBhcnQuTXVsdGlwYXJ0RmlsZTsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuc3VwcG9ydC5TZXJ2bGV0VXJpQ29tcG9uZW50c0J1aWxkZXI7CmltcG9ydCBqYXZheC5zZXJ2bGV0Lmh0dHAuSHR0cFNlcnZsZXRSZXF1ZXN0OwppbXBvcnQgamF2YS5pby5JT0V4Y2VwdGlvbjsKaW1wb3J0IGphdmEudXRpbC5BcnJheXM7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKaW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsKCkBSZXN0Q29udHJvbGxlcgpwdWJsaWMgY2xhc3MgRmlsZUNvbnRyb2xsZXIgewoKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihGaWxlQ29udHJvbGxlci5jbGFzcyk7CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBGaWxlU3RvcmFnZVNlcnZpY2UgZmlsZVN0b3JhZ2VTZXJ2aWNlOwoKICAgIEBQb3N0TWFwcGluZygiL3VwbG9hZEZpbGUiKQogICAgcHVibGljIFVwbG9hZEZpbGVSZXNwb25zZSB1cGxvYWRGaWxlKEBSZXF1ZXN0UGFyYW0oImZpbGUiKSBNdWx0aXBhcnRGaWxlIGZpbGUpIHsKICAgICAgICBTdHJpbmcgZmlsZU5hbWUgPSBmaWxlU3RvcmFnZVNlcnZpY2Uuc3RvcmVGaWxlKGZpbGUpOwoKICAgICAgICBTdHJpbmcgZmlsZURvd25sb2FkVXJpID0gU2VydmxldFVyaUNvbXBvbmVudHNCdWlsZGVyLmZyb21DdXJyZW50Q29udGV4dFBhdGgoKQogICAgICAgICAgICAgICAgLnBhdGgoIi9kb3dubG9hZEZpbGUvIikKICAgICAgICAgICAgICAgIC5wYXRoKGZpbGVOYW1lKQogICAgICAgICAgICAgICAgLnRvVXJpU3RyaW5nKCk7CgogICAgICAgIHJldHVybiBuZXcgVXBsb2FkRmlsZVJlc3BvbnNlKGZpbGVOYW1lLCBmaWxlRG93bmxvYWRVcmksCiAgICAgICAgICAgICAgICBmaWxlLmdldENvbnRlbnRUeXBlKCksIGZpbGUuZ2V0U2l6ZSgpKTsKICAgIH0KCiAgICBAUG9zdE1hcHBpbmcoIi91cGxvYWRNdWx0aXBsZUZpbGVzIikKICAgIHB1YmxpYyBMaXN0PFVwbG9hZEZpbGVSZXNwb25zZT4gdXBsb2FkTXVsdGlwbGVGaWxlcyhAUmVxdWVzdFBhcmFtKCJmaWxlcyIpIE11bHRpcGFydEZpbGVbXSBmaWxlcykgewogICAgICAgIHJldHVybiBBcnJheXMuYXNMaXN0KGZpbGVzKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKGZpbGUgLT4gdXBsb2FkRmlsZShmaWxlKSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgfQoKICAgIEBHZXRNYXBwaW5nKCIvZG93bmxvYWRGaWxlL3tmaWxlTmFtZTouK30iKQogICAgcHVibGljIFJlc3BvbnNlRW50aXR5PFJlc291cmNlPiBkb3dubG9hZEZpbGUoQFBhdGhWYXJpYWJsZSBTdHJpbmcgZmlsZU5hbWUsIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0KSB7CiAgICAgICAgLy8gTG9hZCBmaWxlIGFzIFJlc291cmNlCiAgICAgICAgUmVzb3VyY2UgcmVzb3VyY2UgPSBmaWxlU3RvcmFnZVNlcnZpY2UubG9hZEZpbGVBc1Jlc291cmNlKGZpbGVOYW1lKTsKCiAgICAgICAgLy8gVHJ5IHRvIGRldGVybWluZSBmaWxlJ3MgY29udGVudCB0eXBlCiAgICAgICAgU3RyaW5nIGNvbnRlbnRUeXBlID0gbnVsbDsKICAgICAgICB0cnkgewogICAgICAgICAgICBjb250ZW50VHlwZSA9IHJlcXVlc3QuZ2V0U2VydmxldENvbnRleHQoKS5nZXRNaW1lVHlwZShyZXNvdXJjZS5nZXRGaWxlKCkuZ2V0QWJzb2x1dGVQYXRoKCkpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGV4KSB7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJDb3VsZCBub3QgZGV0ZXJtaW5lIGZpbGUgdHlwZS4iKTsKICAgICAgICB9CgogICAgICAgIC8vIEZhbGxiYWNrIHRvIHRoZSBkZWZhdWx0IGNvbnRlbnQgdHlwZSBpZiB0eXBlIGNvdWxkIG5vdCBiZSBkZXRlcm1pbmVkCiAgICAgICAgaWYoY29udGVudFR5cGUgPT0gbnVsbCkgewogICAgICAgICAgICBjb250ZW50VHlwZSA9ICJhcHBsaWNhdGlvbi9vY3RldC1zdHJlYW0iOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5Lm9rKCkKICAgICAgICAgICAgICAgIC5jb250ZW50VHlwZShNZWRpYVR5cGUucGFyc2VNZWRpYVR5cGUoY29udGVudFR5cGUpKQogICAgICAgICAgICAgICAgLmhlYWRlcihIdHRwSGVhZGVycy5DT05URU5UX0RJU1BPU0lUSU9OLCAiYXR0YWNobWVudDsgZmlsZW5hbWU9XCIiICsgcmVzb3VyY2UuZ2V0RmlsZW5hbWUoKSArICJcIiIpCiAgICAgICAgICAgICAgICAuYm9keShyZXNvdXJjZSk7CiAgICB9Cn0K</text>
       </register>
-      <register name="9" type="4">
-        <text>management:
-  endpoints:
-    web:
-      exposure:
-        include: *</text>
+      <register name="9" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIE15RmlsZU5vdEZvdW5kRXhjZXB0aW9uIHsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>10.</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>10.</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>30</last-replace>
       <last-substitute>40</last-substitute>
       <last-dir>1</last-dir>
@@ -850,7 +897,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cooki</entry>
         <entry>forse</entry>
         <entry>abort</entry>
         <entry>forc</entry>
@@ -870,6 +916,7 @@
         <entry encoding="base64">XDzQoNCw0LfRgNCw0LHQvtGC0YfQuNC6XD4=</entry>
         <entry>40</entry>
         <entry>10.</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
