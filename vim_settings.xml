@@ -160,6 +160,12 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/base/BaseView.java" timestamp="1596926290545">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/DataSourceConfig.java" timestamp="1586834009024">
         <mark key="'" line="133" column="0" />
         <mark key="[" line="26" column="0" />
@@ -428,11 +434,11 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1596923645423">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-        <mark key="^" line="12" column="40" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1596926260961">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/OracleConfiguration.java" timestamp="1586805938935">
         <mark key="'" line="20" column="21" />
@@ -1026,7 +1032,7 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>liquib</text>
@@ -1035,31 +1041,31 @@
         <text>'a234' as acc_id,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEltbXV0YWJsZQo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEJhc2VWaWV3IHsKfQoK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">QEltbXV0YWJsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4gKG5hbWUgPSAiY2xpZW50X2lkIiwgbnVsbGFibGUgPSBmYWxzZSwgbGVuZ3RoID0gMzIpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">QEltbXV0YWJsZQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBDb2x1bW4gKG5hbWUgPSAiY2xpZW50X2lkIiwgbnVsbGFibGUgPSBmYWxzZSwgbGVuZ3RoID0gMzIpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLmlyLmFubm90YXRpb25zLkltbXV0YWJsZTsK</text>
+        <text encoding="base64">QEltbXV0YWJsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCiAgICBwcml2YXRlIFN0cmluZyBhY2NJZDsK</text>
+        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLmlyLmFubm90YXRpb25zLkltbXV0YWJsZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCiAgICBwcml2YXRlIFN0cmluZyBhY2NJZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBJZAo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
