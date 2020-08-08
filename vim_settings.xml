@@ -94,11 +94,11 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="63" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1596876180095">
-        <mark key="[" line="17" column="55" />
-        <mark key="]" line="17" column="71" />
-        <mark key="^" line="17" column="71" />
-        <mark key="." line="17" column="71" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1596890956348">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tvision/src/main/java/TApplication.java" timestamp="1528241370639">
         <mark key="'" line="32" column="4" />
@@ -332,6 +332,9 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
+      <file name="/a.sql" timestamp="1596890532810">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tictactoe/src/main/java/ru/sbt/tictactoe/Board.java" timestamp="1528237437329">
         <mark key="'" line="39" column="22" />
         <mark key="[" line="6" column="22" />
@@ -391,10 +394,11 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/application.properties" timestamp="1596879647048">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/application.properties" timestamp="1596889399192">
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="65" />
+        <mark key="." line="8" column="65" />
+        <mark key="^" line="8" column="65" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tictactoe_example/src/main/java/ru/sbt/tictactoe/Heuristic.java" timestamp="1527922583740">
         <mark key="'" line="75" column="0" />
@@ -417,11 +421,11 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1596879500025">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="22" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1596890940034">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="62" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/OracleConfiguration.java" timestamp="1586805938935">
         <mark key="'" line="20" column="21" />
@@ -463,6 +467,9 @@
         <mark key="]" line="11" column="14" />
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
+      </file>
+      <file name="/ACCOUNTS [jdbc:oracle:thin:@localhost:1521/aplcore]" timestamp="1596888190883">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1596758358315">
         <mark key="'" line="69" column="51" />
@@ -799,6 +806,9 @@
         <mark key="^" line="16" column="31" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/dummy.sql" timestamp="1596889316879">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/SudirAuthToken.java" timestamp="1586524711322">
         <mark key="'" line="11" column="35" />
         <mark key="[" line="38" column="11" />
@@ -820,7 +830,7 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596583296361">
+      <file name="/Dummy.txt" timestamp="1596889482562">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -1002,37 +1012,37 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>liquib</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMgU3ByaW5nIERBVEFTT1VSQ0UgKERhdGFTb3VyY2VBdXRvQ29uZmlndXJhdGlvbiAmIERhdGFTb3VyY2VQcm9wZXJ0aWVzKQojc3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6b3JhY2xlOnRoaW46QGxvY2FsaG9zdDoxNTIxL2FwbGNvcmUKc3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6b3JhY2xlOnRoaW46QCR7T1BFTlNISUZUX09SQV9IT1NUfToke09QRU5TSElGVF9PUkFfUE9SVH0vJHtPUEVOU0hJRlRfT1JBX0FQTF9TUlZDfQpzcHJpbmcuZGF0YXNvdXJjZS51c2VybmFtZT0gJHtPUEVOU0hJRlRfT1JBX1VTRVJ9CnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPSAke09QRU5TSElGVF9PUkFfUEFTU30Kc3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kZWZhdWx0X3NjaGVtYT0ke09QRU5TSElGVF9PUkFfREVGQVVMVF9TQ0hFTUF9IAoKIyBUaGUgU1FMIGRpYWxlY3QgbWFrZXMgSGliZXJuYXRlIGdlbmVyYXRlIGJldHRlciBTUUwgZm9yIHRoZSBjaG9zZW4gZGF0YWJhc2UKc3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kaWFsZWN0ID0gb3JnLmhpYmVybmF0ZS5kaWFsZWN0Lk9yYWNsZTEyY0RpYWxlY3QKI3NwcmluZy5kYXRhc291cmNlLmhpa2FyaS5qZGJjLXVybD1qZGJjOm9yYWNsZTp0aGluOkBsb2NhbGhvc3Q6MTUyMS9hcGxjb3JlCnNwcmluZy5qcGEuaGliZXJuYXRlLmRkbC1hdXRvID0gdXBkYXRlCgojbG9nZ2luZy5sZXZlbC5vcmcuc3ByaW5nZnJhbWV3b3JrPUlORk8KbG9nZ2luZy5sZXZlbC5vcmcuaGliZXJuYXRlLlNRTD0gREVCVUcKCgojIyBNVUxUSVBBUlQgKE11bHRpcGFydFByb3BlcnRpZXMpCiMgRW5hYmxlIG11bHRpcGFydCB1cGxvYWRzCnNwcmluZy5zZXJ2bGV0Lm11bHRpcGFydC5lbmFibGVkPXRydWUKIyBUaHJlc2hvbGQgYWZ0ZXIgd2hpY2ggZmlsZXMgYXJlIHdyaXR0ZW4gdG8gZGlzay4Kc3ByaW5nLnNlcnZsZXQubXVsdGlwYXJ0LmZpbGUtc2l6ZS10aHJlc2hvbGQ9MktCCiMgTWF4IGZpbGUgc2l6ZS4Kc3ByaW5nLnNlcnZsZXQubXVsdGlwYXJ0Lm1heC1maWxlLXNpemU9MjAwME1CCiMgTWF4IFJlcXVlc3QgU2l6ZQpzcHJpbmcuc2VydmxldC5tdWx0aXBhcnQubWF4LXJlcXVlc3Qtc2l6ZT0yMDAwTUIKCiMjIEZpbGUgU3RvcmFnZSBQcm9wZXJ0aWVzCiMgQWxsIGZpbGVzIHVwbG9hZGVkIHRocm91Z2ggdGhlIFJFU1QgQVBJIHdpbGwgYmUgc3RvcmVkIGluIHRoaXMgZGlyZWN0b3J5CmZpbGUudXBsb2FkLWRpcj0uL3VwbG9hZHMK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4gKG5hbWUgPSAiYWNjIiwgbnVsbGFibGUgPSBmYWxzZSwgbGVuZ3RoID0gMzUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAuLi4K</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCiAgICBwcml2YXRlIFN0cmluZyBhY2NJZDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFjY291bnRJZDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEFjY291bnQgewp9Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIEBJZAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAuLi4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFjY291bnRJZDsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBFbGVtZW50Q29sbGVjdGlvbgo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEFjY291bnQgewp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIENsaWVudFJlcG9zaXRvcnkgewp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
