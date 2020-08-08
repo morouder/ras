@@ -94,11 +94,11 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="63" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1596890956348">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1596922039256">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+        <mark key="^" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tvision/src/main/java/TApplication.java" timestamp="1528241370639">
         <mark key="'" line="32" column="4" />
@@ -332,7 +332,7 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="/a.sql" timestamp="1596890532810">
+      <file name="/a.sql" timestamp="1596922275773">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tictactoe/src/main/java/ru/sbt/tictactoe/Board.java" timestamp="1528237437329">
@@ -421,11 +421,11 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1596890940034">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="11" column="62" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1596922208813">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+        <mark key="^" line="17" column="26" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/OracleConfiguration.java" timestamp="1586805938935">
         <mark key="'" line="20" column="21" />
@@ -1012,40 +1012,40 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>liquib</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4gKG5hbWUgPSAiYWNjIiwgbnVsbGFibGUgPSBmYWxzZSwgbGVuZ3RoID0gMzUpCg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4gKG5hbWUgPSAiY2xpZW50X2lkIiwgbnVsbGFibGUgPSBmYWxzZSwgbGVuZ3RoID0gMzIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCiAgICBwcml2YXRlIFN0cmluZyBhY2NJZDsK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4gKG5hbWUgPSAiY2xpZW50X2lkIiwgbnVsbGFibGUgPSBmYWxzZSwgbGVuZ3RoID0gMzIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QEltbXV0YWJsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLmlyLmFubm90YXRpb25zLkltbXV0YWJsZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBJZAo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCiAgICBwcml2YXRlIFN0cmluZyBhY2NJZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuLi4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFjY291bnRJZDsK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEFjY291bnQgewp9Cg==</text>
+        <text encoding="base64">ICAgIEBJZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAuLi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFjY291bnRJZDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
