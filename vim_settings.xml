@@ -94,11 +94,11 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="63" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1596922039256">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="28" />
-        <mark key="." line="16" column="28" />
-        <mark key="^" line="17" column="23" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1596923297901">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tvision/src/main/java/TApplication.java" timestamp="1528241370639">
         <mark key="'" line="32" column="4" />
@@ -180,6 +180,13 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
         <mark key="^" line="104" column="28" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b626457-6e97-436f-a63c-b16085f63106/console_2.sql" timestamp="1596922983671">
+        <mark key="'" line="12" column="49" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="4" column="64" />
+        <mark key="^" line="4" column="64" />
+        <mark key="." line="4" column="64" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-class-diagram.puml" timestamp="1589517906551">
         <mark key="'" line="18" column="0" />
@@ -332,7 +339,7 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="/a.sql" timestamp="1596922275773">
+      <file name="/a.sql" timestamp="1596922947509">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tictactoe/src/main/java/ru/sbt/tictactoe/Board.java" timestamp="1528237437329">
@@ -421,11 +428,11 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1596922208813">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="26" />
-        <mark key="." line="17" column="26" />
-        <mark key="^" line="17" column="26" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1596923645423">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/OracleConfiguration.java" timestamp="1586805938935">
         <mark key="'" line="20" column="21" />
@@ -586,6 +593,13 @@
         <mark key="]" line="15" column="1" />
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b626457-6e97-436f-a63c-b16085f63106/console_1.sql" timestamp="1596922970153">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/model/DBFile.java" timestamp="1595694790904">
         <mark key="'" line="23" column="4" />
@@ -906,10 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="15" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-deployment.puml" />
-      <jump line="46" column="4" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="52" column="1" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="54" column="3" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="5" column="4" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
       <jump line="1" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-versioning.puml" />
@@ -1006,46 +1016,50 @@
       <jump line="51" column="25" filename="$USER_HOME$/Lab/validator/backend/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/pom.xml" />
       <jump line="69" column="51" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/db/changelog/db.changelog-master.yaml" />
+      <jump line="11" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9b626457-6e97-436f-a63c-b16085f63106/console_1.sql" />
+      <jump line="0" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9b626457-6e97-436f-a63c-b16085f63106/console_1.sql" />
+      <jump line="11" column="49" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9b626457-6e97-436f-a63c-b16085f63106/console_2.sql" />
+      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9b626457-6e97-436f-a63c-b16085f63106/console_1.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>liquib</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4gKG5hbWUgPSAiY2xpZW50X2lkIiwgbnVsbGFibGUgPSBmYWxzZSwgbGVuZ3RoID0gMzIpCg==</text>
+      <register name="0" type="4">
+        <text>'a234' as acc_id,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4gKG5hbWUgPSAiY2xpZW50X2lkIiwgbnVsbGFibGUgPSBmYWxzZSwgbGVuZ3RoID0gMzIpCg==</text>
+        <text encoding="base64">QEltbXV0YWJsZQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">QEltbXV0YWJsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLmlyLmFubm90YXRpb25zLkltbXV0YWJsZTsK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4gKG5hbWUgPSAiY2xpZW50X2lkIiwgbnVsbGFibGUgPSBmYWxzZSwgbGVuZ3RoID0gMzIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCiAgICBwcml2YXRlIFN0cmluZyBhY2NJZDsK</text>
+        <text encoding="base64">QEltbXV0YWJsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLmlyLmFubm90YXRpb25zLkltbXV0YWJsZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCiAgICBwcml2YXRlIFN0cmluZyBhY2NJZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBJZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAuLi4K</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0iQUNDT1VOVF9JRCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFjY291bnRJZDsK</text>
+        <text encoding="base64">ICAgIEBJZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1084,7 +1098,6 @@
         <entry>liquib</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
@@ -1103,6 +1116,7 @@
         <entry>%s/Владелец продукта/20 Владелец продукта</entry>
         <entry>%s/GitLab/40 GitLab</entry>
         <entry>%s/40/30/g</entry>
+        <entry>action GotoRelated</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
