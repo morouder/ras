@@ -459,11 +459,11 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1596979661734">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="3" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1597003758712">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/OracleConfiguration.java" timestamp="1586805938935">
         <mark key="'" line="20" column="21" />
@@ -1093,7 +1093,7 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>commit;</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>emp</text>
@@ -1102,36 +1102,36 @@
         <text>;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0QWNjb3VudF9pZCgpIHsKICAgICAgICByZXR1cm4gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBY2NvdW50X2lkKFN0cmluZyBhY2NvdW50X2lkKSB7CiAgICAgICAgdGhpcy5hY2NvdW50X2lkID0gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEFjYygpIHsKICAgICAgICByZXR1cm4gYWNjOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFjYyhTdHJpbmcgYWNjKSB7CiAgICAgICAgdGhpcy5hY2MgPSBhY2M7CiAgICB9CgogICAgcHVibGljIENsaWVudCBnZXRPd25lcigpIHsKICAgICAgICByZXR1cm4gb3duZXI7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T3duZXIoQ2xpZW50IG93bmVyKSB7CiAgICAgICAgdGhpcy5vd25lciA9IG93bmVyOwogICAgfQoK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGZpcnN0TmFuYW1lOwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0QWNjb3VudF9pZCgpIHsKICAgICAgICByZXR1cm4gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBY2NvdW50X2lkKFN0cmluZyBhY2NvdW50X2lkKSB7CiAgICAgICAgdGhpcy5hY2NvdW50X2lkID0gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEFjYygpIHsKICAgICAgICByZXR1cm4gYWNjOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFjYyhTdHJpbmcgYWNjKSB7CiAgICAgICAgdGhpcy5hY2MgPSBhY2M7CiAgICB9CgogICAgcHVibGljIENsaWVudCBnZXRPd25lcigpIHsKICAgICAgICByZXR1cm4gb3duZXI7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T3duZXIoQ2xpZW50IG93bmVyKSB7CiAgICAgICAgdGhpcy5vd25lciA9IG93bmVyOwogICAgfQo=</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0QWNjb3VudF9pZCgpIHsKICAgICAgICByZXR1cm4gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBY2NvdW50X2lkKFN0cmluZyBhY2NvdW50X2lkKSB7CiAgICAgICAgdGhpcy5hY2NvdW50X2lkID0gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEFjYygpIHsKICAgICAgICByZXR1cm4gYWNjOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFjYyhTdHJpbmcgYWNjKSB7CiAgICAgICAgdGhpcy5hY2MgPSBhY2M7CiAgICB9CgogICAgcHVibGljIENsaWVudCBnZXRPd25lcigpIHsKICAgICAgICByZXR1cm4gb3duZXI7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T3duZXIoQ2xpZW50IG93bmVyKSB7CiAgICAgICAgdGhpcy5vd25lciA9IG93bmVyOwogICAgfQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGZpcnN0TmFuYW1lOwo=</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">cGFja2FnZSBydS5zYnJmLmNhLmFwbC52YWxpZGF0b3IucmVwb3NpdG9yeTsKCmltcG9ydCBydS5zYnJmLmNhLmFwbC52YWxpZGF0b3IubW9kZWwuRW1wbG95ZWU7CgpwdWJsaWMgaW50ZXJmYWNlIEVtcGxveWVlUmVwb3NpdG9yeSB7Cn0K</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>drop table vldtr_accounts;
 drop table vldtr_clients;
 drop table vldtr_employee;</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>delete from vldtr_accounts;
 delete from vldtr_clients;
 delete from vldtr_employees;
 commit;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gdmxkdHJfZW1wbG95ZWVzIHZhbHVlcyAoJ2VtcGxveWVlLWVlQGNhLnNicmYucnUnLCAn0KHQvtGC0YDRg9C00L3QuNC6IDEnKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB2bGR0cl9lbXBsb3llZXM7Vgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
