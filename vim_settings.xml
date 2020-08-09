@@ -11,12 +11,17 @@
       <file name="/a.dummy" timestamp="1596955932764">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/repository/ClientRepository.java" timestamp="1596973952027">
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/SpringRestConfiguration.java" timestamp="1597008572009">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/repository/ClientRepository.java" timestamp="1597007556108">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="10" column="81" />
-        <mark key="^" line="10" column="81" />
+        <mark key="[" line="10" column="57" />
+        <mark key="]" line="10" column="62" />
+        <mark key="." line="10" column="62" />
+        <mark key="^" line="10" column="62" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1596973314639" />
       <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1597006510142">
@@ -117,10 +122,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/application.properties" timestamp="1596958879404">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/application.properties" timestamp="1597008584619">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1597003758712">
@@ -138,11 +143,11 @@
       <file name="/ACCOUNTS [jdbc:oracle:thin:@localhost:1521/aplcore]" timestamp="1596888190883">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/ValidatorApplication.java" timestamp="1596974198182">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="11" column="52" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/ValidatorApplication.java" timestamp="1597008894384">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/repository/DBFileRepository.java" timestamp="1595690776866">
         <mark key="[" line="2" column="7" />
@@ -150,9 +155,9 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/repository/AccountRepository.java" timestamp="1596961536731">
-        <mark key="[" line="2" column="67" />
-        <mark key="]" line="2" column="72" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/repository/AccountRepository.java" timestamp="1597007517051">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="2" column="72" />
         <mark key="." line="2" column="72" />
       </file>
@@ -168,7 +173,7 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" timestamp="1597006811623">
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" timestamp="1597008360506">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -252,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="0" filename="$USER_HOME$/Lab/file-loader/.gitignore" />
       <jump line="32" column="23" filename="$USER_HOME$/Lab/file-loader/.gitignore" />
       <jump line="31" column="13" filename="$USER_HOME$/Lab/file-loader/.gitignore" />
       <jump line="312" column="79" filename="$USER_HOME$/Lab/file-loader/.gitignore" />
@@ -352,48 +356,47 @@
       <jump line="25" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="52" column="15" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
       <jump line="26" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="2" column="36" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/SpringRestConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>emp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgQEpvaW5Db2x1bW4obmFtZT0iZW1wbG95ZWVfaWQiKQo=</text>
+        <text encoding="base64">c3ByaW5nLmRhdGEucmVzdC5kZWZhdWx0TWVkaWFUeXBlPWFwcGxpY2F0aW9uL2pzb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWU9Il9pZCIpCg==</text>
+        <text encoding="base64">c3ByaW5nLmRhdGEucmVzdC5kZWZhdWx0TWVkaWFUeXBlPWFwcGxpY2F0aW9uL2pzb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0QWNjb3VudF9pZCgpIHsKICAgICAgICByZXR1cm4gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBY2NvdW50X2lkKFN0cmluZyBhY2NvdW50X2lkKSB7CiAgICAgICAgdGhpcy5hY2NvdW50X2lkID0gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEFjYygpIHsKICAgICAgICByZXR1cm4gYWNjOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFjYyhTdHJpbmcgYWNjKSB7CiAgICAgICAgdGhpcy5hY2MgPSBhY2M7CiAgICB9CgogICAgcHVibGljIENsaWVudCBnZXRPd25lcigpIHsKICAgICAgICByZXR1cm4gb3duZXI7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T3duZXIoQ2xpZW50IG93bmVyKSB7CiAgICAgICAgdGhpcy5vd25lciA9IG93bmVyOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWU9Il9pZCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0QWNjb3VudF9pZCgpIHsKICAgICAgICByZXR1cm4gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBY2NvdW50X2lkKFN0cmluZyBhY2NvdW50X2lkKSB7CiAgICAgICAgdGhpcy5hY2NvdW50X2lkID0gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEFjYygpIHsKICAgICAgICByZXR1cm4gYWNjOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFjYyhTdHJpbmcgYWNjKSB7CiAgICAgICAgdGhpcy5hY2MgPSBhY2M7CiAgICB9CgogICAgcHVibGljIENsaWVudCBnZXRPd25lcigpIHsKICAgICAgICByZXR1cm4gb3duZXI7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T3duZXIoQ2xpZW50IG93bmVyKSB7CiAgICAgICAgdGhpcy5vd25lciA9IG93bmVyOwogICAgfQoK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGZpcnN0TmFuYW1lOwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0QWNjb3VudF9pZCgpIHsKICAgICAgICByZXR1cm4gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBY2NvdW50X2lkKFN0cmluZyBhY2NvdW50X2lkKSB7CiAgICAgICAgdGhpcy5hY2NvdW50X2lkID0gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEFjYygpIHsKICAgICAgICByZXR1cm4gYWNjOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFjYyhTdHJpbmcgYWNjKSB7CiAgICAgICAgdGhpcy5hY2MgPSBhY2M7CiAgICB9CgogICAgcHVibGljIENsaWVudCBnZXRPd25lcigpIHsKICAgICAgICByZXR1cm4gb3duZXI7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T3duZXIoQ2xpZW50IG93bmVyKSB7CiAgICAgICAgdGhpcy5vd25lciA9IG93bmVyOwogICAgfQo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0QWNjb3VudF9pZCgpIHsKICAgICAgICByZXR1cm4gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBY2NvdW50X2lkKFN0cmluZyBhY2NvdW50X2lkKSB7CiAgICAgICAgdGhpcy5hY2NvdW50X2lkID0gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEFjYygpIHsKICAgICAgICByZXR1cm4gYWNjOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFjYyhTdHJpbmcgYWNjKSB7CiAgICAgICAgdGhpcy5hY2MgPSBhY2M7CiAgICB9CgogICAgcHVibGljIENsaWVudCBnZXRPd25lcigpIHsKICAgICAgICByZXR1cm4gb3duZXI7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T3duZXIoQ2xpZW50IG93bmVyKSB7CiAgICAgICAgdGhpcy5vd25lciA9IG93bmVyOwogICAgfQoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBydS5zYnJmLmNhLmFwbC52YWxpZGF0b3IucmVwb3NpdG9yeTsKCmltcG9ydCBydS5zYnJmLmNhLmFwbC52YWxpZGF0b3IubW9kZWwuRW1wbG95ZWU7CgpwdWJsaWMgaW50ZXJmYWNlIEVtcGxveWVlUmVwb3NpdG9yeSB7Cn0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGZpcnN0TmFuYW1lOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>drop table vldtr_accounts;
-drop table vldtr_clients;
-drop table vldtr_employee;</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
