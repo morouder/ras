@@ -371,7 +371,7 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="/a.sql" timestamp="1596973511680">
+      <file name="/a.sql" timestamp="1597002922969">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tictactoe/src/main/java/ru/sbt/tictactoe/Board.java" timestamp="1528237437329">
@@ -651,12 +651,12 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" timestamp="1597002687020">
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" timestamp="1597003697102">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="7" column="75" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/exception/FileStorageException.java" timestamp="1595685252221">
         <mark key="'" line="10" column="0" />
@@ -877,7 +877,7 @@
         <mark key="^" line="16" column="31" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1596889316879">
+      <file name="/dummy.sql" timestamp="1597002937590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/SudirAuthToken.java" timestamp="1586524711322">
@@ -969,6 +969,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="/VLDTR_ACCOUNTS [jdbc:oracle:thin:@localhost:1521/aplcore]" timestamp="1597002878624">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/springtutor/ioc/src/main/resources/apl-login-use-case.puml" timestamp="1588535246863">
         <mark key="'" line="2" column="22" />
@@ -1090,13 +1093,13 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>commit;</text>
       </register>
       <register name="/" type="4">
         <text>emp</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gdmxkdHJfYWNjb3VudHMgdmFsdWVzICgnQTIzMjMnLCAnNDU1MDMwODEwMScsICdDMScpOwppbnNlcnQgaW50byB2bGR0cl9hY2NvdW50cyB2YWx1ZXMgKCdBMjMyNCcsICc0NTUwMjA4MTAxJywgJ0MxJyk7Cg==</text>
+      <register name="0" type="4">
+        <text>;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0QWNjb3VudF9pZCgpIHsKICAgICAgICByZXR1cm4gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBY2NvdW50X2lkKFN0cmluZyBhY2NvdW50X2lkKSB7CiAgICAgICAgdGhpcy5hY2NvdW50X2lkID0gYWNjb3VudF9pZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEFjYygpIHsKICAgICAgICByZXR1cm4gYWNjOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFjYyhTdHJpbmcgYWNjKSB7CiAgICAgICAgdGhpcy5hY2MgPSBhY2M7CiAgICB9CgogICAgcHVibGljIENsaWVudCBnZXRPd25lcigpIHsKICAgICAgICByZXR1cm4gb3duZXI7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T3duZXIoQ2xpZW50IG93bmVyKSB7CiAgICAgICAgdGhpcy5vd25lciA9IG93bmVyOwogICAgfQoK</text>
