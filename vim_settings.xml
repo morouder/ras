@@ -172,6 +172,13 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" timestamp="1596955105991">
+        <mark key="'" line="40" column="30" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="66" column="4" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/DataSourceConfig.java" timestamp="1586834009024">
         <mark key="'" line="133" column="0" />
         <mark key="[" line="26" column="0" />
@@ -940,14 +947,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="16" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" />
-      <jump line="12" column="29" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-integration-ekp.puml" />
-      <jump line="3" column="66" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-integration-ekp.puml" />
-      <jump line="1" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-integration-ekp.puml" />
-      <jump line="21" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-integration-ekp.puml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-integration-ekp.puml" />
-      <jump line="9" column="12" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/ras-register-attach-session.puml" />
       <jump line="30" column="12" filename="$USER_HOME$/Lab/balance/pom.xml" />
       <jump line="34" column="36" filename="$USER_HOME$/Lab/balance/src/main/resources/application.properties" />
@@ -1040,6 +1039,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/pom.xml" />
       <jump line="15" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/WebsiteUser.java" />
       <jump line="2" column="31" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/repository/UserRepository.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
+      <jump line="6" column="32" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
+      <jump line="12" column="37" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
+      <jump line="13" column="27" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
+      <jump line="58" column="98" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
+      <jump line="40" column="30" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1049,46 +1056,46 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>jpa</text>
+        <text>jdbc</text>
       </register>
       <register name="0" type="4">
         <text>'a234' as acc_id,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkdlbmVyYXRlZFZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJhbnNhY3Rpb25NYW5hZ2VyICAgIH0KCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkVudGl0eTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Owo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkdlbmVyYXRpb25UeXBlOwo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkdlbmVyYXRlZFZhbHVlOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIERhdGFiYXNlQ29uZmlndXJhdGlvbiB7CiAgICAKfQoKCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RW1haWwoKSB7CiAgICAgICAgcmV0dXJuIGVtYWlsOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEVtYWlsKFN0cmluZyBlbWFpbCkgewogICAgICAgIHRoaXMuZW1haWwgPSBlbWFpbDsKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkdlbmVyYXRlZFZhbHVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkVudGl0eTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBVc2VyUmVwb3NpdG9yeSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkdlbmVyYXRpb25UeXBlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuYW5ub3RhdGlvbnMuRW50aXR5Owo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkdlbmVyYXRlZFZhbHVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jpa</last-search>
+      <last-search>jdbc</last-search>
       <last-offset />
-      <last-pattern>jpa</last-pattern>
+      <last-pattern>jdbc</last-pattern>
       <last-replace>30</last-replace>
       <last-substitute>40</last-substitute>
       <last-dir>1</last-dir>
@@ -1096,7 +1103,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDzQoNCw0LfRgNCw0LHQvtGC0YfQuNC6XD4=</entry>
         <entry>40</entry>
         <entry>10.</entry>
         <entry>maven</entry>
@@ -1116,6 +1122,7 @@
         <entry>liquib</entry>
         <entry>rest</entry>
         <entry>jpa</entry>
+        <entry>jdbc</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
