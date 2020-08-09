@@ -96,12 +96,12 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="63" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1596980390344">
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1597005121833">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="23" column="22" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="35" />
         <mark key="^" line="23" column="22" />
-        <mark key="." line="23" column="22" />
+        <mark key="." line="17" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tvision/src/main/java/TApplication.java" timestamp="1528241370639">
         <mark key="'" line="32" column="4" />
@@ -794,11 +794,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Employee.java" timestamp="1597002363193">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Employee.java" timestamp="1597005086067">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/login.puml" timestamp="1589241434504">
         <mark key="'" line="27" column="9" />
@@ -1093,7 +1093,7 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>emp</text>
