@@ -127,12 +127,12 @@
         <mark key="." line="16" column="33" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/repository/EmployeeRepository.java" timestamp="1597016994614">
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/repository/EmployeeRepository.java" timestamp="1597037855432">
         <mark key="'" line="11" column="25" />
-        <mark key="[" line="8" column="114" />
-        <mark key="]" line="8" column="126" />
-        <mark key="." line="8" column="126" />
-        <mark key="^" line="8" column="126" />
+        <mark key="[" line="9" column="71" />
+        <mark key="]" line="9" column="70" />
+        <mark key="." line="9" column="70" />
+        <mark key="^" line="9" column="70" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tictactoe_example/src/main/java/Advanced_Minimax.java" timestamp="1527921954511">
         <mark key="'" line="333" column="0" />
@@ -1127,13 +1127,13 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>emp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGEucmVzdC5kZWZhdWx0TWVkaWFUeXBlPWFwcGxpY2F0aW9uL2pzb24K</text>
+        <text encoding="base64">Ly8gICAgQFF1ZXJ5KHZhbHVlPSJzZWxlY3QgYy4qIGZyb20gdmxkdHJfQ0xJRU5UUyBjLCB2bGR0cl9lbXBsb3llZXMgZSB3aGVyZSBlLmVtcGxveWVlX2lkID0gPzEgYW5kIGMuZW1wbG95ZWVfaWQgPSBlLmVtcGxveWVlX2lkIiwgbmF0aXZlUXVlcnkgPSB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
