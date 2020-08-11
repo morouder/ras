@@ -17,7 +17,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1597012226516">
+      <file name="/a.dummy" timestamp="1597124629924">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javaadvanced/pom.xml" timestamp="1526596971010">
@@ -101,12 +101,12 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="63" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1597124077979">
-        <mark key="'" line="30" column="27" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="35" column="24" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1597124293286">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tvision/src/main/java/TApplication.java" timestamp="1528241370639">
         <mark key="'" line="32" column="4" />
@@ -371,6 +371,13 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="1" />
       </file>
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Allocation.java" timestamp="1597124464948">
+        <mark key="'" line="11" column="24" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+        <mark key="^" line="23" column="20" />
+      </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" timestamp="1590501453922">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="16" />
@@ -394,6 +401,13 @@
         <mark key="]" line="6" column="21" />
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Promise.java" timestamp="1597125185510">
+        <mark key="'" line="19" column="20" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="19" column="20" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/java/ru/sbrf/lab/config/parent/RASConfig.java" timestamp="1588065440649">
         <mark key="'" line="38" column="0" />
@@ -513,6 +527,13 @@
       <file name="/ACCOUNTS [jdbc:oracle:thin:@localhost:1521/aplcore]" timestamp="1596888190883">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Assigment.java" timestamp="1597124889549">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+      </file>
       <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1596758358315">
         <mark key="'" line="69" column="51" />
         <mark key="[" line="0" column="0" />
@@ -614,6 +635,13 @@
         <mark key="]" line="19" column="26" />
         <mark key="^" line="19" column="26" />
         <mark key="." line="19" column="26" />
+      </file>
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Assiment.java" timestamp="1597124589594">
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-integration-ekp.puml" timestamp="1591799088910">
         <mark key="'" line="0" column="0" />
@@ -796,12 +824,12 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Employee.java" timestamp="1597056670864">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Employee.java" timestamp="1597124298856">
+        <mark key="'" line="6" column="9" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/login.puml" timestamp="1589241434504">
         <mark key="'" line="27" column="9" />
@@ -986,19 +1014,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/controller/FileController.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/controller/FileController.java" />
-      <jump line="27" column="11" filename="$USER_HOME$/Lab/file-loader/src/main/resources/static/index.html" />
-      <jump line="23" column="4" filename="$USER_HOME$/Lab/file-loader/src/main/java/ru/sbrf/ca/apl/file_loader/model/DBFile.java" />
-      <jump line="24" column="26" filename="$USER_HOME$/Lab/file-loader/src/main/resources/static/js/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/resources/static/js/main.js" />
-      <jump line="2" column="75" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" />
-      <jump line="37" column="25" filename="$USER_HOME$/Lab/file-loader/pom.xml" />
-      <jump line="12" column="3" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application-local.properties" />
-      <jump line="9" column="5" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application-local.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application-local.properties" />
-      <jump line="4" column="0" filename="$USER_HOME$/Lab/file-loader/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/file-loader/pom.xml" />
       <jump line="27" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" />
       <jump line="13" column="21" filename="$USER_HOME$/Lab/file-loader/src/main/resources/application.properties" />
@@ -1048,7 +1063,6 @@
       <jump line="58" column="98" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
       <jump line="40" column="30" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
       <jump line="9" column="26" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
       <jump line="54" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Employee.java" />
       <jump line="25" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Employee.java" />
       <jump line="12" column="47" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
@@ -1086,46 +1100,60 @@
       <jump line="10" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/controller/ClientController.java" />
       <jump line="28" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/controller/ClientController.java" />
       <jump line="17" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Employee.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="2" column="23" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Allocation.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Allocation.java" />
+      <jump line="19" column="24" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Allocation.java" />
+      <jump line="7" column="9" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Employee.java" />
+      <jump line="13" column="23" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Assiment.java" />
+      <jump line="13" column="63" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Assigment.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Assigment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Assigment.java" />
+      <jump line="2" column="20" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Promise.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Promise.java" />
+      <jump line="20" column="20" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Promise.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>accounts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCnB1YmxpYyBjbGFzcyBFbXBsb3llZUNvbnRyb2xsZXIgewoJQEluamVjdAoJcHJpdmF0ZSBFbXBsb3llZVJlcG9zaXRvcnkgZW1wbG95ZWVSZXBvc2l0b3J5OwoKCUBSZXF1ZXN0TWFwcGluZyh2YWx1ZT0iL2VtcGxveWVlcyIsIG1ldGhvZD1SZXF1ZXN0TWV0aG9kLkdFVCwKICAgICAgICBwcm9kdWNlcyA9ICJhcHBsaWNhdGlvbi9qc29uO2NoYXJzZXQ9VVRGLTgiKQoJcHVibGljIFJlc3BvbnNlRW50aXR5PEl0ZXJhYmxlPEVtcGxveWVlPj4gZ2V0QWxsRW1wbG95ZWVzKCkgewoJCUl0ZXJhYmxlPEVtcGxveWVlPiBhbGxFbXBsb3llZXMgPSBlbXBsb3llZVJlcG9zaXRvcnkuZmluZEFsbCgpOwoJCXJldHVybiBuZXcgUmVzcG9uc2VFbnRpdHk8PihhbGxFbXBsb3llZXMsIEh0dHBTdGF0dXMuT0spOwoJfQoKCUBSZXF1ZXN0TWFwcGluZyh2YWx1ZT0iL2VtcGxveWVlcy97ZW1wbG95ZWVJZH0iLCBtZXRob2Q9UmVxdWVzdE1ldGhvZC5HRVQsCiAgICAgICAgcHJvZHVjZXMgPSAiYXBwbGljYXRpb24vanNvbjtjaGFyc2V0PVVURi04IikKCXB1YmxpYyBSZXNwb25zZUVudGl0eTw/PiBnZXRFbXBsb3llZShAUGF0aFZhcmlhYmxlIFN0cmluZyBlbXBsb3llZUlkKSB7CgkJT3B0aW9uYWwgPEVtcGxveWVlPiBlID0gZW1wbG95ZWVSZXBvc2l0b3J5LmZpbmRCeUlkKGVtcGxveWVlSWQpOwoJCXJldHVybiBuZXcgUmVzcG9uc2VFbnRpdHk8PiAoZSwgSHR0cFN0YXR1cy5PSyk7Cgl9Cn0K</text>
+        <text encoding="base64">cGFja2FnZSBydS5zYnJmLmNhLmFwbC52YWxpZGF0b3IubW9kZWw7CmltcG9ydCBvcmcuaGliZXJuYXRlLmFubm90YXRpb25zLkltbXV0YWJsZTsKCmltcG9ydCBqYXZheC5wZXJzaXN0ZW5jZS4qOwppbXBvcnQgamF2YS51dGlsLlNldDsKCkBFbnRpdHkKQEltbXV0YWJsZQpAVGFibGUobmFtZT0idmxkdHJfYXNzaWdtZW50cyIpCi8vQEltbXV0YWJsZQoKcHVibGljIGNsYXNzIEFzc2lnbWVudCB7CiAgICBASWQKICAgIEBDb2x1bW4gKG5hbWUgPSAiQVNTSUdNRU5UX0lEIiwgbnVsbGFibGUgPSBmYWxzZSwgbGVuZ3RoID0gMzIpCiAgICBwcml2YXRlIFN0cmluZyBhbGxvY2F0aW9uSWQ7CgogICAgQENvbHVtbiAobmFtZSA9ICJFTVBMT1lFRV9JRCIpCiAgICBwcml2YXRlIFN0cmluZyBlbXBsb3llZV9pZDsKCiAgICBAQ29sdW1uIChuYW1lID0gIkZST00iKQogICAgcHJpdmF0ZSBTdHJpbmcgZnJvbTsKCiAgICBAQ29sdW1uIChuYW1lID0gIlRPIikKICAgIHByaXZhdGUgU3RyaW5nIHRvOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICAgIEBFbGVtZW50Q29sbGVjdGlvbgovLyAgICBAQ29sbGVjdGlvblRhYmxlIChuYW1lID0gInZsZHRyX2FjY291bnRzIiwgam9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lPSJjbGllbnRJZCIpKQovLyAgICBAQ29sdW1uIChuYW1lID0gImFjYyIsIG51bGxhYmxlID0gZmFsc2UsIGxlbmd0aCA9IDM1KQovLyAgICBwcml2YXRlIExpc3Q8U3RyaW5nPiBhY2NvdW50czsK</text>
+        <text encoding="base64">Ly9ASW1tdXRhYmxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldENsaWVudElkKCkgewo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7Cg==</text>
+        <text encoding="base64">cGFja2FnZSBydS5zYnJmLmNhLmFwbC52YWxpZGF0b3IubW9kZWw7CgpwdWJsaWMgY2xhc3MgUHJvbWlzZSB7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q2xpZW50SWQoKSB7CiAgICAgICAgcmV0dXJuIGNsaWVudElkOwogICAgfQoKCgogICAgcHVibGljIFN0cmluZyBnZXROYW1lKCkgewogICAgICAgIHJldHVybiBuYW1lOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPbmVUb01hbnkKICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiQ0xJRU5UX0lEIikKICAgIEBPcmRlckJ5CiAgICBwcml2YXRlIFNldDxJbk91dD4gYWNjb3VudHM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgIEBFbGVtZW50Q29sbGVjdGlvbgovLyAgICBAQ29sbGVjdGlvblRhYmxlIChuYW1lID0gInZsZHRyX2FjY291bnRzIiwgam9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lPSJjbGllbnRJZCIpKQovLyAgICBAQ29sdW1uIChuYW1lID0gImFjYyIsIG51bGxhYmxlID0gZmFsc2UsIGxlbmd0aCA9IDM1KQovLyAgICBwcml2YXRlIExpc3Q8U3RyaW5nPiBhY2NvdW50czsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
