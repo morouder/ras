@@ -463,11 +463,11 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/application.properties" timestamp="1597008584619">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/application.properties" timestamp="1597214210700">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+        <mark key="^" line="13" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tictactoe_example/src/main/java/ru/sbt/tictactoe/Heuristic.java" timestamp="1527922583740">
         <mark key="'" line="75" column="0" />
@@ -1159,13 +1159,13 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>accounts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBydS5zYnJmLmNhLmFwbC52YWxpZGF0b3IubW9kZWw7CmltcG9ydCBvcmcuaGliZXJuYXRlLmFubm90YXRpb25zLkltbXV0YWJsZTsKaW1wb3J0IHJ1LnNicmYuY2EuYXBsLnZhbGlkYXRvci5tb2RlbC5iYXNlLlN0YWdlQmFzZTsKCmltcG9ydCBqYXZheC5wZXJzaXN0ZW5jZS4qOwoKQEVudGl0eQpASW1tdXRhYmxlCi8vQFRhYmxlKG5hbWU9InZsZHRyX2VudGl0eV9zdGFnZXMiKQpARGlzY3JpbWluYXRvclZhbHVlKCJDTElFTlQiKQoKcHVibGljIGNsYXNzIFN0YWdlQ2xpZW50IGV4dGVuZHMgU3RhZ2VCYXNlIHsKLy8gICAgQElkCi8vICAgIEBDb2x1bW4gKG5hbWUgPSAiU1RBR0VfSUQiLCBudWxsYWJsZSA9IGZhbHNlLCBsZW5ndGggPSAzMikKLy8gICAgcHJpdmF0ZSBTdHJpbmcgc3RhZ2VJZDsKCi8vICAgIEBDb2x1bW4gKG5hbWUgPSAiRU5USVRZX0lEIikKLy8gICAgcHJpdmF0ZSBTdHJpbmcgY2xpZW50X2lkOwoKfQo=</text>
+        <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS51c2Vfc3FsX2NvbW1lbnRzPXRydWUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBJZENsYXNzKFN0YWdlUEsuY2xhc3MpCg==</text>
