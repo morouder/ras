@@ -1113,11 +1113,12 @@
       <file name="/VLDTR_ACCOUNTS [jdbc:oracle:thin:@localhost:1521/aplcore]" timestamp="1597005938145">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/repository/EmployeeRepository.java" timestamp="1597335709993">
+      <file name="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/repository/EmployeeRepository.java" timestamp="1597336078746">
         <mark key="'" line="56" column="13" />
-        <mark key="[" line="74" column="67" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+        <mark key="[" line="75" column="45" />
+        <mark key="]" line="75" column="69" />
+        <mark key="." line="75" column="69" />
+        <mark key="^" line="75" column="69" />
       </file>
       <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Stage.java" timestamp="1597186612488">
         <mark key="[" line="10" column="18" />
@@ -1243,7 +1244,7 @@
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>sqlDao</text>
