@@ -234,6 +234,9 @@
         <mark key="^" line="38" column="4" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d44dc528-d545-4676-8664-f3123f547c83/console.sql" timestamp="1597331547161">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tictactoe/src/main/java/ru/sbt/tictactoe/AIPlayer.java" timestamp="1528237941290">
         <mark key="'" line="104" column="27" />
         <mark key="[" line="104" column="0" />
@@ -425,7 +428,7 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="/a.sql" timestamp="1597243113689">
+      <file name="/a.sql" timestamp="1597331239304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tictactoe/src/main/java/ru/sbt/tictactoe/Board.java" timestamp="1528237437329">
@@ -750,12 +753,12 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" timestamp="1597249112106">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="42" column="291" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="42" column="598" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" timestamp="1597331413120">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="28" />
       </file>
       <file name="$USER_HOME$/Lab/validator_jdbc/src/main/java/App.java" timestamp="1597313335791">
         <mark key="'" line="11" column="0" />
@@ -1135,7 +1138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/WebsiteUser.java" />
       <jump line="2" column="31" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/repository/UserRepository.java" />
       <jump line="84" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
       <jump line="66" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
@@ -1212,7 +1214,6 @@
       <jump line="17" column="6" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="10" column="20" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Employee.java" />
       <jump line="10" column="42" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="28" column="22" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="8" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="37" column="12" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
@@ -1235,6 +1236,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/repository/EmployeeRepository.java" />
       <jump line="22" column="88" filename="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/repository/EmployeeRepository.java" />
       <jump line="23" column="55" filename="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/repository/EmployeeRepository.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
