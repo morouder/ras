@@ -114,12 +114,12 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="63" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1597347489535">
-        <mark key="'" line="43" column="13" />
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="9" column="27" />
-        <mark key="." line="9" column="26" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1597349819817">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="33" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tvision/src/main/java/TApplication.java" timestamp="1528241370639">
         <mark key="'" line="32" column="4" />
@@ -504,11 +504,11 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/application.properties" timestamp="1597348326860">
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/application.properties" timestamp="1597349076668">
         <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="37" />
-        <mark key="^" line="7" column="37" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tictactoe_example/src/main/java/ru/sbt/tictactoe/Heuristic.java" timestamp="1527922583740">
         <mark key="'" line="75" column="0" />
@@ -534,11 +534,11 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1597251296474">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1597349841167">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="15" column="15" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/OracleConfiguration.java" timestamp="1586805938935">
         <mark key="'" line="20" column="21" />
@@ -754,12 +754,12 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" timestamp="1597346901499">
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" timestamp="1597349781521">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="9" column="40" />
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="$USER_HOME$/Lab/validator_jdbc/src/main/java/App.java" timestamp="1597313335791">
         <mark key="'" line="11" column="0" />
@@ -913,10 +913,10 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Employee.java" timestamp="1597347447775">
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Employee.java" timestamp="1597349017460">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="29" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="33" />
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
@@ -1098,12 +1098,12 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/schema.sql" timestamp="1597346372618">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="19" column="52" />
-        <mark key="." line="19" column="52" />
-        <mark key="^" line="19" column="52" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/schema.sql" timestamp="1597349971156">
+        <mark key="'" line="51" column="17" />
+        <mark key="[" line="51" column="56" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="51" column="18" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/balance/src/main/resources/application.properties" timestamp="1592517146395">
         <mark key="'" line="34" column="36" />
@@ -1147,14 +1147,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1597313457417">
+      <file name="/fragment.java" timestamp="1597349836525">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9b626457-6e97-436f-a63c-b16085f63106/console_1.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
-      <jump line="25" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="52" column="15" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
       <jump line="26" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
       <jump line="2" column="36" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/SpringRestConfiguration.java" />
@@ -1249,49 +1246,52 @@
       <jump line="5" column="16" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/schema.sql" />
       <jump line="4" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/schema.sql" />
       <jump line="18" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/schema.sql" />
-      <jump line="42" column="13" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
       <jump line="9" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
+      <jump line="30" column="17" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/schema.sql" />
+      <jump line="9" column="26" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="20" column="7" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>carRepo</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QVBMX0FQUF9WVi5WTERUUl9FTVBMT1lFRVMg</text>
+      <register name="0" type="2">
+        <text encoding="base64">QEdldHRlciBAU2V0dGVyIEBOb0FyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29tbWl0Owo=</text>
+        <text encoding="base64">KCdDMTIzJywgJ9CU0L7Qu9C20L3QuNC60L7QsiDQlNC+0LvQttC90LjQuiDQlNC+0LvQttC90LjQutC+0LLQuNGHJywgJ2NvbGxlY3Rvci1jYycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBBUExfQVBQX1ZWLlZMRFRSX0VNUExPWUVFUzsK</text>
+        <text encoding="base64">KENMSUVOVF9JRCwgQ0xJRU5UX05BTUUsIEVNUExPWUVFX0lEKSB2YWx1ZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuY29udGludWUtb24tZXJyb3I9dHJ1ZQo=</text>
+        <text encoding="base64">Y29tbWl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBBUExfQVBQX1ZWLlZMRFRSX0VNUExPWUVFUzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB1cGRhdGUK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXN0LmNvcmUuYW5ub3RhdGlvbi5SZXN0UmVzb3VyY2U7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZHJvcCB2aWV3IEFQTF9BUFBfVlYuVkxEVFJfRU1QTE9ZRUVTX1Y7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
