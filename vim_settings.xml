@@ -17,10 +17,11 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/models/EmployeeModel.java" timestamp="1597314093165">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
+      <file name="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/models/EmployeeModel.java" timestamp="1597335622232">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/base/StagePK.java" timestamp="1597216928384">
         <mark key="[" line="4" column="0" />
@@ -28,11 +29,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Lab/validator_jdbc/pom.xml" timestamp="1597312587512">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="37" column="13" />
-        <mark key="^" line="33" column="7" />
-        <mark key="." line="33" column="8" />
+      <file name="$USER_HOME$/Lab/validator_jdbc/pom.xml" timestamp="1597335527627">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="43" column="20" />
+        <mark key="^" line="43" column="20" />
+        <mark key="." line="43" column="20" />
       </file>
       <file name="/a.dummy" timestamp="1597314062235">
         <mark key="[" line="0" column="0" />
@@ -50,11 +51,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="46" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/SpringRestConfiguration.java" timestamp="1597008572009">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/manboard/src/main/resources/application.properties" timestamp="1582844578310">
         <mark key="'" line="12" column="33" />
@@ -234,8 +230,12 @@
         <mark key="^" line="38" column="4" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d44dc528-d545-4676-8664-f3123f547c83/console.sql" timestamp="1597331547161">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d44dc528-d545-4676-8664-f3123f547c83/console.sql" timestamp="1597335251874">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="6" column="56" />
+        <mark key="^" line="6" column="56" />
+        <mark key="." line="6" column="56" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tictactoe/src/main/java/ru/sbt/tictactoe/AIPlayer.java" timestamp="1528237941290">
         <mark key="'" line="104" column="27" />
@@ -1113,12 +1113,11 @@
       <file name="/VLDTR_ACCOUNTS [jdbc:oracle:thin:@localhost:1521/aplcore]" timestamp="1597005938145">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/repository/EmployeeRepository.java" timestamp="1597318963722">
-        <mark key="'" line="23" column="55" />
-        <mark key="[" line="66" column="56" />
-        <mark key="]" line="66" column="59" />
-        <mark key="." line="66" column="59" />
-        <mark key="^" line="66" column="59" />
+      <file name="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/repository/EmployeeRepository.java" timestamp="1597335709993">
+        <mark key="'" line="56" column="13" />
+        <mark key="[" line="74" column="67" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Stage.java" timestamp="1597186612488">
         <mark key="[" line="10" column="18" />
@@ -1138,12 +1137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="31" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/repository/UserRepository.java" />
-      <jump line="84" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
-      <jump line="6" column="32" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
-      <jump line="12" column="37" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
       <jump line="13" column="27" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
       <jump line="58" column="98" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
       <jump line="40" column="30" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/DatabaseConfiguration.java" />
@@ -1238,55 +1231,61 @@
       <jump line="23" column="55" filename="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/repository/EmployeeRepository.java" />
       <jump line="29" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
+      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d44dc528-d545-4676-8664-f3123f547c83/console.sql" />
+      <jump line="33" column="8" filename="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/repository/EmployeeRepository.java" />
+      <jump line="21" column="39" filename="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/repository/EmployeeRepository.java" />
+      <jump line="56" column="27" filename="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/repository/EmployeeRepository.java" />
+      <jump line="60" column="13" filename="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/repository/EmployeeRepository.java" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d44dc528-d545-4676-8664-f3123f547c83/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>make</text>
+        <text>sqlDao</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWpkYmM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBTdHJpbmcgZ2V0RGF0YV9zcWwgPSAiU0VMRUNUIGlkLCIKLy8gICAgICAgICAgICArICIgeWVhcm9mbWFudWZhY3R1cmUsIgovLyAgICAgICAgICAgICsgIiBtb2RlbCwiCi8vICAgICAgICAgICAgKyAiIG1ha2UsIgovLyAgICAgICAgICAgICsgIiBzdWdnZXN0ZWRyZXRhaWxwcmljZSwiCi8vICAgICAgICAgICAgKyAiIGZ1bGxwcmljZSwiCi8vICAgICAgICAgICAgKyAiIHJlYmF0ZWFtb3VudCwiCi8vICAgICAgICAgICAgKyAiIGNyZWF0ZWRhdGUsIgovLyAgICAgICAgICAgICsgIiB1cGRhdGVkYXRlIEZST00gY2FyaW5mbyBXSEVSRSBtYWtlID0gOm1ha2UgQU5EIHllYXJvZm1hbnVmYWN0dXJlID49IDpzdGFydFllYXIgQU5EIHllYXJvZm1hbnVmYWN0dXJlIDw9IDplbmRZZWFyIjsK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVtLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEVtcGxveWVlUmVwb3NpdG9yeSB7Cn0KCnBhY2thZ2Ugb3JnLmhhbmJvLmJvb3QucmVzdC5yZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVtLnN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmFkZFZhbHVlKCJlbmRZZWFyIiwgZW5kTW9udGgpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBvcmcuaGFuYm8uYm9vdC5yZXN0Lm1vZGVsczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmFkZFZhbHVlKCJzdGFydFllYXIiLCBzdGFydE1vbnRoKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cHVibGljIGNsYXNzIEdlbmVyaWNSZXNwb25jZSB7Cn0K</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmFkZFZhbHVlKCJlbmRZZWFyIiwgZW5kTW9udGgpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEFwcCB7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmFkZFZhbHVlKCJzdGFydFllYXIiLCBzdGFydE1vbnRoKQo=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgSmRiY1RlbXBsYXRlIHNxbERhbzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEpkYmNDb25maWd1cmF0aW9uIHsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiIHllYXJvZm1hbnVmYWN0dXJlLCIKICAgICAgICAgICAgKyAiIG1vZGVsLCIKICAgICAgICAgICAgKyAiIG1ha2UsIgogICAgICAgICAgICArICIgc3VnZ2VzdGVkcmV0YWlscHJpY2UsIgogICAgICAgICAgICArICIgZnVsbHByaWNlLCIKICAgICAgICAgICAgKyAiIHJlYmF0ZWFtb3VudCwiCiAgICAgICAgICAgICsgIiBjcmVhdGVkYXRlLCIKICAgICAgICAgICAgKyAiIHVwZGF0ZWRhdGUgRlJPTSBjYXJpbmZvIFdIRVJFIG1ha2UgPSA6bWFrZSBBTkQgeWVhcm9mbWFudWZhY3R1cmUgPj0gOnN0YXJ0WWVhciBBTkQgeWVhcm9mbWFudWZhY3R1cmUgPD0gOmVuZFllYXIiOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/CarModel/EmployeeModel/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>make</last-search>
+      <last-search>sqlDao</last-search>
       <last-offset />
-      <last-pattern>make</last-pattern>
+      <last-pattern>sqlDao</last-pattern>
       <last-replace>EmployeeModel</last-replace>
       <last-substitute>CarModel</last-substitute>
       <last-dir>1</last-dir>
@@ -1294,7 +1293,6 @@
     </search>
     <history>
       <history-search>
-        <entry>demo</entry>
         <entry>prof</entry>
         <entry>local</entry>
         <entry>parent</entry>
@@ -1314,6 +1312,7 @@
         <entry>empl</entry>
         <entry>CarModel</entry>
         <entry>make</entry>
+        <entry>sqlDao</entry>
       </history-search>
       <history-cmd>
         <entry>action Back</entry>
@@ -1334,8 +1333,8 @@
         <entry>%s/GitLab/40 GitLab</entry>
         <entry>%s/40/30/g</entry>
         <entry>action GotoRelated</entry>
-        <entry>w</entry>
         <entry>%s/CarModel/EmployeeModel/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
