@@ -504,11 +504,11 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/application.properties" timestamp="1597347518733">
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/application.properties" timestamp="1597348326860">
         <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+        <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/tictactoe_example/src/main/java/ru/sbt/tictactoe/Heuristic.java" timestamp="1527922583740">
         <mark key="'" line="75" column="0" />
