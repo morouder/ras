@@ -680,6 +680,9 @@
         <mark key="^" line="6" column="75" />
         <mark key="." line="6" column="35" />
       </file>
+      <file name="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/models/ClientModel.java" timestamp="1597421289352">
+        <mark key="'" line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/repository/EmployeeService.java" timestamp="1597241678683">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -1151,7 +1154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="5" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="56" column="4" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
       <jump line="15" column="13" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="22" column="27" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
@@ -1251,6 +1253,7 @@
       <jump line="47" column="26" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
       <jump line="20" column="15" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
       <jump line="46" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="3" column="28" filename="$USER_HOME$/Lab/validator_jdbc/src/main/java/apl/app/vv/validator/models/ClientModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
