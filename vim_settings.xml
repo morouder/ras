@@ -114,7 +114,8 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="63" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1597419455175">
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" timestamp="1597420412309">
+        <mark key="'" line="46" column="0" />
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
@@ -406,7 +407,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Allocation.java" timestamp="1597419033843" />
       <file name="$USER_HOME$/Lab/RasDataSource/src/main/resources/uml/apl-gitlab-work.puml" timestamp="1590501453922">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="16" />
@@ -428,7 +428,7 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="/a.sql" timestamp="1597419706869">
+      <file name="/a.sql" timestamp="1597420691206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tictactoe/src/main/java/ru/sbt/tictactoe/Board.java" timestamp="1528237437329">
@@ -528,11 +528,11 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1597418921021">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="25" />
-        <mark key="^" line="29" column="34" />
-        <mark key="." line="22" column="45" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Account.java" timestamp="1597420392745">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="^" line="20" column="16" />
+        <mark key="." line="20" column="12" />
       </file>
       <file name="$USER_HOME$/Lab/rasconnpool/src/main/java/ru/sbrf/lab/OracleConfiguration.java" timestamp="1586805938935">
         <mark key="'" line="20" column="21" />
@@ -748,12 +748,11 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" timestamp="1597351523935">
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" timestamp="1597420297467">
         <mark key="'" line="11" column="22" />
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="11" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="13" column="11" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Lab/validator_jdbc/src/main/java/App.java" timestamp="1597313335791">
         <mark key="'" line="11" column="0" />
@@ -899,6 +898,9 @@
         <mark key="]" line="33" column="72" />
         <mark key="." line="33" column="72" />
         <mark key="^" line="33" column="72" />
+      </file>
+      <file name="/VLDTR_CLIENTS_V [jdbc:oracle:thin:@localhost:1521/aplcore]" timestamp="1597420160736">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/javacore/tictactoe/src/main/java/ru/sbt/tictactoe/AIPlayerMinimax.java" timestamp="1528237969957">
         <mark key="'" line="24" column="22" />
@@ -1092,12 +1094,12 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/schema.sql" timestamp="1597390963090">
-        <mark key="'" line="53" column="17" />
-        <mark key="[" line="44" column="61" />
-        <mark key="]" line="44" column="61" />
-        <mark key="^" line="44" column="61" />
-        <mark key="." line="44" column="61" />
+      <file name="$USER_HOME$/Lab/validator/backend/src/main/resources/schema.sql" timestamp="1597420462943">
+        <mark key="'" line="54" column="17" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
       </file>
       <file name="$USER_HOME$/Lab/balance/src/main/resources/application.properties" timestamp="1592517146395">
         <mark key="'" line="34" column="36" />
@@ -1149,12 +1151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/controller/EmployeeController.java" />
-      <jump line="43" column="56" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/controller/EmployeeController.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/controller/EmployeeController.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/controller/EmployeeController.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/controller/EmployeeController.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="16" column="5" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="56" column="4" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
       <jump line="15" column="13" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
@@ -1242,50 +1238,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="30" column="17" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/schema.sql" />
       <jump line="9" column="26" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
-      <jump line="20" column="7" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
       <jump line="42" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
       <jump line="11" column="22" filename="$USER_HOME$/Lab/validator/backend/src/main/resources/data.sql" />
       <jump line="53" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
       <jump line="25" column="3" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Allocation.java" />
       <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9b626457-6e97-436f-a63c-b16085f63106/console.sql" />
       <jump line="34" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="26" column="10" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="21" column="15" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="28" column="25" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="47" column="26" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="20" column="15" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/Lab/validator/backend/src/main/java/ru/sbrf/ca/apl/validator/model/Client.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IiIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>allo</text>
+        <text>account</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNYW55VG9PbmUgQEpvaW5Db2x1bW4obmFtZSA9ICJjbGllbnRJZCIpIEBKc29uQmFja1JlZmVyZW5jZQogICAgcHJpdmF0ZSBDbGllbnQgY2xpZW50Owo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">c2VsZWN0ICAqIGZyb20gQVBMX0FQUF9WVi5WTERUUl9BQ0NPVU5UUzsK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">LyoKICAgIHB1YmxpYyBTZXQ8QWNjb3VudD4gZ2V0QWNjb3VudHMoKSB7CiAgICAgICAgcmV0dXJuIGFjY291bnRzOwogICAgfQoKCiAgICBAT25lVG9NYW55CiAgICBASm9pbkNvbHVtbihuYW1lID0gIkNMSUVOVF9JRCIpCiAgICBAT3JkZXJCeQogICAgcHJpdmF0ZSBTZXQ8QWNjb3VudD4gYWNjb3VudHM7CgogICAgQE9uZVRvTWFueQogICAgQEpvaW5Db2x1bW4obmFtZSA9ICJDTElFTlRfSUQiKQogICAgQE9yZGVyQnkKICAgIHByaXZhdGUgU2V0IDxBc3NpZ21lbnQ+IGFzc2lnbWVudHM7CgogICAgQE9uZVRvTWFueQogICAgQEpvaW5Db2x1bW4obmFtZSA9ICJDTElFTlRfSUQiKQogICAgQE9yZGVyQnkKICAgIHByaXZhdGUgU2V0IDxQcm9taXNlPiBwcm9taXNlczsKCiovCiA=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEBPbmVUb01hbnkKICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiQ0xJRU5UX0lEIikKICAgIHByaXZhdGUgU2V0IDxBbGxvY2F0aW9uPiBhbGxvY2F0aW9uczsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEBPbmVUb01hbnkKICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiQ0xJRU5UX0lEIikKICAgIHByaXZhdGUgU2V0IDxQcm9taXNlPiBwcm9taXNlczsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEBPcmRlckJ5Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CnNlbGVjdAogIGdlbmVyYXRlZEFsaWFzMApmcm9tCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPbmVUb01hbnkgKG1hcHBlZEJ5ID0gImNsaWVudCIpCiAgICBwcml2YXRlIFNldCA8QWxsb2NhdGlvbj4gYWxsb2NhdGlvbnM7Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiQ0xJRU5UX0lEIikK</text>
+        <text encoding="base64">ICAgIEBPbmVUb01hbnkgKG1hcHBlZEJ5ID0gImNsaWVudCIpCiAgICBwcml2YXRlIFNldCA8QWxsb2NhdGlvbj4gYWxsb2NhdGlvbnM7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiQ0xJRU5UX0lEIikK</text>
@@ -1295,9 +1297,9 @@
       </register>
     </registers>
     <search>
-      <last-search>allo</last-search>
+      <last-search>account</last-search>
       <last-offset />
-      <last-pattern>allo</last-pattern>
+      <last-pattern>account</last-pattern>
       <last-replace>EmployeeModel</last-replace>
       <last-substitute>CarModel</last-substitute>
       <last-dir>1</last-dir>
@@ -1305,7 +1307,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parent</entry>
         <entry>build</entry>
         <entry>test</entry>
         <entry>web</entry>
@@ -1325,6 +1326,7 @@
         <entry>sqlDao</entry>
         <entry>carRepo</entry>
         <entry>allo</entry>
+        <entry>account</entry>
       </history-search>
       <history-cmd>
         <entry>action Back</entry>
